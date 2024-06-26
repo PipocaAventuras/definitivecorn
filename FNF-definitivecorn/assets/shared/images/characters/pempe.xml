@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pempe.png">
+<SubTexture name="pempe idle0000" x="3517" y="3944" width="1142" height="1662" frameX="-1269" frameY="-762" frameWidth="3565" frameHeight="3215" />
+<SubTexture name="pempe idle0001" x="5100" y="1862" width="1039" height="1843" frameX="-1321" frameY="-678" frameWidth="3565" frameHeight="3215" />
+<SubTexture name="pempe idle0002" x="0" y="2009" width="945" height="1935" frameX="-1321" frameY="-608" frameWidth="3565" frameHeight="3215" />
+<SubTexture name="pempe idle0003" x="945" y="2009" width="958" height="1920" frameX="-1307" frameY="-605" frameWidth="3565" frameHeight="3215" />
+<SubTexture name="pempe idle0004" x="945" y="2009" width="958" height="1920" frameX="-1307" frameY="-605" frameWidth="3565" frameHeight="3215" />
+<SubTexture name="pempe right0000" x="1247" y="3944" width="1250" height="1790" frameX="-1861" frameY="-594" frameWidth="3565" frameHeight="3215" />
+<SubTexture name="pempe right0001" x="2801" y="2009" width="1105" height="1913" frameX="-1737" frameY="-524" frameWidth="3565" frameHeight="3215" />
+<SubTexture name="pempe right0002" x="1903" y="2009" width="898" height="1920" frameX="-1650" frameY="-525" frameWidth="3565" frameHeight="3215" />
+<SubTexture name="pempe left0000" x="4659" y="3944" width="1394" height="1653" frameX="-533" frameY="-840" frameWidth="3565" frameHeight="3215" />
+<SubTexture name="pempe left0001" x="0" y="3944" width="1247" height="1843" frameX="-779" frameY="-653" frameWidth="3565" frameHeight="3215" />
+<SubTexture name="pempe left0002" x="5100" y="0" width="1095" height="1862" frameX="-1024" frameY="-491" frameWidth="3565" frameHeight="3215" />
+<SubTexture name="pempe up0000" x="4088" y="0" width="1012" height="1909" frameX="-1287" frameY="-139" frameWidth="3565" frameHeight="3215" />
+<SubTexture name="pempe up0001" x="3079" y="0" width="1009" height="1939" frameX="-1286" frameY="-315" frameWidth="3565" frameHeight="3215" />
+<SubTexture name="pempe up0002" x="0" y="0" width="978" height="2009" frameX="-1285" frameY="-382" frameWidth="3565" frameHeight="3215" />
+<SubTexture name="pempe down0000" x="2497" y="3944" width="1020" height="1769" frameX="-1315" frameY="-1399" frameWidth="3565" frameHeight="3215" />
+<SubTexture name="pempe down0001" x="2024" y="0" width="1055" height="1947" frameX="-1313" frameY="-1069" frameWidth="3565" frameHeight="3215" />
+<SubTexture name="pempe down0002" x="978" y="0" width="1046" height="1986" frameX="-1302" frameY="-794" frameWidth="3565" frameHeight="3215" />
+</TextureAtlas>

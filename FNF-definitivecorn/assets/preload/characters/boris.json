@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				18,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				10,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				147,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-5,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-7
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "idle-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle boris",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-2
+			],
+			"anim": "cutscene",
+			"fps": 24,
+			"name": "boris cutscene",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "subversive/boris",
+	"position": [
+		-880,
+		10
+	],
+	"healthicon": "boris",
+	"flip_x": true,
+	"healthbar_colors": [
+		82,
+		140,
+		59
+	],
+	"camera_position": [
+		-340,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

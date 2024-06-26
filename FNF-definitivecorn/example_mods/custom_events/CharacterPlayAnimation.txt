@@ -1,0 +1,4 @@
+play anims
+
+value 1: animation
+value 2: character

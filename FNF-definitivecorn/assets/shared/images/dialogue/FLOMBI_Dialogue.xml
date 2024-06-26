@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FLOMBI_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="flombi carnivore portrait0000" x="0" y="0" width="388" height="401" frameX="0" frameY="-37" frameWidth="447" frameHeight="438"/>
+	<SubTexture name="flombi carnivore portrait0001" x="388" y="0" width="388" height="401" frameX="-27" frameY="-20" frameWidth="447" frameHeight="438"/>
+	<SubTexture name="flombi carnivore portrait0002" x="776" y="0" width="388" height="402" frameX="-37" frameY="-13" frameWidth="447" frameHeight="438"/>
+	<SubTexture name="flombi carnivore portrait0003" x="1164" y="0" width="388" height="401" frameX="-44" frameY="-9" frameWidth="447" frameHeight="438"/>
+	<SubTexture name="flombi carnivore portrait0004" x="1552" y="0" width="388" height="401" frameX="-49" frameY="-6" frameWidth="447" frameHeight="438"/>
+	<SubTexture name="flombi carnivore portrait0005" x="0" y="402" width="388" height="402" frameX="-53" frameY="-3" frameWidth="447" frameHeight="438"/>
+	<SubTexture name="flombi carnivore portrait0006" x="388" y="402" width="388" height="401" frameX="-56" frameY="-2" frameWidth="447" frameHeight="438"/>
+	<SubTexture name="flombi carnivore portrait0007" x="776" y="402" width="388" height="402" frameX="-58" frameY="0" frameWidth="447" frameHeight="438"/>
+	<SubTexture name="flombi carnivore portrait0008" x="1164" y="402" width="388" height="401" frameX="-59" frameY="0" frameWidth="447" frameHeight="438"/>
+	<SubTexture name="flombi carnivore portrait0009" x="1552" y="402" width="388" height="401" frameX="-59" frameY="0" frameWidth="447" frameHeight="438"/>
+</TextureAtlas>

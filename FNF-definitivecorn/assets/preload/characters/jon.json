@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				10
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "jon down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "jon left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				68,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "jon right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				10
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "jon up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "jon idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jon",
+	"position": [
+		-800,
+		-370
+	],
+	"healthicon": "jon",
+	"flip_x": false,
+	"healthbar_colors": [
+		133,
+		59,
+		144
+	],
+	"camera_position": [
+		430,
+		330
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mugger.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down bandido0000" x="0" y="0" width="647" height="452"/>
+	<SubTexture name="down bandido0001" x="0" y="0" width="647" height="452"/>
+	<SubTexture name="down bandido0002" x="647" y="0" width="647" height="452"/>
+	<SubTexture name="down bandido0003" x="647" y="0" width="647" height="452"/>
+	<SubTexture name="down bandido0004" x="647" y="0" width="647" height="452"/>
+	<SubTexture name="down bandido0005" x="647" y="0" width="647" height="452"/>
+	<SubTexture name="down bandido0006" x="647" y="0" width="647" height="452"/>
+	<SubTexture name="down bandido0007" x="647" y="0" width="647" height="452"/>
+	<SubTexture name="down bandido0008" x="647" y="0" width="647" height="452"/>
+	<SubTexture name="down bandido0009" x="647" y="0" width="647" height="452"/>
+	<SubTexture name="idle bandido0000" x="1294" y="0" width="475" height="392"/>
+	<SubTexture name="idle bandido0001" x="1294" y="0" width="475" height="392"/>
+	<SubTexture name="idle bandido0002" x="0" y="452" width="475" height="392"/>
+	<SubTexture name="idle bandido0003" x="0" y="452" width="475" height="392"/>
+	<SubTexture name="left bandido0000" x="475" y="452" width="689" height="456"/>
+	<SubTexture name="left bandido0001" x="475" y="452" width="689" height="456"/>
+	<SubTexture name="left bandido0002" x="1164" y="452" width="689" height="456"/>
+	<SubTexture name="left bandido0003" x="1164" y="452" width="689" height="456"/>
+	<SubTexture name="left bandido0004" x="1164" y="452" width="689" height="456"/>
+	<SubTexture name="left bandido0005" x="1164" y="452" width="689" height="456"/>
+	<SubTexture name="left bandido0006" x="1164" y="452" width="689" height="456"/>
+	<SubTexture name="left bandido0007" x="1164" y="452" width="689" height="456"/>
+	<SubTexture name="left bandido0008" x="1164" y="452" width="689" height="456"/>
+	<SubTexture name="left bandido0009" x="1164" y="452" width="689" height="456"/>
+	<SubTexture name="right bandido0000" x="0" y="908" width="417" height="565" frameX="-6" frameY="-9" frameWidth="423" frameHeight="574"/>
+	<SubTexture name="right bandido0001" x="0" y="908" width="417" height="565" frameX="-6" frameY="-9" frameWidth="423" frameHeight="574"/>
+	<SubTexture name="right bandido0002" x="417" y="908" width="423" height="574"/>
+	<SubTexture name="right bandido0003" x="417" y="908" width="423" height="574"/>
+	<SubTexture name="right bandido0004" x="417" y="908" width="423" height="574"/>
+	<SubTexture name="right bandido0005" x="417" y="908" width="423" height="574"/>
+	<SubTexture name="right bandido0006" x="417" y="908" width="423" height="574"/>
+	<SubTexture name="right bandido0007" x="417" y="908" width="423" height="574"/>
+	<SubTexture name="right bandido0008" x="417" y="908" width="423" height="574"/>
+	<SubTexture name="right bandido0009" x="417" y="908" width="423" height="574"/>
+	<SubTexture name="up bandido0000" x="840" y="908" width="497" height="716"/>
+	<SubTexture name="up bandido0001" x="840" y="908" width="497" height="716"/>
+	<SubTexture name="up bandido0002" x="1337" y="908" width="497" height="699" frameX="0" frameY="-17" frameWidth="497" frameHeight="716"/>
+	<SubTexture name="up bandido0003" x="1337" y="908" width="497" height="699" frameX="0" frameY="-17" frameWidth="497" frameHeight="716"/>
+	<SubTexture name="up bandido0004" x="1337" y="908" width="497" height="699" frameX="0" frameY="-17" frameWidth="497" frameHeight="716"/>
+	<SubTexture name="up bandido0005" x="1337" y="908" width="497" height="699" frameX="0" frameY="-17" frameWidth="497" frameHeight="716"/>
+	<SubTexture name="up bandido0006" x="1337" y="908" width="497" height="699" frameX="0" frameY="-17" frameWidth="497" frameHeight="716"/>
+	<SubTexture name="up bandido0007" x="1337" y="908" width="497" height="699" frameX="0" frameY="-17" frameWidth="497" frameHeight="716"/>
+	<SubTexture name="up bandido0008" x="1337" y="908" width="497" height="699" frameX="0" frameY="-17" frameWidth="497" frameHeight="716"/>
+	<SubTexture name="up bandido0009" x="1337" y="908" width="497" height="699" frameX="0" frameY="-17" frameWidth="497" frameHeight="716"/>
+</TextureAtlas>

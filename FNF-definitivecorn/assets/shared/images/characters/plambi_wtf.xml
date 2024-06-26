@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="plambi_wtf.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="oh0000" x="0" y="0" width="453" height="663"/>
+	<SubTexture name="shoot0000" x="453" y="0" width="453" height="663" frameX="-534" frameY="-109" frameWidth="995" frameHeight="883"/>
+	<SubTexture name="shoot0001" x="453" y="0" width="453" height="663" frameX="-534" frameY="-109" frameWidth="995" frameHeight="883"/>
+	<SubTexture name="shoot0002" x="906" y="0" width="696" height="724" frameX="-299" frameY="0" frameWidth="995" frameHeight="883"/>
+	<SubTexture name="shoot0003" x="1602" y="0" width="856" height="743" frameX="-78" frameY="-15" frameWidth="995" frameHeight="883"/>
+	<SubTexture name="shoot0004" x="2458" y="0" width="808" height="504" frameX="0" frameY="-212" frameWidth="995" frameHeight="883"/>
+	<SubTexture name="shoot0005" x="3266" y="0" width="712" height="503" frameX="-54" frameY="-245" frameWidth="995" frameHeight="883"/>
+	<SubTexture name="shoot0006" x="0" y="743" width="540" height="477" frameX="-167" frameY="-282" frameWidth="995" frameHeight="883"/>
+	<SubTexture name="shoot0007" x="540" y="743" width="618" height="480" frameX="-121" frameY="-330" frameWidth="995" frameHeight="883"/>
+	<SubTexture name="shoot0008" x="1158" y="743" width="536" height="384" frameX="-137" frameY="-499" frameWidth="995" frameHeight="883"/>
+	<SubTexture name="shoot0009" x="1694" y="743" width="486" height="395" frameX="-154" frameY="-482" frameWidth="995" frameHeight="883"/>
+	<SubTexture name="shoot0010" x="2180" y="743" width="451" height="360" frameX="-162" frameY="-499" frameWidth="995" frameHeight="883"/>
+	<SubTexture name="shoot0011" x="2631" y="743" width="433" height="344" frameX="-169" frameY="-507" frameWidth="995" frameHeight="883"/>
+	<SubTexture name="shoot0012" x="3064" y="743" width="433" height="344" frameX="-169" frameY="-507" frameWidth="995" frameHeight="883"/>
+	<SubTexture name="shoot0013" x="3497" y="743" width="428" height="336" frameX="-170" frameY="-511" frameWidth="995" frameHeight="883"/>
+	<SubTexture name="shoot0014" x="0" y="1223" width="428" height="336" frameX="-170" frameY="-511" frameWidth="995" frameHeight="883"/>
+</TextureAtlas>

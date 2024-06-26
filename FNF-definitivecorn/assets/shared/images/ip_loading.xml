@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ip_loading.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="load0000" x="0" y="0" width="1280" height="721"/>
+	<SubTexture name="load0001" x="0" y="0" width="1280" height="721"/>
+	<SubTexture name="load0002" x="1280" y="0" width="1280" height="721"/>
+	<SubTexture name="load0003" x="1280" y="0" width="1280" height="721"/>
+	<SubTexture name="load0004" x="2560" y="0" width="1280" height="721"/>
+	<SubTexture name="load0005" x="2560" y="0" width="1280" height="721"/>
+	<SubTexture name="load0006" x="0" y="721" width="1280" height="721"/>
+	<SubTexture name="load0007" x="0" y="721" width="1280" height="721"/>
+	<SubTexture name="load0008" x="1280" y="721" width="1280" height="721"/>
+	<SubTexture name="load0009" x="1280" y="721" width="1280" height="721"/>
+	<SubTexture name="load0010" x="2560" y="721" width="1280" height="721"/>
+	<SubTexture name="load0011" x="2560" y="721" width="1280" height="721"/>
+	<SubTexture name="load0012" x="0" y="1442" width="1280" height="721"/>
+	<SubTexture name="load0013" x="0" y="1442" width="1280" height="721"/>
+	<SubTexture name="load0014" x="1280" y="1442" width="1280" height="721"/>
+	<SubTexture name="load0015" x="1280" y="1442" width="1280" height="721"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jon mad.png">
+<SubTexture name="jon mad idle0000" x="2264" y="0" width="635" height="996" frameX="-578" frameY="-330" frameWidth="2040" frameHeight="1692" />
+<SubTexture name="jon mad idle0001" x="1031" y="1058" width="509" height="1004" frameX="-717" frameY="-322" frameWidth="2040" frameHeight="1692" />
+<SubTexture name="jon mad idle0002" x="515" y="1058" width="516" height="1012" frameX="-786" frameY="-314" frameWidth="2040" frameHeight="1692" />
+<SubTexture name="jon mad idle0003" x="515" y="1058" width="516" height="1012" frameX="-786" frameY="-314" frameWidth="2040" frameHeight="1692" />
+<SubTexture name="jon mad left0000" x="678" y="2072" width="739" height="956" frameX="-478" frameY="-376" frameWidth="2040" frameHeight="1692" />
+<SubTexture name="jon mad left0001" x="2054" y="2072" width="713" height="948" frameX="-544" frameY="-400" frameWidth="2040" frameHeight="1692" />
+<SubTexture name="jon mad left0002" x="1417" y="2072" width="637" height="949" frameX="-607" frameY="-400" frameWidth="2040" frameHeight="1692" />
+<SubTexture name="jon mad right0000" x="2899" y="0" width="689" height="988" frameX="-970" frameY="-358" frameWidth="2040" frameHeight="1692" />
+<SubTexture name="jon mad right0001" x="1540" y="1058" width="594" height="998" frameX="-964" frameY="-360" frameWidth="2040" frameHeight="1692" />
+<SubTexture name="jon mad right0002" x="2899" y="988" width="529" height="988" frameX="-953" frameY="-356" frameWidth="2040" frameHeight="1692" />
+<SubTexture name="jon mad up0000" x="0" y="0" width="537" height="1058" frameX="-822" frameY="-286" frameWidth="2040" frameHeight="1692" />
+<SubTexture name="jon mad up0001" x="1569" y="0" width="695" height="1016" frameX="-824" frameY="-328" frameWidth="2040" frameHeight="1692" />
+<SubTexture name="jon mad up0002" x="0" y="2072" width="678" height="972" frameX="-848" frameY="-373" frameWidth="2040" frameHeight="1692" />
+<SubTexture name="jon mad down0000" x="537" y="0" width="515" height="1037" frameX="-842" frameY="-338" frameWidth="2040" frameHeight="1692" />
+<SubTexture name="jon mad down0001" x="0" y="1058" width="515" height="1014" frameX="-846" frameY="-346" frameWidth="2040" frameHeight="1692" />
+<SubTexture name="jon mad down0002" x="1052" y="0" width="517" height="1019" frameX="-851" frameY="-331" frameWidth="2040" frameHeight="1692" />
+</TextureAtlas>

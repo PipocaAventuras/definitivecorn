@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				164,
+				150
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				180,
+				-126
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				448,
+				-28
+			],
+			"anim": "singLEFT",
+			"fps": 15,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				207,
+				33
+			],
+			"anim": "singRIGHT",
+			"fps": 15,
+			"name": "left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "nomeindefinido/marcelo",
+	"position": [
+		200,
+		510
+	],
+	"healthicon": "marcellountitled",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		38,
+		38
+	],
+	"camera_position": [
+		-380,
+		-92
+	],
+	"sing_duration": 6.1,
+	"scale": 2.8
+}

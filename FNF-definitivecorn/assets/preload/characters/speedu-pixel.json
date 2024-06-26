@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-42
+			],
+			"anim": "singRIGHT",
+			"fps": 13,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-32
+			],
+			"anim": "singUP",
+			"fps": 13,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				145,
+				-46
+			],
+			"anim": "singLEFT",
+			"fps": 13,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-42
+			],
+			"anim": "singDOWN",
+			"fps": 13,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				80,
+				-20
+			],
+			"loop": true,
+			"fps": 13,
+			"anim": "hey",
+			"indices": [],
+			"name": "erm"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 13,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/speedu",
+	"position": [
+		180,
+		420
+	],
+	"healthicon": "speedu",
+	"flip_x": false,
+	"healthbar_colors": [
+		33,
+		69,
+		170
+	],
+	"camera_position": [
+		-580,
+		-400
+	],
+	"sing_duration": 13,
+	"scale": 9.89999999999998
+}

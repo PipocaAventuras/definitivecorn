@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-10,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down phantasm0"
+		},
+		{
+			"offsets": [
+				-10,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up phantasm0"
+		},
+		{
+			"offsets": [
+				-11,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "down alt"
+		},
+		{
+			"offsets": [
+				-13,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "up alt"
+		},
+		{
+			"offsets": [
+				48,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "right alt"
+		},
+		{
+			"offsets": [
+				-11,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "left alt"
+		},
+		{
+			"offsets": [
+				-10,
+				-16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "left phantasm0"
+		},
+		{
+			"offsets": [
+				2,
+				16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "right phantasm0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dave-frog-phantasm",
+	"position": [
+		220,
+		350
+	],
+	"healthicon": "frog",
+	"flip_x": false,
+	"healthbar_colors": [
+		23,
+		120,
+		30
+	],
+	"camera_position": [
+		70,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,112 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 13,
+			"name": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 13,
+			"name": "idle",
+			"indices": [
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-125,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 13,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-269,
+				237
+			],
+			"anim": "singUP",
+			"fps": 13,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				330,
+				140
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-367,
+				179
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "nomeindefinido/manbi",
+	"position": [
+		80,
+		380
+	],
+	"healthicon": "manbi",
+	"flip_x": false,
+	"healthbar_colors": [
+		88,
+		181,
+		97
+	],
+	"camera_position": [
+		190,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 2.8
+}

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="carafinoarrotando.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cara fino arrotando 0.png" x="0" y="0" width="1416" height="672"/>
+	<SubTexture name="cara fino arrotando 1.png" x="1416" y="0" width="1416" height="672"/>
+	<SubTexture name="cara fino arrotando 10.png" x="2832" y="0" width="1416" height="672"/>
+	<SubTexture name="cara fino arrotando 11.png" x="4248" y="0" width="1416" height="672"/>
+	<SubTexture name="cara fino arrotando 12.png" x="5664" y="0" width="1416" height="672"/>
+	<SubTexture name="cara fino arrotando 13.png" x="0" y="672" width="1416" height="672"/>
+	<SubTexture name="cara fino arrotando 14.png" x="1416" y="672" width="1416" height="672"/>
+	<SubTexture name="cara fino arrotando 15.png" x="2832" y="672" width="1416" height="672"/>
+	<SubTexture name="cara fino arrotando 16.png" x="4248" y="672" width="1416" height="672"/>
+	<SubTexture name="cara fino arrotando 17.png" x="5664" y="672" width="1416" height="672"/>
+	<SubTexture name="cara fino arrotando 2.png" x="0" y="1344" width="1416" height="672"/>
+	<SubTexture name="cara fino arrotando 3.png" x="1416" y="1344" width="1416" height="672"/>
+	<SubTexture name="cara fino arrotando 4.png" x="2832" y="1344" width="1416" height="672"/>
+	<SubTexture name="cara fino arrotando 5.png" x="4248" y="1344" width="1416" height="672"/>
+	<SubTexture name="cara fino arrotando 6.png" x="5664" y="1344" width="1416" height="672"/>
+	<SubTexture name="cara fino arrotando 7.png" x="0" y="2016" width="1416" height="672"/>
+	<SubTexture name="cara fino arrotando 8.png" x="1416" y="2016" width="1416" height="672"/>
+	<SubTexture name="cara fino arrotando 9.png" x="2832" y="2016" width="1416" height="672"/>
+	<SubTexture name="cara fino caindo saxofone 0.png" x="4248" y="2016" width="1416" height="672"/>
+	<SubTexture name="cara fino caindo saxofone 1.png" x="5664" y="2016" width="1416" height="672"/>
+	<SubTexture name="cara fino caindo saxofone 10.png" x="0" y="2688" width="1416" height="672"/>
+	<SubTexture name="cara fino caindo saxofone 2.png" x="1416" y="2688" width="1416" height="672"/>
+	<SubTexture name="cara fino caindo saxofone 3.png" x="2832" y="2688" width="1416" height="672"/>
+	<SubTexture name="cara fino caindo saxofone 4.png" x="4248" y="2688" width="1416" height="672"/>
+	<SubTexture name="cara fino caindo saxofone 5.png" x="5664" y="2688" width="1416" height="672"/>
+	<SubTexture name="cara fino caindo saxofone 6.png" x="0" y="3360" width="1416" height="672"/>
+	<SubTexture name="cara fino caindo saxofone 7.png" x="1416" y="3360" width="1416" height="672"/>
+	<SubTexture name="cara fino caindo saxofone 8.png" x="2832" y="3360" width="1416" height="672"/>
+	<SubTexture name="cara fino caindo saxofone 9.png" x="4248" y="3360" width="1416" height="672"/>
+	<SubTexture name="cara fino musicando 0.png" x="5664" y="3360" width="1416" height="672"/>
+	<SubTexture name="cara fino musicando 1.png" x="0" y="4032" width="1416" height="672"/>
+	<SubTexture name="cara fino musicando 2.png" x="1416" y="4032" width="1416" height="672"/>
+	<SubTexture name="cara fino musicando 3.png" x="2832" y="4032" width="1416" height="672"/>
+	<SubTexture name="cara fino musicando 4.png" x="4248" y="4032" width="1416" height="672"/>
+	<SubTexture name="cara fino musicando 5.png" x="5664" y="3360" width="1416" height="672"/>
+</TextureAtlas>

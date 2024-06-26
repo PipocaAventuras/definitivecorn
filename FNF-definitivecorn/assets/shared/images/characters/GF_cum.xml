@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf kawai.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf dancing0000" x="0" y="0" width="520" height="622" frameX="0" frameY="-6" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="gf dancing0001" x="0" y="0" width="520" height="622" frameX="0" frameY="-6" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="gf dancing0002" x="520" y="0" width="519" height="615" frameX="-12" frameY="-11" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="gf dancing0003" x="520" y="0" width="519" height="615" frameX="-12" frameY="-11" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="gf dancing0004" x="1039" y="0" width="483" height="627" frameX="-50" frameY="0" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="gf dancing0005" x="1039" y="0" width="483" height="627" frameX="-50" frameY="0" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="gf dancing0006" x="1522" y="0" width="480" height="626" frameX="-53" frameY="-1" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="gf dancing0007" x="1522" y="0" width="480" height="626" frameX="-53" frameY="-1" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="gf dancing0008" x="0" y="627" width="482" height="626" frameX="-51" frameY="-1" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="gf dancing0009" x="0" y="627" width="482" height="626" frameX="-51" frameY="-1" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="gf dancing0010" x="0" y="627" width="482" height="626" frameX="-51" frameY="-1" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="gf dancing0011" x="0" y="627" width="482" height="626" frameX="-51" frameY="-1" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="gf dancing0012" x="0" y="627" width="482" height="626" frameX="-51" frameY="-1" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="gf dancing0013" x="0" y="627" width="482" height="626" frameX="-51" frameY="-1" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="gf dancing0014" x="482" y="627" width="483" height="618" frameX="-82" frameY="-11" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="gf dancing0015" x="482" y="627" width="483" height="618" frameX="-82" frameY="-11" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="gf dancing0016" x="965" y="627" width="467" height="619" frameX="-69" frameY="-8" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="gf dancing0017" x="965" y="627" width="467" height="619" frameX="-69" frameY="-8" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="gf dancing0018" x="1432" y="627" width="479" height="625" frameX="-54" frameY="-2" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="gf dancing0019" x="1432" y="627" width="479" height="625" frameX="-54" frameY="-2" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="gf dancing0020" x="0" y="1253" width="484" height="625" frameX="-49" frameY="-2" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="gf dancing0021" x="0" y="1253" width="484" height="625" frameX="-49" frameY="-2" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="gf dancing0022" x="484" y="1253" width="482" height="626" frameX="-51" frameY="-1" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="gf dancing0023" x="484" y="1253" width="482" height="626" frameX="-51" frameY="-1" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="gf dancing0024" x="484" y="1253" width="482" height="626" frameX="-51" frameY="-1" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="gf dancing0025" x="484" y="1253" width="482" height="626" frameX="-51" frameY="-1" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="gf dancing0026" x="484" y="1253" width="482" height="626" frameX="-51" frameY="-1" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="gf dancing0027" x="484" y="1253" width="482" height="626" frameX="-51" frameY="-1" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="gf dancing0028" x="484" y="1253" width="482" height="626" frameX="-51" frameY="-1" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="gf dancing0029" x="484" y="1253" width="482" height="626" frameX="-51" frameY="-1" frameWidth="565" frameHeight="629"/>
+	<SubTexture name="heya0000" x="966" y="1253" width="489" height="628" frameX="0" frameY="0" frameWidth="491" frameHeight="628"/>
+	<SubTexture name="heya0001" x="966" y="1253" width="489" height="628" frameX="0" frameY="0" frameWidth="491" frameHeight="628"/>
+	<SubTexture name="heya0002" x="1455" y="1253" width="484" height="626" frameX="-7" frameY="-2" frameWidth="491" frameHeight="628"/>
+	<SubTexture name="heya0003" x="1455" y="1253" width="484" height="626" frameX="-7" frameY="-2" frameWidth="491" frameHeight="628"/>
+	<SubTexture name="heya0004" x="1455" y="1253" width="484" height="626" frameX="-7" frameY="-2" frameWidth="491" frameHeight="628"/>
+	<SubTexture name="heya0005" x="1455" y="1253" width="484" height="626" frameX="-7" frameY="-2" frameWidth="491" frameHeight="628"/>
+	<SubTexture name="heya0006" x="1455" y="1253" width="484" height="626" frameX="-7" frameY="-2" frameWidth="491" frameHeight="628"/>
+	<SubTexture name="heya0007" x="1455" y="1253" width="484" height="626" frameX="-7" frameY="-2" frameWidth="491" frameHeight="628"/>
+	<SubTexture name="heya0008" x="1455" y="1253" width="484" height="626" frameX="-7" frameY="-2" frameWidth="491" frameHeight="628"/>
+	<SubTexture name="heya0009" x="1455" y="1253" width="484" height="626" frameX="-7" frameY="-2" frameWidth="491" frameHeight="628"/>
+	<SubTexture name="heya0010" x="1455" y="1253" width="484" height="626" frameX="-7" frameY="-2" frameWidth="491" frameHeight="628"/>
+	<SubTexture name="heya0011" x="1455" y="1253" width="484" height="626" frameX="-7" frameY="-2" frameWidth="491" frameHeight="628"/>
+	<SubTexture name="heya0012" x="1455" y="1253" width="484" height="626" frameX="-7" frameY="-2" frameWidth="491" frameHeight="628"/>
+	<SubTexture name="heya0013" x="1455" y="1253" width="484" height="626" frameX="-7" frameY="-2" frameWidth="491" frameHeight="628"/>
+	<SubTexture name="heya0014" x="1455" y="1253" width="484" height="626" frameX="-7" frameY="-2" frameWidth="491" frameHeight="628"/>
+</TextureAtlas>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf blocked & maze portrait0000" x="0" y="0" width="480" height="270" frameX="-14" frameY="-4" frameWidth="494" frameHeight="274"/>
+	<SubTexture name="bf blocked & maze portrait0001" x="480" y="0" width="480" height="270" frameX="-8" frameY="-2" frameWidth="494" frameHeight="274"/>
+	<SubTexture name="bf blocked & maze portrait0002" x="960" y="0" width="480" height="270" frameX="-5" frameY="-1" frameWidth="494" frameHeight="274"/>
+	<SubTexture name="bf blocked & maze portrait0003" x="1440" y="0" width="480" height="270" frameX="-4" frameY="-1" frameWidth="494" frameHeight="274"/>
+	<SubTexture name="bf blocked & maze portrait0004" x="1920" y="0" width="480" height="270" frameX="-2" frameY="0" frameWidth="494" frameHeight="274"/>
+	<SubTexture name="bf blocked & maze portrait0005" x="2400" y="0" width="480" height="270" frameX="-1" frameY="0" frameWidth="494" frameHeight="274"/>
+	<SubTexture name="bf blocked & maze portrait0006" x="2880" y="0" width="480" height="270" frameX="-1" frameY="0" frameWidth="494" frameHeight="274"/>
+	<SubTexture name="bf blocked & maze portrait0007" x="3360" y="0" width="480" height="270" frameX="0" frameY="0" frameWidth="494" frameHeight="274"/>
+	<SubTexture name="bf blocked & maze portrait0008" x="0" y="270" width="480" height="270" frameX="0" frameY="0" frameWidth="494" frameHeight="274"/>
+	<SubTexture name="bf blocked & maze portrait0009" x="480" y="270" width="480" height="270" frameX="0" frameY="0" frameWidth="494" frameHeight="274"/>
+	<SubTexture name="bf furiosity & corntheft portrait0000" x="0" y="0" width="480" height="270" frameX="-15" frameY="-4" frameWidth="494" frameHeight="274"/>
+	<SubTexture name="bf furiosity & corntheft portrait0001" x="960" y="270" width="481" height="271" frameX="-8" frameY="-2" frameWidth="496" frameHeight="275"/>
+	<SubTexture name="bf furiosity & corntheft portrait0002" x="1441" y="270" width="481" height="271" frameX="-6" frameY="-1" frameWidth="496" frameHeight="275"/>
+	<SubTexture name="bf furiosity & corntheft portrait0003" x="1922" y="270" width="481" height="271" frameX="-4" frameY="-1" frameWidth="496" frameHeight="275"/>
+	<SubTexture name="bf furiosity & corntheft portrait0004" x="2403" y="270" width="481" height="271" frameX="-3" frameY="0" frameWidth="496" frameHeight="275"/>
+	<SubTexture name="bf furiosity & corntheft portrait0005" x="2884" y="270" width="481" height="271" frameX="-2" frameY="0" frameWidth="496" frameHeight="275"/>
+	<SubTexture name="bf furiosity & corntheft portrait0006" x="3365" y="270" width="481" height="271" frameX="-1" frameY="0" frameWidth="496" frameHeight="275"/>
+	<SubTexture name="bf furiosity & corntheft portrait0007" x="0" y="541" width="481" height="271" frameX="-1" frameY="0" frameWidth="496" frameHeight="275"/>
+	<SubTexture name="bf furiosity & corntheft portrait0008" x="481" y="541" width="481" height="271" frameX="0" frameY="0" frameWidth="496" frameHeight="275"/>
+	<SubTexture name="bf furiosity & corntheft portrait0009" x="962" y="541" width="481" height="270" frameX="0" frameY="0" frameWidth="496" frameHeight="275"/>
+	<SubTexture name="bf house portrait0000" x="1443" y="541" width="481" height="271" frameX="-14" frameY="-4" frameWidth="495" frameHeight="275"/>
+	<SubTexture name="bf house portrait0001" x="1924" y="541" width="481" height="271" frameX="-7" frameY="-1" frameWidth="495" frameHeight="275"/>
+	<SubTexture name="bf house portrait0002" x="2405" y="541" width="480" height="271" frameX="-5" frameY="0" frameWidth="495" frameHeight="275"/>
+	<SubTexture name="bf house portrait0003" x="2885" y="541" width="480" height="271" frameX="-3" frameY="0" frameWidth="495" frameHeight="275"/>
+	<SubTexture name="bf house portrait0004" x="3365" y="541" width="480" height="270" frameX="-2" frameY="0" frameWidth="495" frameHeight="275"/>
+	<SubTexture name="bf house portrait0005" x="0" y="812" width="480" height="270" frameX="-1" frameY="0" frameWidth="495" frameHeight="275"/>
+	<SubTexture name="bf house portrait0006" x="480" y="812" width="480" height="270" frameX="0" frameY="0" frameWidth="495" frameHeight="275"/>
+	<SubTexture name="bf house portrait0007" x="960" y="812" width="480" height="270" frameX="0" frameY="0" frameWidth="495" frameHeight="275"/>
+	<SubTexture name="bf house portrait0008" x="1440" y="812" width="480" height="270" frameX="0" frameY="0" frameWidth="495" frameHeight="275"/>
+	<SubTexture name="bf house portrait0009" x="1920" y="812" width="480" height="270" frameX="0" frameY="0" frameWidth="495" frameHeight="275"/>
+	<SubTexture name="bf insanity & splitathon portrait0000" x="0" y="0" width="480" height="270" frameX="-14" frameY="-5" frameWidth="494" frameHeight="274"/>
+	<SubTexture name="bf insanity & splitathon portrait0001" x="2400" y="812" width="480" height="271" frameX="-8" frameY="-2" frameWidth="495" frameHeight="276"/>
+	<SubTexture name="bf insanity & splitathon portrait0002" x="2880" y="812" width="481" height="271" frameX="-5" frameY="-2" frameWidth="495" frameHeight="276"/>
+	<SubTexture name="bf insanity & splitathon portrait0003" x="3361" y="812" width="481" height="271" frameX="-3" frameY="-1" frameWidth="495" frameHeight="276"/>
+	<SubTexture name="bf insanity & splitathon portrait0004" x="0" y="1083" width="481" height="271" frameX="-2" frameY="-1" frameWidth="495" frameHeight="276"/>
+	<SubTexture name="bf insanity & splitathon portrait0005" x="481" y="1083" width="481" height="271" frameX="-1" frameY="0" frameWidth="495" frameHeight="276"/>
+	<SubTexture name="bf insanity & splitathon portrait0006" x="962" y="1083" width="481" height="271" frameX="0" frameY="0" frameWidth="495" frameHeight="276"/>
+	<SubTexture name="bf insanity & splitathon portrait0007" x="1443" y="1083" width="481" height="271" frameX="0" frameY="0" frameWidth="495" frameHeight="276"/>
+	<SubTexture name="bf insanity & splitathon portrait0008" x="1924" y="1083" width="481" height="271" frameX="0" frameY="0" frameWidth="495" frameHeight="276"/>
+	<SubTexture name="bf insanity & splitathon portrait0009" x="2405" y="1083" width="481" height="271" frameX="0" frameY="0" frameWidth="495" frameHeight="276"/>
+</TextureAtlas>

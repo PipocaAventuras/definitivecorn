@@ -1,0 +1,118 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-439,
+				-257
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": [
+				3,
+				3,
+				2,
+				2,
+				1,
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-436,
+				-210
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": [
+				3,
+				3,
+				2,
+				2,
+				1,
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-429,
+				-110
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "Idle",
+			"indices": [
+				5,
+				4,
+				3,
+				2,
+				1
+			]
+		},
+		{
+			"offsets": [
+				-325,
+				-211
+			],
+			"indices": [
+				3,
+				3,
+				2,
+				2,
+				1,
+				1,
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-536,
+				-134
+			],
+			"indices": [
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rock",
+	"position": [
+		-460,
+		-230
+	],
+	"healthicon": "rock",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		85,
+		204
+	],
+	"camera_position": [
+		-210,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

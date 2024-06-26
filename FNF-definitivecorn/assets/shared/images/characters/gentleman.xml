@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="carafino.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cara fino baixo frame 0.png" x="0" y="0" width="1416" height="672"/>
+	<SubTexture name="cara fino baixo frame 1.png" x="1416" y="0" width="1416" height="672"/>
+	<SubTexture name="cara fino baixo frame 2.png" x="2832" y="0" width="1416" height="672"/>
+	<SubTexture name="cara fino baixo frame 3.png" x="4248" y="0" width="1416" height="672"/>
+	<SubTexture name="cara fino baixo frame 4.png" x="5664" y="0" width="1416" height="672"/>
+	<SubTexture name="cara fino baixo frame 5.png" x="5664" y="0" width="1416" height="672"/>
+	<SubTexture name="cara fino baixo frame 6.png" x="0" y="672" width="1416" height="672"/>
+	<SubTexture name="cara fino cima frame 0.png" x="1416" y="672" width="1416" height="672"/>
+	<SubTexture name="cara fino cima frame 1.png" x="2832" y="672" width="1416" height="672"/>
+	<SubTexture name="cara fino cima frame 2.png" x="4248" y="672" width="1416" height="672"/>
+	<SubTexture name="cara fino cima frame 3.png" x="5664" y="672" width="1416" height="672"/>
+	<SubTexture name="cara fino cima frame 4.png" x="0" y="1344" width="1416" height="672"/>
+	<SubTexture name="cara fino cima frame 5.png" x="1416" y="1344" width="1416" height="672"/>
+	<SubTexture name="cara fino cima frame 6.png" x="2832" y="1344" width="1416" height="672"/>
+	<SubTexture name="cara fino direita frame 0.png" x="4248" y="1344" width="1416" height="672"/>
+	<SubTexture name="cara fino direita frame 1.png" x="5664" y="1344" width="1416" height="672"/>
+	<SubTexture name="cara fino direita frame 2.png" x="0" y="2016" width="1416" height="672"/>
+	<SubTexture name="cara fino direita frame 3.png" x="1416" y="2016" width="1416" height="672"/>
+	<SubTexture name="cara fino direita frame 4.png" x="2832" y="2016" width="1416" height="672"/>
+	<SubTexture name="cara fino direita frame 5.png" x="4248" y="2016" width="1416" height="672"/>
+	<SubTexture name="cara fino direita frame 6.png" x="5664" y="2016" width="1416" height="672"/>
+	<SubTexture name="cara fino esquerda frame 0.png" x="0" y="2688" width="1416" height="672"/>
+	<SubTexture name="cara fino esquerda frame 1.png" x="1416" y="2688" width="1416" height="672"/>
+	<SubTexture name="cara fino esquerda frame 2.png" x="2832" y="2688" width="1416" height="672"/>
+	<SubTexture name="cara fino esquerda frame 3.png" x="4248" y="2688" width="1416" height="672"/>
+	<SubTexture name="cara fino esquerda frame 4.png" x="5664" y="2688" width="1416" height="672"/>
+	<SubTexture name="cara fino esquerda frame 5.png" x="0" y="3360" width="1416" height="672"/>
+	<SubTexture name="cara fino esquerda frame 6.png" x="1416" y="3360" width="1416" height="672"/>
+	<SubTexture name="cara fino idle frame 0.png" x="2832" y="3360" width="1416" height="672"/>
+	<SubTexture name="cara fino idle frame 1.png" x="4248" y="3360" width="1416" height="672"/>
+	<SubTexture name="cara fino idle frame 2.png" x="5664" y="3360" width="1416" height="672"/>
+	<SubTexture name="cara fino idle frame 3.png" x="0" y="4032" width="1416" height="672"/>
+	<SubTexture name="cara fino idle frame 4.png" x="1416" y="4032" width="1416" height="672"/>
+	<SubTexture name="cara fino idle frame 5.png" x="2832" y="4032" width="1416" height="672"/>
+	<SubTexture name="cara fino idle frame 6.png" x="4248" y="4032" width="1416" height="672"/>
+</TextureAtlas>

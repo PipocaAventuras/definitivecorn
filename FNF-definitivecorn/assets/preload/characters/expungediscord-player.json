@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "god idle"
+		},
+		{
+			"offsets": [
+				-35,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "god down"
+		},
+		{
+			"offsets": [
+				-55,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "god up"
+		},
+		{
+			"offsets": [
+				128,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "god right"
+		},
+		{
+			"offsets": [
+				55,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "god left"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/expungedbutemoji",
+	"position": [
+		160,
+		480
+	],
+	"healthicon": "expungedemoji",
+	"flip_x": false,
+	"healthbar_colors": [
+		231,
+		8,
+		233
+	],
+	"camera_position": [
+		20,
+		53
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

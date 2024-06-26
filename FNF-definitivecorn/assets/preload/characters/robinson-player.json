@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				4,
+				4,
+				3,
+				3,
+				2,
+				2,
+				1,
+				1
+			],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-260
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": [
+				4,
+				4,
+				3,
+				2,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-352
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": [
+				4,
+				4,
+				3,
+				2,
+				1
+			]
+		},
+		{
+			"offsets": [
+				101,
+				-160
+			],
+			"indices": [
+				4,
+				4,
+				3,
+				2,
+				1
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-30,
+				-73
+			],
+			"indices": [
+				4,
+				4,
+				3,
+				2,
+				1
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "left"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Reberin",
+	"position": [
+		170,
+		130
+	],
+	"healthicon": "robinson",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		100,
+		240
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

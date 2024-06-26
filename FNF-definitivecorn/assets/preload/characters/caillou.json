@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				254,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-37
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				123,
+				10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				-47
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-564,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "idle-alt"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle caillou"
+		},
+		{
+			"offsets": [
+				-3,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cutscene",
+			"indices": [],
+			"name": "caillou cutscene"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-5
+			],
+			"anim": "idle-alt2",
+			"fps": 24,
+			"name": "idle-alt",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "subversive/caillou",
+	"position": [
+		440,
+		80
+	],
+	"healthicon": "caillou",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		212,
+		84
+	],
+	"camera_position": [
+		-350,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf blocked portrait0000" x="0" y="0" width="480" height="270" frameX="-20" frameY="-7" frameWidth="500" frameHeight="277"/>
+	<SubTexture name="gf blocked portrait0001" x="480" y="0" width="480" height="270" frameX="-11" frameY="-4" frameWidth="500" frameHeight="277"/>
+	<SubTexture name="gf blocked portrait0002" x="960" y="0" width="480" height="270" frameX="-8" frameY="-3" frameWidth="500" frameHeight="277"/>
+	<SubTexture name="gf blocked portrait0003" x="1440" y="0" width="480" height="270" frameX="-6" frameY="-2" frameWidth="500" frameHeight="277"/>
+	<SubTexture name="gf blocked portrait0004" x="1920" y="0" width="480" height="270" frameX="-4" frameY="-1" frameWidth="500" frameHeight="277"/>
+	<SubTexture name="gf blocked portrait0005" x="2400" y="0" width="480" height="270" frameX="-3" frameY="-1" frameWidth="500" frameHeight="277"/>
+	<SubTexture name="gf blocked portrait0006" x="2880" y="0" width="480" height="270" frameX="-2" frameY="-1" frameWidth="500" frameHeight="277"/>
+	<SubTexture name="gf blocked portrait0007" x="3360" y="0" width="480" height="270" frameX="-1" frameY="0" frameWidth="500" frameHeight="277"/>
+	<SubTexture name="gf blocked portrait0008" x="0" y="270" width="480" height="270" frameX="-1" frameY="0" frameWidth="500" frameHeight="277"/>
+	<SubTexture name="gf blocked portrait0009" x="480" y="270" width="480" height="270" frameX="0" frameY="0" frameWidth="500" frameHeight="277"/>
+	<SubTexture name="gf corntheft portrait0000" x="0" y="0" width="480" height="270" frameX="-19" frameY="-7" frameWidth="500" frameHeight="277"/>
+	<SubTexture name="gf corntheft portrait0001" x="960" y="270" width="481" height="270" frameX="-10" frameY="-4" frameWidth="500" frameHeight="277"/>
+	<SubTexture name="gf corntheft portrait0002" x="1441" y="270" width="480" height="270" frameX="-8" frameY="-3" frameWidth="500" frameHeight="277"/>
+	<SubTexture name="gf corntheft portrait0003" x="1921" y="270" width="480" height="270" frameX="-5" frameY="-2" frameWidth="500" frameHeight="277"/>
+	<SubTexture name="gf corntheft portrait0004" x="2401" y="270" width="480" height="270" frameX="-3" frameY="-1" frameWidth="500" frameHeight="277"/>
+	<SubTexture name="gf corntheft portrait0005" x="2881" y="270" width="480" height="270" frameX="-2" frameY="-1" frameWidth="500" frameHeight="277"/>
+	<SubTexture name="gf corntheft portrait0006" x="3361" y="270" width="480" height="270" frameX="-1" frameY="-1" frameWidth="500" frameHeight="277"/>
+	<SubTexture name="gf corntheft portrait0007" x="0" y="540" width="480" height="270" frameX="-1" frameY="0" frameWidth="500" frameHeight="277"/>
+	<SubTexture name="gf corntheft portrait0008" x="480" y="540" width="480" height="270" frameX="0" frameY="0" frameWidth="500" frameHeight="277"/>
+	<SubTexture name="gf corntheft portrait0009" x="960" y="540" width="480" height="270" frameX="0" frameY="0" frameWidth="500" frameHeight="277"/>
+	<SubTexture name="gf maze portrait0000" x="1440" y="540" width="481" height="271" frameX="-20" frameY="-7" frameWidth="501" frameHeight="278"/>
+	<SubTexture name="gf maze portrait0001" x="1921" y="540" width="481" height="271" frameX="-11" frameY="-3" frameWidth="501" frameHeight="278"/>
+	<SubTexture name="gf maze portrait0002" x="2402" y="540" width="481" height="271" frameX="-7" frameY="-2" frameWidth="501" frameHeight="278"/>
+	<SubTexture name="gf maze portrait0003" x="2883" y="540" width="481" height="271" frameX="-4" frameY="-1" frameWidth="501" frameHeight="278"/>
+	<SubTexture name="gf maze portrait0004" x="3364" y="540" width="481" height="271" frameX="-3" frameY="0" frameWidth="501" frameHeight="278"/>
+	<SubTexture name="gf maze portrait0005" x="0" y="811" width="481" height="271" frameX="-2" frameY="0" frameWidth="501" frameHeight="278"/>
+	<SubTexture name="gf maze portrait0006" x="481" y="811" width="481" height="271" frameX="-1" frameY="0" frameWidth="501" frameHeight="278"/>
+	<SubTexture name="gf maze portrait0007" x="962" y="811" width="481" height="271" frameX="-1" frameY="0" frameWidth="501" frameHeight="278"/>
+	<SubTexture name="gf maze portrait0008" x="1443" y="811" width="480" height="270" frameX="-1" frameY="0" frameWidth="501" frameHeight="278"/>
+	<SubTexture name="gf maze portrait0009" x="1443" y="811" width="480" height="270" frameX="0" frameY="0" frameWidth="501" frameHeight="278"/>
+	<SubTexture name="gf splitathon portrait0000" x="1923" y="811" width="481" height="271" frameX="-19" frameY="-7" frameWidth="500" frameHeight="278"/>
+	<SubTexture name="gf splitathon portrait0001" x="2404" y="811" width="481" height="271" frameX="-10" frameY="-4" frameWidth="500" frameHeight="278"/>
+	<SubTexture name="gf splitathon portrait0002" x="2885" y="811" width="481" height="271" frameX="-7" frameY="-2" frameWidth="500" frameHeight="278"/>
+	<SubTexture name="gf splitathon portrait0003" x="3366" y="811" width="481" height="271" frameX="-4" frameY="-1" frameWidth="500" frameHeight="278"/>
+	<SubTexture name="gf splitathon portrait0004" x="0" y="1082" width="481" height="271" frameX="-3" frameY="-1" frameWidth="500" frameHeight="278"/>
+	<SubTexture name="gf splitathon portrait0005" x="481" y="1082" width="481" height="271" frameX="-2" frameY="0" frameWidth="500" frameHeight="278"/>
+	<SubTexture name="gf splitathon portrait0006" x="962" y="1082" width="481" height="271" frameX="-1" frameY="0" frameWidth="500" frameHeight="278"/>
+	<SubTexture name="gf splitathon portrait0007" x="1443" y="1082" width="481" height="271" frameX="0" frameY="0" frameWidth="500" frameHeight="278"/>
+	<SubTexture name="gf splitathon portrait0008" x="1924" y="1082" width="481" height="271" frameX="0" frameY="0" frameWidth="500" frameHeight="278"/>
+	<SubTexture name="gf splitathon portrait0009" x="2405" y="1082" width="480" height="270" frameX="0" frameY="0" frameWidth="500" frameHeight="278"/>
+</TextureAtlas>

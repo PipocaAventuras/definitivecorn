@@ -1,0 +1,524 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf_corno (1).png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dead spike 0000" x="0" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0001" x="402" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0002" x="402" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0003" x="804" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0004" x="804" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0005" x="1206" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0006" x="1206" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0007" x="1608" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0008" x="1608" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0009" x="1608" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0010" x="2010" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0011" x="2010" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0012" x="1608" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0013" x="1608" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0014" x="1608" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0015" x="1608" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0016" x="1608" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0017" x="0" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0018" x="402" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0019" x="402" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0020" x="804" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0021" x="804" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0022" x="1206" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0023" x="1206" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0024" x="1608" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0025" x="1608" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0026" x="1608" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0027" x="1608" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0028" x="1608" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0029" x="1608" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0030" x="1608" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0031" x="1608" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0032" x="1608" y="0" width="402" height="416"/>
+	<SubTexture name="dead spike 0033" x="2010" y="0" width="402" height="416"/>
+	<SubTexture name="spike HEY0000" x="2412" y="0" width="376" height="423" frameX="0" frameY="-3" frameWidth="376" frameHeight="428"/>
+	<SubTexture name="spike HEY0001" x="2412" y="0" width="376" height="423" frameX="0" frameY="-3" frameWidth="376" frameHeight="428"/>
+	<SubTexture name="spike HEY0002" x="2788" y="0" width="365" height="425" frameX="-2" frameY="-3" frameWidth="376" frameHeight="428"/>
+	<SubTexture name="spike HEY0003" x="2788" y="0" width="365" height="425" frameX="-2" frameY="-3" frameWidth="376" frameHeight="428"/>
+	<SubTexture name="spike HEY0004" x="3153" y="0" width="367" height="428" frameX="-2" frameY="0" frameWidth="376" frameHeight="428"/>
+	<SubTexture name="spike HEY0005" x="3153" y="0" width="367" height="428" frameX="-2" frameY="0" frameWidth="376" frameHeight="428"/>
+	<SubTexture name="spike HEY0006" x="3153" y="0" width="367" height="428" frameX="-2" frameY="0" frameWidth="376" frameHeight="428"/>
+	<SubTexture name="spike HEY0007" x="3153" y="0" width="367" height="428" frameX="-2" frameY="0" frameWidth="376" frameHeight="428"/>
+	<SubTexture name="spike HEY0008" x="3153" y="0" width="367" height="428" frameX="-2" frameY="0" frameWidth="376" frameHeight="428"/>
+	<SubTexture name="spike HEY0009" x="3153" y="0" width="367" height="428" frameX="-2" frameY="0" frameWidth="376" frameHeight="428"/>
+	<SubTexture name="spike HEY0010" x="3153" y="0" width="367" height="428" frameX="-2" frameY="0" frameWidth="376" frameHeight="428"/>
+	<SubTexture name="spike HEY0011" x="3153" y="0" width="367" height="428" frameX="-2" frameY="0" frameWidth="376" frameHeight="428"/>
+	<SubTexture name="spike HEY0012" x="3153" y="0" width="367" height="428" frameX="-2" frameY="0" frameWidth="376" frameHeight="428"/>
+	<SubTexture name="spike HEY0013" x="3153" y="0" width="367" height="428" frameX="-2" frameY="0" frameWidth="376" frameHeight="428"/>
+	<SubTexture name="spike HEY0014" x="3153" y="0" width="367" height="428" frameX="-2" frameY="0" frameWidth="376" frameHeight="428"/>
+	<SubTexture name="spike HEY0015" x="3153" y="0" width="367" height="428" frameX="-2" frameY="0" frameWidth="376" frameHeight="428"/>
+	<SubTexture name="spike HEY0016" x="3153" y="0" width="367" height="428" frameX="-2" frameY="0" frameWidth="376" frameHeight="428"/>
+	<SubTexture name="spike HEY0017" x="3153" y="0" width="367" height="428" frameX="-2" frameY="0" frameWidth="376" frameHeight="428"/>
+	<SubTexture name="spike HEY0018" x="3153" y="0" width="367" height="428" frameX="-2" frameY="0" frameWidth="376" frameHeight="428"/>
+	<SubTexture name="spike HEY0019" x="3153" y="0" width="367" height="428" frameX="-2" frameY="0" frameWidth="376" frameHeight="428"/>
+	<SubTexture name="spike HEY0020" x="3153" y="0" width="367" height="428" frameX="-2" frameY="0" frameWidth="376" frameHeight="428"/>
+	<SubTexture name="spike HEY0021" x="3153" y="0" width="367" height="428" frameX="-2" frameY="0" frameWidth="376" frameHeight="428"/>
+	<SubTexture name="spike HEY0022" x="3153" y="0" width="367" height="428" frameX="-2" frameY="0" frameWidth="376" frameHeight="428"/>
+	<SubTexture name="spike HEY0023" x="3153" y="0" width="367" height="428" frameX="-2" frameY="0" frameWidth="376" frameHeight="428"/>
+	<SubTexture name="spike HEY0024" x="3153" y="0" width="367" height="428" frameX="-2" frameY="0" frameWidth="376" frameHeight="428"/>
+	<SubTexture name="spike HEY0025" x="3153" y="0" width="367" height="428" frameX="-2" frameY="0" frameWidth="376" frameHeight="428"/>
+	<SubTexture name="spike atack0000" x="3520" y="0" width="697" height="597" frameX="0" frameY="-87" frameWidth="708" frameHeight="685"/>
+	<SubTexture name="spike atack0001" x="3520" y="0" width="697" height="597" frameX="0" frameY="-87" frameWidth="708" frameHeight="685"/>
+	<SubTexture name="spike atack0002" x="4217" y="0" width="603" height="660" frameX="-102" frameY="-24" frameWidth="708" frameHeight="685"/>
+	<SubTexture name="spike atack0003" x="4217" y="0" width="603" height="660" frameX="-102" frameY="-24" frameWidth="708" frameHeight="685"/>
+	<SubTexture name="spike atack0004" x="4820" y="0" width="444" height="684" frameX="-263" frameY="0" frameWidth="708" frameHeight="685"/>
+	<SubTexture name="spike atack0005" x="4820" y="0" width="444" height="684" frameX="-263" frameY="0" frameWidth="708" frameHeight="685"/>
+	<SubTexture name="spike atack0006" x="5264" y="0" width="501" height="630" frameX="-207" frameY="-55" frameWidth="708" frameHeight="685"/>
+	<SubTexture name="spike dead confirm0000" x="5765" y="0" width="381" height="402" frameX="0" frameY="-63" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0001" x="6146" y="0" width="381" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0002" x="6527" y="0" width="381" height="465" frameX="0" frameY="0" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0003" x="6908" y="0" width="381" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0004" x="7289" y="0" width="381" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0005" x="7670" y="0" width="381" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0006" x="0" y="684" width="381" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0007" x="381" y="684" width="381" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0008" x="762" y="684" width="381" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0009" x="1143" y="684" width="381" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0010" x="1524" y="684" width="381" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0011" x="1905" y="684" width="381" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0012" x="2286" y="684" width="381" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0013" x="2667" y="684" width="381" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0014" x="3048" y="684" width="382" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0015" x="3430" y="684" width="384" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0016" x="3814" y="684" width="387" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0017" x="4201" y="684" width="388" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0018" x="4589" y="684" width="390" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0019" x="4979" y="684" width="392" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0020" x="5371" y="684" width="393" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0021" x="5764" y="684" width="394" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0022" x="6158" y="684" width="395" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0023" x="6553" y="684" width="395" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0024" x="6553" y="684" width="395" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0025" x="6553" y="684" width="395" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0026" x="6553" y="684" width="395" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0027" x="6553" y="684" width="395" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0028" x="6553" y="684" width="395" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0029" x="6553" y="684" width="395" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0030" x="6553" y="684" width="395" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0031" x="6553" y="684" width="395" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0032" x="6553" y="684" width="395" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dead confirm0033" x="6553" y="684" width="395" height="435" frameX="0" frameY="-30" frameWidth="396" frameHeight="465"/>
+	<SubTexture name="spike dodege0000" x="6948" y="684" width="494" height="404" frameX="0" frameY="0" frameWidth="496" frameHeight="404"/>
+	<SubTexture name="spike dodege0001" x="7442" y="684" width="494" height="404" frameX="0" frameY="0" frameWidth="496" frameHeight="404"/>
+	<SubTexture name="spike dodege0002" x="0" y="1119" width="496" height="403" frameX="0" frameY="-1" frameWidth="496" frameHeight="404"/>
+	<SubTexture name="spike dodege0003" x="496" y="1119" width="496" height="403" frameX="0" frameY="-1" frameWidth="496" frameHeight="404"/>
+	<SubTexture name="spike dodege0004" x="992" y="1119" width="496" height="403" frameX="0" frameY="-1" frameWidth="496" frameHeight="404"/>
+	<SubTexture name="spike dodege0005" x="0" y="1119" width="496" height="403" frameX="0" frameY="-1" frameWidth="496" frameHeight="404"/>
+	<SubTexture name="spike dodege0006" x="496" y="1119" width="496" height="403" frameX="0" frameY="-1" frameWidth="496" frameHeight="404"/>
+	<SubTexture name="spike dodege0007" x="992" y="1119" width="496" height="403" frameX="0" frameY="-1" frameWidth="496" frameHeight="404"/>
+	<SubTexture name="spike dodege0008" x="0" y="1119" width="496" height="403" frameX="0" frameY="-1" frameWidth="496" frameHeight="404"/>
+	<SubTexture name="spike dodege0009" x="496" y="1119" width="496" height="403" frameX="0" frameY="-1" frameWidth="496" frameHeight="404"/>
+	<SubTexture name="spike dodege0010" x="992" y="1119" width="496" height="403" frameX="0" frameY="-1" frameWidth="496" frameHeight="404"/>
+	<SubTexture name="spike dodege0011" x="0" y="1119" width="496" height="403" frameX="0" frameY="-1" frameWidth="496" frameHeight="404"/>
+	<SubTexture name="spike dodege0012" x="496" y="1119" width="496" height="403" frameX="0" frameY="-1" frameWidth="496" frameHeight="404"/>
+	<SubTexture name="spike dodege0013" x="992" y="1119" width="496" height="403" frameX="0" frameY="-1" frameWidth="496" frameHeight="404"/>
+	<SubTexture name="spike dodege0014" x="0" y="1119" width="496" height="403" frameX="0" frameY="-1" frameWidth="496" frameHeight="404"/>
+	<SubTexture name="spike hit0000" x="1488" y="1119" width="534" height="447" frameX="-9" frameY="-66" frameWidth="543" frameHeight="528"/>
+	<SubTexture name="spike hit0001" x="2022" y="1119" width="536" height="463" frameX="0" frameY="-50" frameWidth="543" frameHeight="528"/>
+	<SubTexture name="spike hit0002" x="2558" y="1119" width="411" height="526" frameX="-124" frameY="-2" frameWidth="543" frameHeight="528"/>
+	<SubTexture name="spike hit0003" x="2969" y="1119" width="411" height="526" frameX="-124" frameY="-2" frameWidth="543" frameHeight="528"/>
+	<SubTexture name="spike hit0004" x="3380" y="1119" width="392" height="528" frameX="-130" frameY="0" frameWidth="543" frameHeight="528"/>
+	<SubTexture name="spike hit0005" x="3772" y="1119" width="392" height="528" frameX="-130" frameY="0" frameWidth="543" frameHeight="528"/>
+	<SubTexture name="spike hit0006" x="4164" y="1119" width="407" height="507" frameX="-112" frameY="-21" frameWidth="543" frameHeight="528"/>
+	<SubTexture name="spike hit0007" x="4571" y="1119" width="407" height="507" frameX="-112" frameY="-21" frameWidth="543" frameHeight="528"/>
+	<SubTexture name="spike hit0008" x="4164" y="1119" width="407" height="507" frameX="-112" frameY="-21" frameWidth="543" frameHeight="528"/>
+	<SubTexture name="spike hit0009" x="4571" y="1119" width="407" height="507" frameX="-112" frameY="-21" frameWidth="543" frameHeight="528"/>
+	<SubTexture name="spike hit0010" x="4164" y="1119" width="407" height="507" frameX="-112" frameY="-21" frameWidth="543" frameHeight="528"/>
+	<SubTexture name="spike hit0011" x="4571" y="1119" width="407" height="507" frameX="-112" frameY="-21" frameWidth="543" frameHeight="528"/>
+	<SubTexture name="spike hit0012" x="4164" y="1119" width="407" height="507" frameX="-112" frameY="-21" frameWidth="543" frameHeight="528"/>
+	<SubTexture name="spike hit0013" x="4571" y="1119" width="407" height="507" frameX="-112" frameY="-21" frameWidth="543" frameHeight="528"/>
+	<SubTexture name="spike hit0014" x="4164" y="1119" width="407" height="507" frameX="-112" frameY="-21" frameWidth="543" frameHeight="528"/>
+	<SubTexture name="spike hit0015" x="4571" y="1119" width="407" height="507" frameX="-112" frameY="-21" frameWidth="543" frameHeight="528"/>
+	<SubTexture name="spike hit0016" x="4164" y="1119" width="407" height="507" frameX="-112" frameY="-21" frameWidth="543" frameHeight="528"/>
+	<SubTexture name="spike hit0017" x="4571" y="1119" width="407" height="507" frameX="-112" frameY="-21" frameWidth="543" frameHeight="528"/>
+	<SubTexture name="spike hit0018" x="4164" y="1119" width="407" height="507" frameX="-112" frameY="-21" frameWidth="543" frameHeight="528"/>
+	<SubTexture name="spike idle dance0000" x="4978" y="1119" width="330" height="419" frameX="-2" frameY="-4" frameWidth="335" frameHeight="426"/>
+	<SubTexture name="spike idle dance0001" x="5308" y="1119" width="330" height="419" frameX="-2" frameY="-4" frameWidth="335" frameHeight="426"/>
+	<SubTexture name="spike idle dance0002" x="5638" y="1119" width="335" height="422" frameX="0" frameY="-4" frameWidth="335" frameHeight="426"/>
+	<SubTexture name="spike idle dance0003" x="5973" y="1119" width="335" height="426"/>
+	<SubTexture name="spike idle dance0004" x="6308" y="1119" width="333" height="426" frameX="-1" frameY="0" frameWidth="335" frameHeight="426"/>
+	<SubTexture name="spike idle dance0005" x="6308" y="1119" width="333" height="426" frameX="-1" frameY="0" frameWidth="335" frameHeight="426"/>
+	<SubTexture name="spike idle dance0006" x="6308" y="1119" width="333" height="426" frameX="-1" frameY="0" frameWidth="335" frameHeight="426"/>
+	<SubTexture name="spike idle dance0007" x="6308" y="1119" width="333" height="426" frameX="-1" frameY="0" frameWidth="335" frameHeight="426"/>
+	<SubTexture name="spike idle dance0008" x="6308" y="1119" width="333" height="426" frameX="-1" frameY="0" frameWidth="335" frameHeight="426"/>
+	<SubTexture name="spike idle dance0009" x="6308" y="1119" width="333" height="426" frameX="-1" frameY="0" frameWidth="335" frameHeight="426"/>
+	<SubTexture name="spike idle dance0010" x="6308" y="1119" width="333" height="426" frameX="-1" frameY="0" frameWidth="335" frameHeight="426"/>
+	<SubTexture name="spike idle dance0011" x="6308" y="1119" width="333" height="426" frameX="-1" frameY="0" frameWidth="335" frameHeight="426"/>
+	<SubTexture name="spike idle dance0012" x="6308" y="1119" width="333" height="426" frameX="-1" frameY="0" frameWidth="335" frameHeight="426"/>
+	<SubTexture name="spike idle dance0013" x="6308" y="1119" width="333" height="426" frameX="-1" frameY="0" frameWidth="335" frameHeight="426"/>
+	<SubTexture name="spike idle shaking0000" x="6641" y="1119" width="313" height="416" frameX="-1" frameY="0" frameWidth="321" frameHeight="418"/>
+	<SubTexture name="spike idle shaking0001" x="6954" y="1119" width="313" height="415" frameX="-8" frameY="-1" frameWidth="321" frameHeight="418"/>
+	<SubTexture name="spike idle shaking0002" x="7267" y="1119" width="321" height="415" frameX="0" frameY="-1" frameWidth="321" frameHeight="418"/>
+	<SubTexture name="spike idle shaking0003" x="7588" y="1119" width="308" height="417" frameX="-10" frameY="-1" frameWidth="321" frameHeight="418"/>
+	<SubTexture name="spike idle shaking0004" x="0" y="1647" width="308" height="417" frameX="-10" frameY="-1" frameWidth="321" frameHeight="418"/>
+	<SubTexture name="spike morre0000" x="308" y="1647" width="366" height="420" frameX="-10" frameY="0" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0001" x="674" y="1647" width="374" height="416" frameX="-10" frameY="-4" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0002" x="1048" y="1647" width="367" height="395" frameX="-19" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0003" x="1415" y="1647" width="390" height="395" frameX="-11" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0004" x="1805" y="1647" width="390" height="395" frameX="-19" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0005" x="2195" y="1647" width="390" height="395" frameX="-14" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0006" x="2585" y="1647" width="348" height="395" frameX="-19" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0007" x="2933" y="1647" width="348" height="395" frameX="-19" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0008" x="3281" y="1647" width="348" height="400" frameX="-19" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0009" x="3629" y="1647" width="359" height="395" frameX="-8" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0010" x="3988" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0011" x="3988" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0012" x="4355" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0013" x="4355" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0014" x="3988" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0015" x="3988" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0016" x="3988" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0017" x="3988" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0018" x="3988" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0019" x="3988" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0020" x="3988" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0021" x="3988" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0022" x="3988" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0023" x="3988" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0024" x="3988" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0025" x="3988" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0026" x="3988" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0027" x="3988" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0028" x="3988" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0029" x="3988" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0030" x="3988" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0031" x="3988" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0032" x="3988" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0033" x="3988" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0034" x="4722" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0035" x="4722" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0036" x="5089" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0037" x="5089" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0038" x="4722" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0039" x="4722" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0040" x="4722" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0041" x="4722" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0042" x="4722" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0043" x="4722" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0044" x="4722" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0045" x="4722" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0046" x="4722" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0047" x="4722" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0048" x="4722" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0049" x="4722" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0050" x="4722" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0051" x="4722" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0052" x="4722" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0053" x="4722" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0054" x="4722" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0055" x="4722" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0056" x="4722" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike morre0057" x="4722" y="1647" width="367" height="403" frameX="0" frameY="-17" frameWidth="409" frameHeight="420"/>
+	<SubTexture name="spike note down0000" x="5456" y="1647" width="371" height="347" frameX="-1" frameY="-5" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down0001" x="5827" y="1647" width="371" height="347" frameX="-1" frameY="-5" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down0002" x="6198" y="1647" width="368" height="351" frameX="0" frameY="0" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down0003" x="6198" y="1647" width="368" height="351" frameX="0" frameY="0" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down0004" x="6198" y="1647" width="368" height="351" frameX="0" frameY="0" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down0005" x="6198" y="1647" width="368" height="351" frameX="0" frameY="0" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down0006" x="6198" y="1647" width="368" height="351" frameX="0" frameY="0" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down0007" x="6198" y="1647" width="368" height="351" frameX="0" frameY="0" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down0008" x="6198" y="1647" width="368" height="351" frameX="0" frameY="0" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down0009" x="6198" y="1647" width="368" height="351" frameX="0" frameY="0" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down0010" x="6198" y="1647" width="368" height="351" frameX="0" frameY="0" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down0011" x="6198" y="1647" width="368" height="351" frameX="0" frameY="0" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down0012" x="6198" y="1647" width="368" height="351" frameX="0" frameY="0" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down0013" x="6198" y="1647" width="368" height="351" frameX="0" frameY="0" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down0014" x="6198" y="1647" width="368" height="351" frameX="0" frameY="0" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down0015" x="6198" y="1647" width="368" height="351" frameX="0" frameY="0" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down0016" x="6198" y="1647" width="368" height="351" frameX="0" frameY="0" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down0017" x="6198" y="1647" width="368" height="351" frameX="0" frameY="0" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down0018" x="6198" y="1647" width="368" height="351" frameX="0" frameY="0" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down0019" x="6198" y="1647" width="368" height="351" frameX="0" frameY="0" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down0020" x="6198" y="1647" width="368" height="351" frameX="0" frameY="0" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down0021" x="6198" y="1647" width="368" height="351" frameX="0" frameY="0" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down0022" x="6198" y="1647" width="368" height="351" frameX="0" frameY="0" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down0023" x="6198" y="1647" width="368" height="351" frameX="0" frameY="0" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down0024" x="6198" y="1647" width="368" height="351" frameX="0" frameY="0" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down0025" x="6198" y="1647" width="368" height="351" frameX="0" frameY="0" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down0026" x="6198" y="1647" width="368" height="351" frameX="0" frameY="0" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down0027" x="6198" y="1647" width="368" height="351" frameX="0" frameY="0" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down0028" x="6198" y="1647" width="368" height="351" frameX="0" frameY="0" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down0029" x="6198" y="1647" width="368" height="351" frameX="0" frameY="0" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down miss0000" x="5456" y="1647" width="371" height="347" frameX="-12" frameY="-45" frameWidth="372" frameHeight="352"/>
+	<SubTexture name="spike note down miss0001" x="6566" y="1647" width="391" height="397"/>
+	<SubTexture name="spike note down miss0002" x="6566" y="1647" width="391" height="397"/>
+	<SubTexture name="spike note down miss0003" x="6957" y="1647" width="368" height="385" frameX="-11" frameY="-6" frameWidth="391" frameHeight="397"/>
+	<SubTexture name="spike note down miss0004" x="6957" y="1647" width="368" height="385" frameX="-11" frameY="-6" frameWidth="391" frameHeight="397"/>
+	<SubTexture name="spike note down miss0005" x="6957" y="1647" width="368" height="385" frameX="-11" frameY="-6" frameWidth="391" frameHeight="397"/>
+	<SubTexture name="spike note down miss0006" x="6957" y="1647" width="368" height="385" frameX="-11" frameY="-6" frameWidth="391" frameHeight="397"/>
+	<SubTexture name="spike note down miss0007" x="6957" y="1647" width="368" height="385" frameX="-11" frameY="-6" frameWidth="391" frameHeight="397"/>
+	<SubTexture name="spike note down miss0008" x="6957" y="1647" width="368" height="385" frameX="-11" frameY="-6" frameWidth="391" frameHeight="397"/>
+	<SubTexture name="spike note down miss0009" x="6957" y="1647" width="368" height="385" frameX="-11" frameY="-6" frameWidth="391" frameHeight="397"/>
+	<SubTexture name="spike note down miss0010" x="6957" y="1647" width="368" height="385" frameX="-11" frameY="-6" frameWidth="391" frameHeight="397"/>
+	<SubTexture name="spike note down miss0011" x="6957" y="1647" width="368" height="385" frameX="-11" frameY="-6" frameWidth="391" frameHeight="397"/>
+	<SubTexture name="spike note down miss0012" x="6957" y="1647" width="368" height="385" frameX="-11" frameY="-6" frameWidth="391" frameHeight="397"/>
+	<SubTexture name="spike note down miss0013" x="6957" y="1647" width="368" height="385" frameX="-11" frameY="-6" frameWidth="391" frameHeight="397"/>
+	<SubTexture name="spike note down miss0014" x="6957" y="1647" width="368" height="385" frameX="-11" frameY="-6" frameWidth="391" frameHeight="397"/>
+	<SubTexture name="spike note down miss0015" x="6957" y="1647" width="368" height="385" frameX="-11" frameY="-6" frameWidth="391" frameHeight="397"/>
+	<SubTexture name="spike note down miss0016" x="6957" y="1647" width="368" height="385" frameX="-11" frameY="-6" frameWidth="391" frameHeight="397"/>
+	<SubTexture name="spike note down miss0017" x="6957" y="1647" width="368" height="385" frameX="-11" frameY="-6" frameWidth="391" frameHeight="397"/>
+	<SubTexture name="spike note down miss0018" x="6957" y="1647" width="368" height="385" frameX="-11" frameY="-6" frameWidth="391" frameHeight="397"/>
+	<SubTexture name="spike note down miss0019" x="6957" y="1647" width="368" height="385" frameX="-11" frameY="-6" frameWidth="391" frameHeight="397"/>
+	<SubTexture name="spike note down miss0020" x="6957" y="1647" width="368" height="385" frameX="-11" frameY="-6" frameWidth="391" frameHeight="397"/>
+	<SubTexture name="spike note down miss0021" x="6957" y="1647" width="368" height="385" frameX="-11" frameY="-6" frameWidth="391" frameHeight="397"/>
+	<SubTexture name="spike note down miss0022" x="6957" y="1647" width="368" height="385" frameX="-11" frameY="-6" frameWidth="391" frameHeight="397"/>
+	<SubTexture name="spike note down miss0023" x="6957" y="1647" width="368" height="385" frameX="-11" frameY="-6" frameWidth="391" frameHeight="397"/>
+	<SubTexture name="spike note down miss0024" x="6957" y="1647" width="368" height="385" frameX="-11" frameY="-6" frameWidth="391" frameHeight="397"/>
+	<SubTexture name="spike note down miss0025" x="6957" y="1647" width="368" height="385" frameX="-11" frameY="-6" frameWidth="391" frameHeight="397"/>
+	<SubTexture name="spike note down miss0026" x="6957" y="1647" width="368" height="385" frameX="-11" frameY="-6" frameWidth="391" frameHeight="397"/>
+	<SubTexture name="spike note down miss0027" x="6957" y="1647" width="368" height="385" frameX="-11" frameY="-6" frameWidth="391" frameHeight="397"/>
+	<SubTexture name="spike note down miss0028" x="6957" y="1647" width="368" height="385" frameX="-11" frameY="-6" frameWidth="391" frameHeight="397"/>
+	<SubTexture name="spike note down miss0029" x="6957" y="1647" width="368" height="385" frameX="-11" frameY="-6" frameWidth="391" frameHeight="397"/>
+	<SubTexture name="spike note left0000" x="7325" y="1647" width="363" height="425"/>
+	<SubTexture name="spike note left0001" x="7325" y="1647" width="363" height="425"/>
+	<SubTexture name="spike note left0002" x="7688" y="1647" width="352" height="422" frameX="-11" frameY="-3" frameWidth="363" frameHeight="425"/>
+	<SubTexture name="spike note left0003" x="7688" y="1647" width="352" height="422" frameX="-11" frameY="-3" frameWidth="363" frameHeight="425"/>
+	<SubTexture name="spike note left0004" x="7688" y="1647" width="352" height="422" frameX="-11" frameY="-3" frameWidth="363" frameHeight="425"/>
+	<SubTexture name="spike note left0005" x="7688" y="1647" width="352" height="422" frameX="-11" frameY="-3" frameWidth="363" frameHeight="425"/>
+	<SubTexture name="spike note left0006" x="7688" y="1647" width="352" height="422" frameX="-11" frameY="-3" frameWidth="363" frameHeight="425"/>
+	<SubTexture name="spike note left0007" x="7688" y="1647" width="352" height="422" frameX="-11" frameY="-3" frameWidth="363" frameHeight="425"/>
+	<SubTexture name="spike note left0008" x="7688" y="1647" width="352" height="422" frameX="-11" frameY="-3" frameWidth="363" frameHeight="425"/>
+	<SubTexture name="spike note left0009" x="7688" y="1647" width="352" height="422" frameX="-11" frameY="-3" frameWidth="363" frameHeight="425"/>
+	<SubTexture name="spike note left0010" x="7688" y="1647" width="352" height="422" frameX="-11" frameY="-3" frameWidth="363" frameHeight="425"/>
+	<SubTexture name="spike note left0011" x="7688" y="1647" width="352" height="422" frameX="-11" frameY="-3" frameWidth="363" frameHeight="425"/>
+	<SubTexture name="spike note left0012" x="7688" y="1647" width="352" height="422" frameX="-11" frameY="-3" frameWidth="363" frameHeight="425"/>
+	<SubTexture name="spike note left0013" x="7688" y="1647" width="352" height="422" frameX="-11" frameY="-3" frameWidth="363" frameHeight="425"/>
+	<SubTexture name="spike note left0014" x="7688" y="1647" width="352" height="422" frameX="-11" frameY="-3" frameWidth="363" frameHeight="425"/>
+	<SubTexture name="spike note left miss0000" x="0" y="2072" width="363" height="430"/>
+	<SubTexture name="spike note left miss0001" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0002" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0003" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0004" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0005" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0006" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0007" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0008" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0009" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0010" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0011" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0012" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0013" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0014" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0015" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0016" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0017" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0018" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0019" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0020" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0021" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0022" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0023" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0024" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0025" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0026" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0027" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0028" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0029" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0030" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0031" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0032" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0033" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0034" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0035" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0036" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0037" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0038" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0039" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0040" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0041" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0042" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0043" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0044" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0045" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0046" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note left miss0047" x="363" y="2072" width="352" height="422" frameX="-11" frameY="-8" frameWidth="363" frameHeight="430"/>
+	<SubTexture name="spike note right0000" x="715" y="2072" width="307" height="432" frameX="-2" frameY="-1" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0001" x="715" y="2072" width="307" height="432" frameX="-2" frameY="-1" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0002" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0003" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0004" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0005" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0006" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0007" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0008" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0009" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0010" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0011" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0012" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0013" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0014" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0015" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0016" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0017" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0018" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0019" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0020" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0021" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0022" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0023" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0024" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0025" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0026" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0027" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0028" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0029" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0030" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0031" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0032" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0033" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0034" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0035" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0036" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0037" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0038" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0039" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0040" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0041" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0042" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0043" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0044" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0045" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0046" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0047" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0048" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0049" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0050" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0051" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0052" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0053" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0054" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0055" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0056" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0057" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0058" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0059" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0060" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right0061" x="1022" y="2072" width="306" height="433" frameX="0" frameY="0" frameWidth="309" frameHeight="433"/>
+	<SubTexture name="spike note right miss0000" x="1328" y="2072" width="299" height="426" frameX="-17" frameY="-33" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0001" x="1627" y="2072" width="334" height="470"/>
+	<SubTexture name="spike note right miss0002" x="1627" y="2072" width="334" height="470"/>
+	<SubTexture name="spike note right miss0003" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0004" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0005" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0006" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0007" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0008" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0009" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0010" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0011" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0012" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0013" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0014" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0015" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0016" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0017" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0018" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0019" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0020" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0021" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0022" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0023" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0024" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0025" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0026" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0027" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0028" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0029" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0030" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0031" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0032" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0033" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0034" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0035" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0036" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0037" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0038" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0039" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0040" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0041" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0042" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0043" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0044" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0045" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0046" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note right miss0047" x="1961" y="2072" width="306" height="459" frameX="-15" frameY="0" frameWidth="334" frameHeight="470"/>
+	<SubTexture name="spike note up0000" x="2267" y="2072" width="329" height="462" frameX="-8" frameY="-1" frameWidth="339" frameHeight="463"/>
+	<SubTexture name="spike note up0001" x="2267" y="2072" width="329" height="462" frameX="-8" frameY="-1" frameWidth="339" frameHeight="463"/>
+	<SubTexture name="spike note up0002" x="2596" y="2072" width="339" height="462" frameX="0" frameY="0" frameWidth="339" frameHeight="463"/>
+	<SubTexture name="spike note up0003" x="2596" y="2072" width="339" height="462" frameX="0" frameY="0" frameWidth="339" frameHeight="463"/>
+	<SubTexture name="spike note up0004" x="2596" y="2072" width="339" height="462" frameX="0" frameY="0" frameWidth="339" frameHeight="463"/>
+	<SubTexture name="spike note up0005" x="2596" y="2072" width="339" height="462" frameX="0" frameY="0" frameWidth="339" frameHeight="463"/>
+	<SubTexture name="spike note up0006" x="2596" y="2072" width="339" height="462" frameX="0" frameY="0" frameWidth="339" frameHeight="463"/>
+	<SubTexture name="spike note up0007" x="2596" y="2072" width="339" height="462" frameX="0" frameY="0" frameWidth="339" frameHeight="463"/>
+	<SubTexture name="spike note up0008" x="2596" y="2072" width="339" height="462" frameX="0" frameY="0" frameWidth="339" frameHeight="463"/>
+	<SubTexture name="spike note up0009" x="2596" y="2072" width="339" height="462" frameX="0" frameY="0" frameWidth="339" frameHeight="463"/>
+	<SubTexture name="spike note up0010" x="2596" y="2072" width="339" height="462" frameX="0" frameY="0" frameWidth="339" frameHeight="463"/>
+	<SubTexture name="spike note up0011" x="2596" y="2072" width="339" height="462" frameX="0" frameY="0" frameWidth="339" frameHeight="463"/>
+	<SubTexture name="spike note up0012" x="2596" y="2072" width="339" height="462" frameX="0" frameY="0" frameWidth="339" frameHeight="463"/>
+	<SubTexture name="spike note up0013" x="2596" y="2072" width="339" height="462" frameX="0" frameY="0" frameWidth="339" frameHeight="463"/>
+	<SubTexture name="spike note up0014" x="2596" y="2072" width="339" height="462" frameX="0" frameY="0" frameWidth="339" frameHeight="463"/>
+	<SubTexture name="spike note up miss0000" x="2935" y="2072" width="332" height="465" frameX="-14" frameY="0" frameWidth="355" frameHeight="465"/>
+	<SubTexture name="spike note up miss0001" x="3267" y="2072" width="355" height="447" frameX="0" frameY="-9" frameWidth="355" frameHeight="465"/>
+	<SubTexture name="spike note up miss0002" x="3267" y="2072" width="355" height="447" frameX="0" frameY="-9" frameWidth="355" frameHeight="465"/>
+	<SubTexture name="spike note up miss0003" x="3622" y="2072" width="339" height="462" frameX="-8" frameY="-2" frameWidth="355" frameHeight="465"/>
+	<SubTexture name="spike note up miss0004" x="3622" y="2072" width="339" height="462" frameX="-8" frameY="-2" frameWidth="355" frameHeight="465"/>
+	<SubTexture name="spike note up miss0005" x="3622" y="2072" width="339" height="462" frameX="-8" frameY="-2" frameWidth="355" frameHeight="465"/>
+	<SubTexture name="spike note up miss0006" x="3622" y="2072" width="339" height="462" frameX="-8" frameY="-2" frameWidth="355" frameHeight="465"/>
+	<SubTexture name="spike note up miss0007" x="3622" y="2072" width="339" height="462" frameX="-8" frameY="-2" frameWidth="355" frameHeight="465"/>
+	<SubTexture name="spike note up miss0008" x="3622" y="2072" width="339" height="462" frameX="-8" frameY="-2" frameWidth="355" frameHeight="465"/>
+	<SubTexture name="spike note up miss0009" x="3622" y="2072" width="339" height="462" frameX="-8" frameY="-2" frameWidth="355" frameHeight="465"/>
+	<SubTexture name="spike note up miss0010" x="3622" y="2072" width="339" height="462" frameX="-8" frameY="-2" frameWidth="355" frameHeight="465"/>
+	<SubTexture name="spike note up miss0011" x="3622" y="2072" width="339" height="462" frameX="-8" frameY="-2" frameWidth="355" frameHeight="465"/>
+	<SubTexture name="spike note up miss0012" x="3622" y="2072" width="339" height="462" frameX="-8" frameY="-2" frameWidth="355" frameHeight="465"/>
+	<SubTexture name="spike note up miss0013" x="3622" y="2072" width="339" height="462" frameX="-8" frameY="-2" frameWidth="355" frameHeight="465"/>
+	<SubTexture name="spike note up miss0014" x="3622" y="2072" width="339" height="462" frameX="-8" frameY="-2" frameWidth="355" frameHeight="465"/>
+	<SubTexture name="spike note up miss0015" x="3622" y="2072" width="339" height="462" frameX="-8" frameY="-2" frameWidth="355" frameHeight="465"/>
+	<SubTexture name="spike note up miss0016" x="3622" y="2072" width="339" height="462" frameX="-8" frameY="-2" frameWidth="355" frameHeight="465"/>
+	<SubTexture name="spike note up miss0017" x="3622" y="2072" width="339" height="462" frameX="-8" frameY="-2" frameWidth="355" frameHeight="465"/>
+	<SubTexture name="spike note up miss0018" x="3622" y="2072" width="339" height="462" frameX="-8" frameY="-2" frameWidth="355" frameHeight="465"/>
+	<SubTexture name="spike note up miss0019" x="3622" y="2072" width="339" height="462" frameX="-8" frameY="-2" frameWidth="355" frameHeight="465"/>
+	<SubTexture name="spike note up miss0020" x="3622" y="2072" width="339" height="462" frameX="-8" frameY="-2" frameWidth="355" frameHeight="465"/>
+	<SubTexture name="spike note up miss0021" x="3622" y="2072" width="339" height="462" frameX="-8" frameY="-2" frameWidth="355" frameHeight="465"/>
+	<SubTexture name="spike note up miss0022" x="3622" y="2072" width="339" height="462" frameX="-8" frameY="-2" frameWidth="355" frameHeight="465"/>
+	<SubTexture name="spike note up miss0023" x="3622" y="2072" width="339" height="462" frameX="-8" frameY="-2" frameWidth="355" frameHeight="465"/>
+	<SubTexture name="spike note up miss0024" x="3622" y="2072" width="339" height="462" frameX="-8" frameY="-2" frameWidth="355" frameHeight="465"/>
+	<SubTexture name="spike note up miss0025" x="3622" y="2072" width="339" height="462" frameX="-8" frameY="-2" frameWidth="355" frameHeight="465"/>
+	<SubTexture name="spike note up miss0026" x="3622" y="2072" width="339" height="462" frameX="-8" frameY="-2" frameWidth="355" frameHeight="465"/>
+	<SubTexture name="spike note up miss0027" x="3622" y="2072" width="339" height="462" frameX="-8" frameY="-2" frameWidth="355" frameHeight="465"/>
+	<SubTexture name="spike note up miss0028" x="3622" y="2072" width="339" height="462" frameX="-8" frameY="-2" frameWidth="355" frameHeight="465"/>
+	<SubTexture name="spike pre ataque0000" x="3961" y="2072" width="337" height="374" frameX="-5" frameY="-1" frameWidth="342" frameHeight="375"/>
+	<SubTexture name="spike pre ataque0001" x="3961" y="2072" width="337" height="374" frameX="-5" frameY="-1" frameWidth="342" frameHeight="375"/>
+	<SubTexture name="spike pre ataque0002" x="4298" y="2072" width="340" height="375" frameX="0" frameY="0" frameWidth="342" frameHeight="375"/>
+	<SubTexture name="spike pre ataque0003" x="4298" y="2072" width="340" height="375" frameX="0" frameY="0" frameWidth="342" frameHeight="375"/>
+	<SubTexture name="spike pre ataque0004" x="4638" y="2072" width="340" height="375" frameX="0" frameY="0" frameWidth="342" frameHeight="375"/>
+	<SubTexture name="spike pre ataque0005" x="4638" y="2072" width="340" height="375" frameX="0" frameY="0" frameWidth="342" frameHeight="375"/>
+	<SubTexture name="spike pre ataque0006" x="4638" y="2072" width="340" height="375" frameX="0" frameY="0" frameWidth="342" frameHeight="375"/>
+	<SubTexture name="spike pre ataque0007" x="4638" y="2072" width="340" height="375" frameX="0" frameY="0" frameWidth="342" frameHeight="375"/>
+	<SubTexture name="spike pre ataque0008" x="4638" y="2072" width="340" height="375" frameX="0" frameY="0" frameWidth="342" frameHeight="375"/>
+	<SubTexture name="spike pre ataque0009" x="4638" y="2072" width="340" height="375" frameX="0" frameY="0" frameWidth="342" frameHeight="375"/>
+	<SubTexture name="spike pre ataque0010" x="4638" y="2072" width="340" height="375" frameX="0" frameY="0" frameWidth="342" frameHeight="375"/>
+	<SubTexture name="spike pre ataque0011" x="4638" y="2072" width="340" height="375" frameX="0" frameY="0" frameWidth="342" frameHeight="375"/>
+	<SubTexture name="spike pre ataque0012" x="4638" y="2072" width="340" height="375" frameX="0" frameY="0" frameWidth="342" frameHeight="375"/>
+	<SubTexture name="spike pre ataque0013" x="4638" y="2072" width="340" height="375" frameX="0" frameY="0" frameWidth="342" frameHeight="375"/>
+	<SubTexture name="spike pre ataque0014" x="4638" y="2072" width="340" height="375" frameX="0" frameY="0" frameWidth="342" frameHeight="375"/>
+	<SubTexture name="spike pre ataque0015" x="4638" y="2072" width="340" height="375" frameX="0" frameY="0" frameWidth="342" frameHeight="375"/>
+	<SubTexture name="spike pre ataque0016" x="4638" y="2072" width="340" height="375" frameX="0" frameY="0" frameWidth="342" frameHeight="375"/>
+	<SubTexture name="spike pre ataque0017" x="4638" y="2072" width="340" height="375" frameX="0" frameY="0" frameWidth="342" frameHeight="375"/>
+	<SubTexture name="spike pre ataque0018" x="4638" y="2072" width="340" height="375" frameX="0" frameY="0" frameWidth="342" frameHeight="375"/>
+	<SubTexture name="spike pre ataque0019" x="4638" y="2072" width="340" height="375" frameX="0" frameY="0" frameWidth="342" frameHeight="375"/>
+	<SubTexture name="spike pre ataque0020" x="4638" y="2072" width="340" height="375" frameX="0" frameY="0" frameWidth="342" frameHeight="375"/>
+	<SubTexture name="spike pre ataque0021" x="4638" y="2072" width="340" height="375" frameX="0" frameY="0" frameWidth="342" frameHeight="375"/>
+	<SubTexture name="spike pre ataque0022" x="4638" y="2072" width="340" height="375" frameX="0" frameY="0" frameWidth="342" frameHeight="375"/>
+	<SubTexture name="spike pre ataque0023" x="4638" y="2072" width="340" height="375" frameX="0" frameY="0" frameWidth="342" frameHeight="375"/>
+	<SubTexture name="spike pre ataque0024" x="4638" y="2072" width="340" height="375" frameX="0" frameY="0" frameWidth="342" frameHeight="375"/>
+	<SubTexture name="spike pre ataque0025" x="4638" y="2072" width="340" height="375" frameX="0" frameY="0" frameWidth="342" frameHeight="375"/>
+	<SubTexture name="spike pre ataque0026" x="4638" y="2072" width="340" height="375" frameX="0" frameY="0" frameWidth="342" frameHeight="375"/>
+	<SubTexture name="spike pre ataque0027" x="4638" y="2072" width="340" height="375" frameX="0" frameY="0" frameWidth="342" frameHeight="375"/>
+	<SubTexture name="spike pre ataque0028" x="4638" y="2072" width="340" height="375" frameX="0" frameY="0" frameWidth="342" frameHeight="375"/>
+	<SubTexture name="spike pre ataque0029" x="4638" y="2072" width="340" height="375" frameX="0" frameY="0" frameWidth="342" frameHeight="375"/>
+</TextureAtlas>

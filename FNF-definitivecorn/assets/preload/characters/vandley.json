@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				103,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				18,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				12,
+				62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				34,
+				-88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/vandley",
+	"position": [
+		30,
+		290
+	],
+	"healthicon": "vandley",
+	"flip_x": false,
+	"healthbar_colors": [
+		23,
+		166,
+		0
+	],
+	"camera_position": [
+		90,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BAMBI_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bambi maize portrait0000" x="0" y="0" width="228" height="247" frameX="0" frameY="-12" frameWidth="255" frameHeight="259"/>
+	<SubTexture name="bambi maize portrait0001" x="228" y="0" width="227" height="246" frameX="-13" frameY="-7" frameWidth="255" frameHeight="259"/>
+	<SubTexture name="bambi maize portrait0002" x="455" y="0" width="228" height="247" frameX="-17" frameY="-4" frameWidth="255" frameHeight="259"/>
+	<SubTexture name="bambi maize portrait0003" x="683" y="0" width="227" height="247" frameX="-21" frameY="-3" frameWidth="255" frameHeight="259"/>
+	<SubTexture name="bambi maize portrait0004" x="0" y="247" width="227" height="246" frameX="-23" frameY="-2" frameWidth="255" frameHeight="259"/>
+	<SubTexture name="bambi maize portrait0005" x="227" y="247" width="227" height="247" frameX="-25" frameY="-1" frameWidth="255" frameHeight="259"/>
+	<SubTexture name="bambi maize portrait0006" x="454" y="247" width="227" height="246" frameX="-26" frameY="-1" frameWidth="255" frameHeight="259"/>
+	<SubTexture name="bambi maize portrait0007" x="681" y="247" width="227" height="247" frameX="-27" frameY="0" frameWidth="255" frameHeight="259"/>
+	<SubTexture name="bambi maize portrait0008" x="0" y="494" width="228" height="246" frameX="-27" frameY="0" frameWidth="255" frameHeight="259"/>
+	<SubTexture name="bambi maize portrait0009" x="228" y="494" width="227" height="246" frameX="-28" frameY="0" frameWidth="255" frameHeight="259"/>
+</TextureAtlas>

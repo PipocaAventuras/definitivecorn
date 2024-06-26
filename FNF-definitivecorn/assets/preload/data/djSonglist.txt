@@ -1,0 +1,42 @@
+internal,maize,bambi,good
+internal,probability,probabilitybambi,good
+internal,electronic,bunda,good
+internal,motocycle,plambi,good
+internal,fancy,gentlemen,good
+internal,pipebomb,mailbamb,good
+internal,fnaf is real,jon,good
+internal,carnivore,flombi,good
+internal,agronomist,marcello,good
+internal,spin dashin,speedu,good
+internal,subversive,futuredave,good
+internal,confrontation,bunda2d,good
+internal,pooped,poopina,good
+internal,asfalto,dave-gnomo,good
+internal,tech,tech-robot,good
+internal,insane corn,dave,good
+internal,falsify,bmabi,good
+internal,trains,thembo,good
+internal,cake,baker,good
+internal,dangerous,niles,good
+internal,nice and cool,bamje,good
+internal,power,tristan,good
+internal,fun spooky battle,pumpkintristan,good
+internal,style,gambo,good
+internal,summer,samny,good
+internal,jollytastic!,samnyxmas,good
+internal,cookie dough,crumbansu,good
+internal,vacation,eba,good
+internal,lightning,bambichu,good
+internal,mustard,pempe,good
+internal,oblique,blomquo,good
+internal,reminiscence,vanderley,good
+internal,dealings,adopteddrugdealer,good
+internal,p,pizzagod,good
+internal,kawai!1!,dave-kun,good
+internal,agronomist v71961,danevy,good
+internal,miss ass hold,missasshold,good
+internal,123.12.1234.123,ip_dave,good
+internal,deez nuts v2,robinson,good
+internal,lore,jonlore,good
+internal,phantasm,gentlemen,good
+internal,in the trap,plambitrap,good

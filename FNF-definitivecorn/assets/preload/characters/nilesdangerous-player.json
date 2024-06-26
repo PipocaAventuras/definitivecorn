@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-36
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				34
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				452,
+				8
+			],
+			"anim": "shoot",
+			"fps": 24,
+			"name": "atirando",
+			"indices": []
+		},
+		{
+			"offsets": [
+				202,
+				44
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				35,
+				15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "pegando arma"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "dangerous/Niles_dangerous",
+	"position": [
+		60,
+		410
+	],
+	"healthicon": "niles",
+	"flip_x": false,
+	"healthbar_colors": [
+		241,
+		241,
+		241
+	],
+	"camera_position": [
+		110,
+		60
+	],
+	"sing_duration": 13,
+	"scale": 0.8
+}

@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "jon and niles idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-13
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down assdw",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				-18
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-8
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ip jon w niles",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				0
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "fnaf is fake - says racist",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "punch",
+			"indices": [],
+			"name": "guy punches jon"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				1
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "niles w jon right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				1
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "left w jon idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				55,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "up w jon idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/niles-w-jon",
+	"position": [
+		-370,
+		130
+	],
+	"healthicon": "jon-w-niles",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		0,
+		255
+	],
+	"camera_position": [
+		20,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

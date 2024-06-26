@@ -1,0 +1,158 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				30,
+				2
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-13,
+				82
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				48,
+				1
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-17,
+				1
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"indices": [
+				1,
+				1,
+				1,
+				1
+			],
+			"fps": 13,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "heythere"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"indices": [
+				39,
+				40,
+				42,
+				43
+			],
+			"fps": 13,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "heythere"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"indices": [
+				39,
+				40,
+				42,
+				43
+			],
+			"fps": 13,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "heythere"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"indices": [
+				39,
+				40,
+				42,
+				43
+			],
+			"fps": 13,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "heythere"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"indices": [
+				39,
+				40,
+				42,
+				43
+			],
+			"fps": 13,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "heythere"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Agronomist_DAVE",
+	"position": [
+		0,
+		160
+	],
+	"healthicon": "agrodave",
+	"flip_x": false,
+	"healthbar_colors": [
+		48,
+		91,
+		180
+	],
+	"camera_position": [
+		240,
+		-180
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}

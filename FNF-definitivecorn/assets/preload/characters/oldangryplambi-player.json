@@ -1,0 +1,88 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				40,
+				-270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1
+			],
+			"name": "Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-269
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				78,
+				-281
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-20,
+				-237
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				128,
+				-256
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "nomeindefinido/plambi_angry",
+	"position": [
+		-540,
+		-150
+	],
+	"healthicon": "plambi_angry",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		58,
+		128
+	],
+	"camera_position": [
+		-90,
+		251
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

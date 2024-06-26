@@ -1,0 +1,305 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="caillou.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="caillou cutscene0000" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0001" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0002" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0003" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0004" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0005" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0006" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0007" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0008" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0009" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0010" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0011" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0012" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0013" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0014" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0015" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0016" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0017" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0018" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0019" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0020" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0021" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0022" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0023" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0024" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0025" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0026" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0027" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0028" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0029" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0030" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0031" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0032" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0033" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0034" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0035" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0036" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0037" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0038" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0039" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0040" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0041" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0042" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0043" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0044" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0045" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0046" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0047" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0048" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0049" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0050" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0051" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0052" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0053" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0054" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0055" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0056" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0057" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0058" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0059" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0060" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0061" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0062" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0063" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0064" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0065" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0066" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0067" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0068" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0069" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0070" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0071" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0072" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0073" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0074" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0075" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0076" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0077" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0078" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0079" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0080" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0081" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0082" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0083" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0084" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0085" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0086" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0087" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0088" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0089" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0090" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0091" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0092" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0093" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0094" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0095" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0096" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0097" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0098" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0099" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0100" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0101" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0102" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0103" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0104" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0105" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0106" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0107" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0108" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0109" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0110" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0111" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0112" x="415" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0113" x="415" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0114" x="415" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0115" x="830" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0116" x="830" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0117" x="1245" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0118" x="1245" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0119" x="415" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0120" x="415" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0121" x="415" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0122" x="830" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0123" x="830" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0124" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0125" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0126" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0127" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0128" x="0" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0129" x="415" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0130" x="415" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0131" x="415" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0132" x="830" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0133" x="830" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0134" x="1245" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0135" x="1245" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0136" x="415" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0137" x="415" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0138" x="415" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0139" x="830" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0140" x="830" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0141" x="1245" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0142" x="1245" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0143" x="415" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0144" x="415" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0145" x="415" y="0" width="415" height="706" frameX="-13" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0146" x="1660" y="0" width="424" height="706" frameX="-4" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0147" x="1660" y="0" width="424" height="706" frameX="-4" frameY="0" frameWidth="428" frameHeight="706"/>
+	<SubTexture name="caillou cutscene0148" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0149" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0150" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0151" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0152" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0153" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0154" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0155" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0156" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0157" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0158" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0159" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0160" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0161" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0162" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0163" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0164" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0165" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0166" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0167" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0168" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0169" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0170" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0171" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0172" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0173" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0174" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0175" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0176" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0177" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0178" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0179" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0180" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0181" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0182" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0183" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0184" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0185" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0186" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0187" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0188" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0189" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0190" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0191" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0192" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0193" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0194" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0195" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0196" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0197" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0198" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0199" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0200" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0201" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0202" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0203" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0204" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0205" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0206" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0207" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0208" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0209" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0210" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0211" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0212" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0213" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0214" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0215" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0216" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0217" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0218" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0219" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0220" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0221" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0222" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0223" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0224" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0225" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0226" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0227" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0228" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0229" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0230" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0231" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0232" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0233" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0234" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0235" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0236" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0237" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0238" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0239" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0240" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0241" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0242" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="caillou cutscene0243" x="2084" y="0" width="428" height="706"/>
+	<SubTexture name="down caillou0000" x="2512" y="0" width="521" height="656" frameX="0" frameY="-14" frameWidth="521" frameHeight="670"/>
+	<SubTexture name="down caillou0001" x="2512" y="0" width="521" height="656" frameX="0" frameY="-14" frameWidth="521" frameHeight="670"/>
+	<SubTexture name="down caillou0002" x="3033" y="0" width="502" height="670" frameX="-13" frameY="0" frameWidth="521" frameHeight="670"/>
+	<SubTexture name="down caillou0003" x="3033" y="0" width="502" height="670" frameX="-13" frameY="0" frameWidth="521" frameHeight="670"/>
+	<SubTexture name="down caillou0004" x="3033" y="0" width="502" height="670" frameX="-13" frameY="0" frameWidth="521" frameHeight="670"/>
+	<SubTexture name="down caillou0005" x="3033" y="0" width="502" height="670" frameX="-13" frameY="0" frameWidth="521" frameHeight="670"/>
+	<SubTexture name="down caillou0006" x="3033" y="0" width="502" height="670" frameX="-13" frameY="0" frameWidth="521" frameHeight="670"/>
+	<SubTexture name="down caillou0007" x="3033" y="0" width="502" height="670" frameX="-13" frameY="0" frameWidth="521" frameHeight="670"/>
+	<SubTexture name="down caillou0008" x="3033" y="0" width="502" height="670" frameX="-13" frameY="0" frameWidth="521" frameHeight="670"/>
+	<SubTexture name="down caillou0009" x="3033" y="0" width="502" height="670" frameX="-13" frameY="0" frameWidth="521" frameHeight="670"/>
+	<SubTexture name="idle caillou0000" x="3535" y="0" width="435" height="680" frameX="0" frameY="-31" frameWidth="435" frameHeight="711"/>
+	<SubTexture name="idle caillou0001" x="3535" y="0" width="435" height="680" frameX="0" frameY="-31" frameWidth="435" frameHeight="711"/>
+	<SubTexture name="idle caillou0002" x="0" y="706" width="433" height="681" frameX="-1" frameY="-30" frameWidth="435" frameHeight="711"/>
+	<SubTexture name="idle caillou0003" x="0" y="706" width="433" height="681" frameX="-1" frameY="-30" frameWidth="435" frameHeight="711"/>
+	<SubTexture name="idle caillou0004" x="433" y="706" width="428" height="702" frameX="-3" frameY="-9" frameWidth="435" frameHeight="711"/>
+	<SubTexture name="idle caillou0005" x="433" y="706" width="428" height="702" frameX="-3" frameY="-9" frameWidth="435" frameHeight="711"/>
+	<SubTexture name="idle caillou0006" x="861" y="706" width="420" height="711" frameX="-9" frameY="0" frameWidth="435" frameHeight="711"/>
+	<SubTexture name="idle caillou0007" x="861" y="706" width="420" height="711" frameX="-9" frameY="0" frameWidth="435" frameHeight="711"/>
+	<SubTexture name="idle caillou0008" x="1281" y="706" width="424" height="706" frameX="-7" frameY="-5" frameWidth="435" frameHeight="711"/>
+	<SubTexture name="idle caillou0009" x="1281" y="706" width="424" height="706" frameX="-7" frameY="-5" frameWidth="435" frameHeight="711"/>
+	<SubTexture name="idle caillou0010" x="1281" y="706" width="424" height="706" frameX="-7" frameY="-5" frameWidth="435" frameHeight="711"/>
+	<SubTexture name="idle caillou0011" x="1281" y="706" width="424" height="706" frameX="-7" frameY="-5" frameWidth="435" frameHeight="711"/>
+	<SubTexture name="idle caillou0012" x="1281" y="706" width="424" height="706" frameX="-7" frameY="-5" frameWidth="435" frameHeight="711"/>
+	<SubTexture name="idle caillou0013" x="1281" y="706" width="424" height="706" frameX="-7" frameY="-5" frameWidth="435" frameHeight="711"/>
+	<SubTexture name="idle caillou0014" x="1281" y="706" width="424" height="706" frameX="-7" frameY="-5" frameWidth="435" frameHeight="711"/>
+	<SubTexture name="idle-alt caillou0000" x="1705" y="706" width="415" height="706"/>
+	<SubTexture name="left caillou0000" x="2120" y="706" width="685" height="706" frameX="0" frameY="-1" frameWidth="693" frameHeight="707"/>
+	<SubTexture name="left caillou0001" x="2120" y="706" width="685" height="706" frameX="0" frameY="-1" frameWidth="693" frameHeight="707"/>
+	<SubTexture name="left caillou0002" x="2805" y="706" width="679" height="707" frameX="-14" frameY="0" frameWidth="693" frameHeight="707"/>
+	<SubTexture name="left caillou0003" x="2805" y="706" width="679" height="707" frameX="-14" frameY="0" frameWidth="693" frameHeight="707"/>
+	<SubTexture name="left caillou0004" x="2805" y="706" width="679" height="707" frameX="-14" frameY="0" frameWidth="693" frameHeight="707"/>
+	<SubTexture name="left caillou0005" x="2805" y="706" width="679" height="707" frameX="-14" frameY="0" frameWidth="693" frameHeight="707"/>
+	<SubTexture name="left caillou0006" x="2805" y="706" width="679" height="707" frameX="-14" frameY="0" frameWidth="693" frameHeight="707"/>
+	<SubTexture name="left caillou0007" x="2805" y="706" width="679" height="707" frameX="-14" frameY="0" frameWidth="693" frameHeight="707"/>
+	<SubTexture name="left caillou0008" x="2805" y="706" width="679" height="707" frameX="-14" frameY="0" frameWidth="693" frameHeight="707"/>
+	<SubTexture name="left caillou0009" x="2805" y="706" width="679" height="707" frameX="-14" frameY="0" frameWidth="693" frameHeight="707"/>
+	<SubTexture name="right caillou0000" x="3484" y="706" width="573" height="721" frameX="-5" frameY="0" frameWidth="578" frameHeight="721"/>
+	<SubTexture name="right caillou0001" x="3484" y="706" width="573" height="721" frameX="-5" frameY="0" frameWidth="578" frameHeight="721"/>
+	<SubTexture name="right caillou0002" x="0" y="1427" width="567" height="719" frameX="0" frameY="0" frameWidth="578" frameHeight="721"/>
+	<SubTexture name="right caillou0003" x="0" y="1427" width="567" height="719" frameX="0" frameY="0" frameWidth="578" frameHeight="721"/>
+	<SubTexture name="right caillou0004" x="567" y="1427" width="567" height="719" frameX="0" frameY="0" frameWidth="578" frameHeight="721"/>
+	<SubTexture name="right caillou0005" x="567" y="1427" width="567" height="719" frameX="0" frameY="0" frameWidth="578" frameHeight="721"/>
+	<SubTexture name="right caillou0006" x="567" y="1427" width="567" height="719" frameX="0" frameY="0" frameWidth="578" frameHeight="721"/>
+	<SubTexture name="right caillou0007" x="0" y="1427" width="567" height="719" frameX="0" frameY="0" frameWidth="578" frameHeight="721"/>
+	<SubTexture name="right caillou0008" x="0" y="1427" width="567" height="719" frameX="0" frameY="0" frameWidth="578" frameHeight="721"/>
+	<SubTexture name="right caillou0009" x="567" y="1427" width="567" height="719" frameX="0" frameY="0" frameWidth="578" frameHeight="721"/>
+	<SubTexture name="up caillou0000" x="1134" y="1427" width="675" height="725" frameX="0" frameY="0" frameWidth="683" frameHeight="725"/>
+	<SubTexture name="up caillou0001" x="1134" y="1427" width="675" height="725" frameX="0" frameY="0" frameWidth="683" frameHeight="725"/>
+	<SubTexture name="up caillou0002" x="1809" y="1427" width="680" height="715" frameX="-3" frameY="-10" frameWidth="683" frameHeight="725"/>
+	<SubTexture name="up caillou0003" x="1809" y="1427" width="680" height="715" frameX="-3" frameY="-10" frameWidth="683" frameHeight="725"/>
+	<SubTexture name="up caillou0004" x="1809" y="1427" width="680" height="715" frameX="-3" frameY="-10" frameWidth="683" frameHeight="725"/>
+	<SubTexture name="up caillou0005" x="1809" y="1427" width="680" height="715" frameX="-3" frameY="-10" frameWidth="683" frameHeight="725"/>
+	<SubTexture name="up caillou0006" x="1809" y="1427" width="680" height="715" frameX="-3" frameY="-10" frameWidth="683" frameHeight="725"/>
+	<SubTexture name="up caillou0007" x="1809" y="1427" width="680" height="715" frameX="-3" frameY="-10" frameWidth="683" frameHeight="725"/>
+	<SubTexture name="up caillou0008" x="1809" y="1427" width="680" height="715" frameX="-3" frameY="-10" frameWidth="683" frameHeight="725"/>
+	<SubTexture name="up caillou0009" x="1809" y="1427" width="680" height="715" frameX="-3" frameY="-10" frameWidth="683" frameHeight="725"/>
+</TextureAtlas>

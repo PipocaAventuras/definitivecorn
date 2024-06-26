@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "nomeindefinido/sansinomeufilho",
+	"position": [
+		290,
+		100
+	],
+	"healthicon": "sansinojr",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-480,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

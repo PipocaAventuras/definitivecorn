@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hallwayChase.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="chase0015" x="0" y="0" width="1200" height="456"/>
+	<SubTexture name="chase0014" x="1200" y="0" width="1200" height="456"/>
+	<SubTexture name="chase0013" x="2400" y="0" width="1200" height="456"/>
+	<SubTexture name="chase0012" x="0" y="456" width="1200" height="456"/>
+	<SubTexture name="chase0011" x="1200" y="456" width="1200" height="456"/>
+	<SubTexture name="chase0010" x="2400" y="456" width="1200" height="456"/>
+	<SubTexture name="chase0009" x="0" y="912" width="1200" height="456"/>
+	<SubTexture name="chase0008" x="1200" y="912" width="1200" height="456"/>
+	<SubTexture name="chase0007" x="2400" y="912" width="1200" height="456"/>
+	<SubTexture name="chase0006" x="0" y="1368" width="1200" height="456"/>
+	<SubTexture name="chase0005" x="1200" y="1368" width="1200" height="456"/>
+	<SubTexture name="chase0004" x="2400" y="1368" width="1200" height="456"/>
+	<SubTexture name="chase0003" x="0" y="1824" width="1200" height="456"/>
+	<SubTexture name="chase0002" x="1200" y="1824" width="1200" height="456"/>
+	<SubTexture name="chase0001" x="2400" y="1824" width="1200" height="456"/>
+	<SubTexture name="chase0000" x="0" y="2280" width="1200" height="456"/>
+</TextureAtlas>

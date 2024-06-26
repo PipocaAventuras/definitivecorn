@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "cara fino idle frame ",
+			"indices": [
+				13,
+				12,
+				11,
+				10,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": "cara fino baixo frame ",
+			"indices": [
+				6,
+				3,
+				2,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				10
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "cara fino cima frame ",
+			"indices": [
+				3,
+				6,
+				2,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				20
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "cara fino esquerda frame ",
+			"indices": [
+				6,
+				5,
+				3,
+				2
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				21
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "cara fino direita frame ",
+			"indices": [
+				6,
+				3,
+				2,
+				2,
+				1
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gentleman",
+	"position": [
+		-320,
+		90
+	],
+	"healthicon": "gentlemen",
+	"flip_x": false,
+	"healthbar_colors": [
+		48,
+		48,
+		48
+	],
+	"camera_position": [
+		300,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

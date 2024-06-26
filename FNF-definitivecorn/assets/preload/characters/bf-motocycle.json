@@ -1,0 +1,48 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "animation",
+			"indices": [],
+			"name": "olha o mic"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				23,
+				24
+			],
+			"name": "olha o mic"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/boyfriend-motocycle",
+	"position": [
+		-860,
+		210
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-300,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

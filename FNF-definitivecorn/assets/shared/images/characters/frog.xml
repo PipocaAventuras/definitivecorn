@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="frog.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="downsapo0000" x="0" y="0" width="202" height="113" frameX="0" frameY="0" frameWidth="202" frameHeight="119"/>
+	<SubTexture name="downsapo0001" x="0" y="0" width="202" height="113" frameX="0" frameY="0" frameWidth="202" frameHeight="119"/>
+	<SubTexture name="downsapo0002" x="202" y="0" width="199" height="114" frameX="-3" frameY="0" frameWidth="202" frameHeight="119"/>
+	<SubTexture name="downsapo0003" x="202" y="0" width="199" height="114" frameX="-3" frameY="0" frameWidth="202" frameHeight="119"/>
+	<SubTexture name="downsapo0004" x="401" y="0" width="199" height="119" frameX="-3" frameY="0" frameWidth="202" frameHeight="119"/>
+	<SubTexture name="downsapo0005" x="401" y="0" width="199" height="119" frameX="-3" frameY="0" frameWidth="202" frameHeight="119"/>
+	<SubTexture name="downsapo0006" x="600" y="0" width="199" height="117" frameX="-3" frameY="0" frameWidth="202" frameHeight="119"/>
+	<SubTexture name="downsapo0007" x="600" y="0" width="199" height="117" frameX="-3" frameY="0" frameWidth="202" frameHeight="119"/>
+	<SubTexture name="downsapo0008" x="600" y="0" width="199" height="117" frameX="-3" frameY="0" frameWidth="202" frameHeight="119"/>
+	<SubTexture name="downsapo0009" x="600" y="0" width="199" height="117" frameX="-3" frameY="0" frameWidth="202" frameHeight="119"/>
+	<SubTexture name="idlesapo0000" x="799" y="0" width="221" height="192" frameX="0" frameY="0" frameWidth="221" frameHeight="200"/>
+	<SubTexture name="idlesapo0001" x="799" y="0" width="221" height="192" frameX="0" frameY="0" frameWidth="221" frameHeight="200"/>
+	<SubTexture name="idlesapo0002" x="1020" y="0" width="215" height="192" frameX="-6" frameY="0" frameWidth="221" frameHeight="200"/>
+	<SubTexture name="idlesapo0003" x="1020" y="0" width="215" height="192" frameX="-6" frameY="0" frameWidth="221" frameHeight="200"/>
+	<SubTexture name="idlesapo0004" x="1235" y="0" width="215" height="195" frameX="-6" frameY="0" frameWidth="221" frameHeight="200"/>
+	<SubTexture name="idlesapo0005" x="1235" y="0" width="215" height="195" frameX="-6" frameY="0" frameWidth="221" frameHeight="200"/>
+	<SubTexture name="idlesapo0006" x="1450" y="0" width="215" height="200" frameX="-6" frameY="0" frameWidth="221" frameHeight="200"/>
+	<SubTexture name="idlesapo0007" x="1450" y="0" width="215" height="200" frameX="-6" frameY="0" frameWidth="221" frameHeight="200"/>
+	<SubTexture name="idlesapo0008" x="1450" y="0" width="215" height="200" frameX="-6" frameY="0" frameWidth="221" frameHeight="200"/>
+	<SubTexture name="idlesapo0009" x="1450" y="0" width="215" height="200" frameX="-6" frameY="0" frameWidth="221" frameHeight="200"/>
+	<SubTexture name="idlesapo0010" x="1450" y="0" width="215" height="200" frameX="-6" frameY="0" frameWidth="221" frameHeight="200"/>
+	<SubTexture name="idlesapo0011" x="1450" y="0" width="215" height="200" frameX="-6" frameY="0" frameWidth="221" frameHeight="200"/>
+	<SubTexture name="idlesapo0012" x="1450" y="0" width="215" height="200" frameX="-6" frameY="0" frameWidth="221" frameHeight="200"/>
+	<SubTexture name="idlesapo0013" x="1450" y="0" width="215" height="200" frameX="-6" frameY="0" frameWidth="221" frameHeight="200"/>
+	<SubTexture name="idlesapo0014" x="1450" y="0" width="215" height="200" frameX="-6" frameY="0" frameWidth="221" frameHeight="200"/>
+	<SubTexture name="leftsapo0000" x="1665" y="0" width="277" height="235"/>
+	<SubTexture name="leftsapo0001" x="1665" y="0" width="277" height="235"/>
+	<SubTexture name="leftsapo0002" x="0" y="235" width="240" height="235" frameX="-37" frameY="0" frameWidth="277" frameHeight="235"/>
+	<SubTexture name="leftsapo0003" x="0" y="235" width="240" height="235" frameX="-37" frameY="0" frameWidth="277" frameHeight="235"/>
+	<SubTexture name="leftsapo0004" x="240" y="235" width="237" height="235" frameX="-40" frameY="0" frameWidth="277" frameHeight="235"/>
+	<SubTexture name="leftsapo0005" x="240" y="235" width="237" height="235" frameX="-40" frameY="0" frameWidth="277" frameHeight="235"/>
+	<SubTexture name="leftsapo0006" x="240" y="235" width="237" height="235" frameX="-40" frameY="0" frameWidth="277" frameHeight="235"/>
+	<SubTexture name="leftsapo0007" x="240" y="235" width="237" height="235" frameX="-40" frameY="0" frameWidth="277" frameHeight="235"/>
+	<SubTexture name="leftsapo0008" x="240" y="235" width="237" height="235" frameX="-40" frameY="0" frameWidth="277" frameHeight="235"/>
+	<SubTexture name="leftsapo0009" x="240" y="235" width="237" height="235" frameX="-40" frameY="0" frameWidth="277" frameHeight="235"/>
+	<SubTexture name="rightsapo0000" x="477" y="235" width="249" height="176"/>
+	<SubTexture name="rightsapo0001" x="477" y="235" width="249" height="176"/>
+	<SubTexture name="rightsapo0002" x="726" y="235" width="249" height="176"/>
+	<SubTexture name="rightsapo0003" x="726" y="235" width="249" height="176"/>
+	<SubTexture name="rightsapo0004" x="975" y="235" width="249" height="176"/>
+	<SubTexture name="rightsapo0005" x="975" y="235" width="249" height="176"/>
+	<SubTexture name="rightsapo0006" x="975" y="235" width="249" height="176"/>
+	<SubTexture name="rightsapo0007" x="975" y="235" width="249" height="176"/>
+	<SubTexture name="rightsapo0008" x="975" y="235" width="249" height="176"/>
+	<SubTexture name="rightsapo0009" x="975" y="235" width="249" height="176"/>
+	<SubTexture name="upsapo0000" x="1224" y="235" width="182" height="415" frameX="-16" frameY="0" frameWidth="198" frameHeight="415"/>
+	<SubTexture name="upsapo0001" x="1224" y="235" width="182" height="415" frameX="-16" frameY="0" frameWidth="198" frameHeight="415"/>
+	<SubTexture name="upsapo0002" x="1406" y="235" width="196" height="414" frameX="-2" frameY="0" frameWidth="198" frameHeight="415"/>
+	<SubTexture name="upsapo0003" x="1406" y="235" width="196" height="414" frameX="-2" frameY="0" frameWidth="198" frameHeight="415"/>
+	<SubTexture name="upsapo0004" x="1602" y="235" width="198" height="405" frameX="0" frameY="-8" frameWidth="198" frameHeight="415"/>
+	<SubTexture name="upsapo0005" x="1602" y="235" width="198" height="405" frameX="0" frameY="-8" frameWidth="198" frameHeight="415"/>
+	<SubTexture name="upsapo0006" x="1602" y="235" width="198" height="405" frameX="0" frameY="-8" frameWidth="198" frameHeight="415"/>
+	<SubTexture name="upsapo0007" x="1602" y="235" width="198" height="405" frameX="0" frameY="-8" frameWidth="198" frameHeight="415"/>
+	<SubTexture name="upsapo0008" x="1602" y="235" width="198" height="405" frameX="0" frameY="-8" frameWidth="198" frameHeight="415"/>
+	<SubTexture name="upsapo0009" x="1602" y="235" width="198" height="405" frameX="0" frameY="-8" frameWidth="198" frameHeight="415"/>
+</TextureAtlas>

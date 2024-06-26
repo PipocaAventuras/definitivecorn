@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bambiSplitathon.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down bb0000" x="0" y="0" width="450" height="450"/>
+	<SubTexture name="down bb0001" x="0" y="0" width="450" height="450"/>
+	<SubTexture name="down bb0002" x="450" y="0" width="450" height="450"/>
+	<SubTexture name="down bb0003" x="450" y="0" width="450" height="450"/>
+	<SubTexture name="down bb0004" x="450" y="0" width="450" height="450"/>
+	<SubTexture name="down bb0005" x="450" y="0" width="450" height="450"/>
+	<SubTexture name="down bb0006" x="450" y="0" width="450" height="450"/>
+	<SubTexture name="down bb0007" x="450" y="0" width="450" height="450"/>
+	<SubTexture name="down bb0008" x="450" y="0" width="450" height="450"/>
+	<SubTexture name="down bb0009" x="450" y="0" width="450" height="450"/>
+	<SubTexture name="idle bb0000" x="900" y="0" width="450" height="450"/>
+	<SubTexture name="idle bb0001" x="900" y="0" width="450" height="450"/>
+	<SubTexture name="idle bb0002" x="1350" y="0" width="450" height="450"/>
+	<SubTexture name="idle bb0003" x="1350" y="0" width="450" height="450"/>
+	<SubTexture name="idle bb0004" x="0" y="450" width="450" height="450"/>
+	<SubTexture name="idle bb0005" x="0" y="450" width="450" height="450"/>
+	<SubTexture name="idle bb0006" x="450" y="450" width="450" height="450"/>
+	<SubTexture name="idle bb0007" x="450" y="450" width="450" height="450"/>
+	<SubTexture name="idle bb0008" x="450" y="450" width="450" height="450"/>
+	<SubTexture name="idle bb0009" x="450" y="450" width="450" height="450"/>
+	<SubTexture name="idle bb0010" x="450" y="450" width="450" height="450"/>
+	<SubTexture name="idle bb0011" x="450" y="450" width="450" height="450"/>
+	<SubTexture name="idle bb0012" x="450" y="450" width="450" height="450"/>
+	<SubTexture name="idle bb0013" x="450" y="450" width="450" height="450"/>
+	<SubTexture name="idle bb0014" x="450" y="450" width="450" height="450"/>
+	<SubTexture name="left bb0000" x="900" y="450" width="450" height="450" frameX="0" frameY="0" frameWidth="450" frameHeight="452"/>
+	<SubTexture name="left bb0001" x="900" y="450" width="450" height="450" frameX="0" frameY="0" frameWidth="450" frameHeight="452"/>
+	<SubTexture name="left bb0002" x="1350" y="450" width="450" height="450" frameX="0" frameY="-2" frameWidth="450" frameHeight="452"/>
+	<SubTexture name="left bb0003" x="1350" y="450" width="450" height="450" frameX="0" frameY="-2" frameWidth="450" frameHeight="452"/>
+	<SubTexture name="left bb0004" x="1350" y="450" width="450" height="450" frameX="0" frameY="-2" frameWidth="450" frameHeight="452"/>
+	<SubTexture name="left bb0005" x="1350" y="450" width="450" height="450" frameX="0" frameY="-2" frameWidth="450" frameHeight="452"/>
+	<SubTexture name="left bb0006" x="1350" y="450" width="450" height="450" frameX="0" frameY="-2" frameWidth="450" frameHeight="452"/>
+	<SubTexture name="left bb0007" x="1350" y="450" width="450" height="450" frameX="0" frameY="-2" frameWidth="450" frameHeight="452"/>
+	<SubTexture name="left bb0008" x="1350" y="450" width="450" height="450" frameX="0" frameY="-2" frameWidth="450" frameHeight="452"/>
+	<SubTexture name="left bb0009" x="1350" y="450" width="450" height="450" frameX="0" frameY="-2" frameWidth="450" frameHeight="452"/>
+	<SubTexture name="right bb0000" x="0" y="900" width="450" height="450"/>
+	<SubTexture name="right bb0001" x="0" y="900" width="450" height="450"/>
+	<SubTexture name="right bb0002" x="450" y="900" width="450" height="450"/>
+	<SubTexture name="right bb0003" x="450" y="900" width="450" height="450"/>
+	<SubTexture name="right bb0004" x="450" y="900" width="450" height="450"/>
+	<SubTexture name="right bb0005" x="450" y="900" width="450" height="450"/>
+	<SubTexture name="right bb0006" x="450" y="900" width="450" height="450"/>
+	<SubTexture name="right bb0007" x="450" y="900" width="450" height="450"/>
+	<SubTexture name="right bb0008" x="450" y="900" width="450" height="450"/>
+	<SubTexture name="right bb0009" x="450" y="900" width="450" height="450"/>
+	<SubTexture name="up bb0000" x="900" y="900" width="450" height="450"/>
+	<SubTexture name="up bb0001" x="900" y="900" width="450" height="450"/>
+	<SubTexture name="up bb0002" x="1350" y="900" width="450" height="450"/>
+	<SubTexture name="up bb0003" x="1350" y="900" width="450" height="450"/>
+	<SubTexture name="up bb0004" x="1350" y="900" width="450" height="450"/>
+	<SubTexture name="up bb0005" x="1350" y="900" width="450" height="450"/>
+	<SubTexture name="up bb0006" x="1350" y="900" width="450" height="450"/>
+	<SubTexture name="up bb0007" x="1350" y="900" width="450" height="450"/>
+	<SubTexture name="up bb0008" x="1350" y="900" width="450" height="450"/>
+	<SubTexture name="up bb0009" x="1350" y="900" width="450" height="450"/>
+</TextureAtlas>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PLAMBI_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="plambi motocycle portrait0000" x="0" y="0" width="445" height="396" frameX="0" frameY="-46" frameWidth="512" frameHeight="442"/>
+	<SubTexture name="plambi motocycle portrait0001" x="445" y="0" width="446" height="395" frameX="-30" frameY="-25" frameWidth="512" frameHeight="442"/>
+	<SubTexture name="plambi motocycle portrait0002" x="891" y="0" width="445" height="396" frameX="-42" frameY="-17" frameWidth="512" frameHeight="442"/>
+	<SubTexture name="plambi motocycle portrait0003" x="1336" y="0" width="446" height="396" frameX="-49" frameY="-11" frameWidth="512" frameHeight="442"/>
+	<SubTexture name="plambi motocycle portrait0004" x="0" y="396" width="445" height="396" frameX="-55" frameY="-7" frameWidth="512" frameHeight="442"/>
+	<SubTexture name="plambi motocycle portrait0005" x="445" y="396" width="446" height="396" frameX="-59" frameY="-4" frameWidth="512" frameHeight="442"/>
+	<SubTexture name="plambi motocycle portrait0006" x="891" y="396" width="446" height="396" frameX="-62" frameY="-2" frameWidth="512" frameHeight="442"/>
+	<SubTexture name="plambi motocycle portrait0007" x="1337" y="396" width="445" height="395" frameX="-65" frameY="-1" frameWidth="512" frameHeight="442"/>
+	<SubTexture name="plambi motocycle portrait0008" x="0" y="792" width="445" height="396" frameX="-66" frameY="0" frameWidth="512" frameHeight="442"/>
+	<SubTexture name="plambi motocycle portrait0009" x="445" y="792" width="446" height="395" frameX="-66" frameY="0" frameWidth="512" frameHeight="442"/>
+</TextureAtlas>

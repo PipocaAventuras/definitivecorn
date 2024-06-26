@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sad jon.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jon dowrn0000" x="0" y="0" width="993" height="634" frameX="0" frameY="-3" frameWidth="993" frameHeight="644"/>
+	<SubTexture name="jon dowrn0001" x="0" y="0" width="993" height="634" frameX="0" frameY="-3" frameWidth="993" frameHeight="644"/>
+	<SubTexture name="jon dowrn0002" x="993" y="0" width="993" height="634" frameX="0" frameY="0" frameWidth="993" frameHeight="644"/>
+	<SubTexture name="jon dowrn0003" x="1986" y="0" width="993" height="634" frameX="0" frameY="-10" frameWidth="993" frameHeight="644"/>
+	<SubTexture name="jon dowrn0004" x="1986" y="0" width="993" height="634" frameX="0" frameY="-10" frameWidth="993" frameHeight="644"/>
+	<SubTexture name="jon dowrn0005" x="1986" y="0" width="993" height="634" frameX="0" frameY="-10" frameWidth="993" frameHeight="644"/>
+	<SubTexture name="jon sad idle0000" x="2979" y="0" width="993" height="634" frameX="0" frameY="0" frameWidth="998" frameHeight="634"/>
+	<SubTexture name="jon sad idle0001" x="0" y="634" width="993" height="634" frameX="0" frameY="0" frameWidth="998" frameHeight="634"/>
+	<SubTexture name="jon sad idle0002" x="993" y="634" width="993" height="634" frameX="0" frameY="0" frameWidth="998" frameHeight="634"/>
+	<SubTexture name="jon sad idle0003" x="1986" y="634" width="993" height="634" frameX="0" frameY="0" frameWidth="998" frameHeight="634"/>
+	<SubTexture name="jon sad idle0004" x="2979" y="634" width="993" height="634" frameX="-4" frameY="0" frameWidth="998" frameHeight="634"/>
+	<SubTexture name="jon sad idle0005" x="0" y="1268" width="993" height="634" frameX="-3" frameY="0" frameWidth="998" frameHeight="634"/>
+	<SubTexture name="jon sad idle0006" x="993" y="1268" width="993" height="634" frameX="-5" frameY="0" frameWidth="998" frameHeight="634"/>
+	<SubTexture name="jon sad idle0007" x="1986" y="1268" width="993" height="634" frameX="-5" frameY="0" frameWidth="998" frameHeight="634"/>
+	<SubTexture name="jon sad idle0008" x="1986" y="1268" width="993" height="634" frameX="-5" frameY="0" frameWidth="998" frameHeight="634"/>
+	<SubTexture name="sad jon left0000" x="2979" y="1268" width="993" height="634" frameX="-13" frameY="0" frameWidth="1006" frameHeight="642"/>
+	<SubTexture name="sad jon left0001" x="2979" y="1268" width="993" height="634" frameX="-13" frameY="0" frameWidth="1006" frameHeight="642"/>
+	<SubTexture name="sad jon left0002" x="0" y="1902" width="993" height="634" frameX="-6" frameY="-1" frameWidth="1006" frameHeight="642"/>
+	<SubTexture name="sad jon left0003" x="993" y="1902" width="993" height="634" frameX="0" frameY="-8" frameWidth="1006" frameHeight="642"/>
+	<SubTexture name="sad jon left0004" x="993" y="1902" width="993" height="634" frameX="0" frameY="-8" frameWidth="1006" frameHeight="642"/>
+	<SubTexture name="sad jon left0005" x="993" y="1902" width="993" height="634" frameX="0" frameY="-8" frameWidth="1006" frameHeight="642"/>
+	<SubTexture name="sad jon right0000" x="1986" y="1902" width="993" height="634" frameX="0" frameY="0" frameWidth="1027" frameHeight="642"/>
+	<SubTexture name="sad jon right0001" x="1986" y="1902" width="993" height="634" frameX="0" frameY="0" frameWidth="1027" frameHeight="642"/>
+	<SubTexture name="sad jon right0002" x="2979" y="1902" width="993" height="634" frameX="-7" frameY="-4" frameWidth="1027" frameHeight="642"/>
+	<SubTexture name="sad jon right0003" x="0" y="2536" width="993" height="634" frameX="-34" frameY="-8" frameWidth="1027" frameHeight="642"/>
+	<SubTexture name="sad jon right0004" x="0" y="2536" width="993" height="634" frameX="-34" frameY="-8" frameWidth="1027" frameHeight="642"/>
+	<SubTexture name="sad jon right0005" x="0" y="2536" width="993" height="634" frameX="-34" frameY="-8" frameWidth="1027" frameHeight="642"/>
+	<SubTexture name="sad jon up0000" x="993" y="2536" width="993" height="634" frameX="-13" frameY="-4" frameWidth="1006" frameHeight="643"/>
+	<SubTexture name="sad jon up0001" x="993" y="2536" width="993" height="634" frameX="-13" frameY="-4" frameWidth="1006" frameHeight="643"/>
+	<SubTexture name="sad jon up0002" x="1986" y="2536" width="993" height="634" frameX="-12" frameY="0" frameWidth="1006" frameHeight="643"/>
+	<SubTexture name="sad jon up0003" x="2979" y="2536" width="993" height="634" frameX="0" frameY="-9" frameWidth="1006" frameHeight="643"/>
+	<SubTexture name="sad jon up0004" x="2979" y="2536" width="993" height="634" frameX="0" frameY="-9" frameWidth="1006" frameHeight="643"/>
+	<SubTexture name="sad jon up0005" x="2979" y="2536" width="993" height="634" frameX="0" frameY="-9" frameWidth="1006" frameHeight="643"/>
+	<SubTexture name="sad jon up0006" x="2979" y="2536" width="993" height="634" frameX="0" frameY="-9" frameWidth="1006" frameHeight="643"/>
+</TextureAtlas>

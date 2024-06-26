@@ -1,0 +1,325 @@
+// FLASHING SUBSTATE //
+introWarning==Hey, gracias por descargar el mod! Contiene algunas luces parpadeantes y shaders! Presiona ENTER para deshabilitarlos, o ve a las opciones para hacerlo. Presiona ESCAPE para ignorar este mensaje. Fuiste advertido!
+
+// Credits PopUp //
+credits_songby==Cancion por
+credits_remixby==Remix por
+credits_garbageby==Lo que sea esta mierda por
+credits_garbageby-censored==Lo que sea esto por
+credits_partby==Parte por
+
+// Credits Words //
+agrov71961_credit==OCs creado por chrixtmas!
+agrov719612_credit==OCs creado por Wildy!
+p_credit==Es la hora de la pizza!
+p2_credit==No es la hora de la pizza!
+summer_credit==OC creado por Erica!
+dealings_credit==OC creado por poopypants839!
+lightning_credit==OC perteneciente a Luan!
+mustard_credit==OC creado por MatZap!
+reminiscence_credit==OC creado por TotallyNotKaz, perteneciente a Luan!
+cookiedough_credit==OC creado por Kamari8!
+vacation_credit==OC creado por OctoStar!
+oblique_credit==OC creado por Joojador Legal!
+
+cur_language==Idioma Actual
+en-US==Inglés
+pt-br==Portugués
+
+// Title State //
+title_created==Creado por
+title_thisamod==Esto es un mod
+title_fromamod==De un mod lol
+
+// Play State //
+play_score==Puntuación:
+play_miss==Combos Rotos:
+play_accuracy==Precisión:
+
+// Dialogue Box //
+dialogue_skip==Presiona Espacio para saltar cinematica.
+
+// Freeplay State //
+freeplay_skipChar==Mantén CTRL para saltarse la Seleción de Personaje
+freeplay_personalBest==RECORD PERSONAL:
+
+// Pause State //
+pause_Resume==Continuar
+pause_Restart Song==Reiniciar Cancion
+pause_Toggle Practice Mode==Modo de Practica
+pause_Botplay==Botplay
+pause_Change Character==Cambiar personaje
+pause_Options==Opciones
+pause_Exit to menu==Salir al menu
+pause_blueballed==Muerto:
+pause_practice==MODO DE PRÁCTICA
+
+// Credits State //
+credits_Developers==Developers
+credits_Webby==Creadora, Artista, Animador, Compositor y Director
+credits_Noname==Tuvo la idea del mod, Creador de Jon y Apoyo
+credits_Ben==Director, Coder, Compositor, Artista, Animador, Charter y Traduccion Portuguesa
+credits_poopypants839==Director, Compositor, Artista, Animador y Charter
+credits_geby==Compositor, Artista, Animador y Charter
+credits_Spike==Animador y Ideas
+credits_Praga Infernal==Creadora de Leo, Modeler y Traduccion Portuguesa
+credits_Noxius==Ideas y Creador de Niles
+credits_Xolote==Creador de Plambi y Ideas
+credits_Ice cube==Idea de Asfalto, Sprites y Creador de fondo 3d
+credits_chrixtmas==Creador de Danevy y Bombles, Creador de fondo 3d y Artista
+credits_JooJ Dumwell==Compositor, Iconos, Chromatics y Artista
+credits_Espla==Compositor, Ideas y Artista
+credits_Luan==Compositor and Artista
+credits_Contributors==Contribuidores
+credits_Perk==Contribuidor, Apoyo y Traductor Español
+credits_HF==Algunos sprites 3d
+credits_Memoria==Sprites de Lore
+credits_Rembulous==Sprites de Samny
+credits_D-Plushies==Compositor de Cake
+credits_Syberyen==Concepto de Minecraft Vanderley
+credits_Vis0iden==Apoyo
+credits_Raul Antuns==Apoyo en Coding y Tester
+credits_Yan Pizza==Apoyo y creador de Pizza God
+credits_Mosto==Apoyo
+credits_JogG4DX==Apoyo
+credits_Discord==Discord
+credits_Discord Server==Unete al servidor de discord!
+
+// Options State //
+option_Notes==Notas
+option_Controls==Controles
+option_Preferences==Preferencias
+option_Change Language==Cambiar Idioma
+option_hsvText==Hue    Saturacion   Brillo
+option_NOTES==NOTAS
+option_Left==Izquierda
+option_Down==Abajo
+option_Up==Arriba
+option_Right==Derecha
+option_Left ==Izquierda 
+option_Down ==Abajo 
+option_Up ==Arriba 
+option_Right ==Derecha 
+option_UI==UI
+option_Reset==Reset
+option_Accept==Acceptar
+option_Back==Atras
+option_Pause==Pausa
+option_Reset to Default Keys==Restaurar a controles
+option_GRAPHICS==GRAFICOS
+option_GAMEPLAY==GAMEPLAY
+option_Framerate==Framerate
+option_Note Delay==Delay de notas
+option_Low Quality==Baja Calidad
+option_Anti-Aliasing==Anti-Aislado
+option_Persistent Cached Data==Persistent Cached Data
+option_Downscroll==Downscroll
+option_Middlescroll==Middlescroll
+option_Ghost Tapping==Ghost Tapping
+option_Note Splashes==Splash de Notas
+option_Hide HUD==Deshabilitar HUD
+option_Cutscenes==Escenas
+option_Swearing==Palabrotas
+option_Hitsound==Hitsound
+option_Hide Song Length==Deshabilitar Longitud de Cancion
+option_Flashing Lights==Luces parpadeantes
+option_Camera Zooms==Zooms de camara
+option_FPS Counter==Contador de FPS
+option_framerateTxt==Se explica por si mismo. Valor por defecto 60
+option_notedelayTxt==Cambia la duración de aparicion de una nota. Puede ser muy servible con audifonos con retraso de audio
+option_fpscounterTxt==Si no esta seleccionado, no se veran la cantidad de FPS
+option_lowqualityTxt==Si esta seleccionado, se quitaran algunos detalles del fondo y las pantallas de cargas seran mas optimizadas y rapidas.
+option_cachedTxt==Si esta seleccionado, las imagenes estaran en la memoria hasta que se cierre el juego, esto consume mas usado de memoria pero hace las cargas casi inmediatas
+option_antialiasingTxt==Si no esta seleccionado, las imagenes ya no se veran tan limpias y fluidas, pero mejora el rendimiento.
+option_downscrollTxt==Si esta seleccionado, las notas se iran de arriba hacia abajo.
+option_middlescrollTxt==Si esta seleccionado, tus notas se veran en el centro de la pantalla, y las del enemigo, en los laterales.
+option_ghostTxt==Si esta seleccionado, no tendras fallos cada vez que le das a los botones sin haber ninguna nota.
+option_swearingTxt==Si no esta seleccionado, no se mostraran palabrotas.
+option_violenceTxt==Si no esta seleccionado, no se mostrará violencia
+option_splashesTxt==Si no esta seleccionado, las notas SICK no mostraran particulas
+option_flashTxt==Deselecciona esta opcion si eres sensible a luces fuertes!
+option_cameraTxt==Si no esta seleccionado, la camara no hara zoom al ritmo de la musica
+option_hidehudTxt==Si esta seleccionado, no mostrara la mayoria de HUD
+option_cutscenesTxt==Animaciones en las canciones.
+option_hitsoundTxt==Las notas suenan cada vez que las pulsas
+option_songlengthTxt==Si esta seleccionado, no se vera el contador de minutos de la cancion.
+option_
+
+// Maize Subtitles //
+maize_sub1==Digo...
+maize_sub2==Tu puedes
+maize_sub3==Jugarme...
+maize_sub4==¿No puedes?
+maize_sub5==No vuelvas nunca más.
+maize_sub6==¡Bien!
+maize_sub7==Lo que quieras.
+maize_sub8==¿Me juegas?
+maize_sub9==Bien.
+maize_sub10==¿Que quieres jugar?
+maize_sub11==¿Tu me acosas?
+maize_sub12==No vuelvas nunca más.
+
+// Probability Subtitles //
+probability_sub1==CALLATE!
+probability_sub2==PARA
+probability_sub3==DE LLAMARME
+probability_sub3-censored==DE LLAMARME
+probability_sub4==DE UNA JODIDA VEZ!!
+probability_sub5==OH! OH POR!
+probability_sub6==JODETE!
+probability_sub6-censored
+probability_sub7==BASTA, BASTA
+probability_sub8==VOY A ENSEÑAR MI
+probability_sub9==POLLA!
+probability_sub10==LLAMANDOME TU ME
+probability_sub11==ODIAS ME
+probability_sub12==ABUSAS ME
+probability_sub13==TROLEASTE ME-
+probability_sub14==MENTIROSO!
+
+// Motocycle Subtitles //
+motocycle_sub1==NUNCA MAS!
+motocycle_sub2==ARRUINASTE MI VIDA!
+motocycle_sub3==TE VOY A BLOQUEAR!
+
+// Fancy Subtitles //
+fancy_sub1==tuve una pesadilla
+fancy_sub2==en Baldi's Basics
+fancy_sub3==me encanta Baldi's Basics
+fancy_sub4==y mas
+
+// Pipebomb Subtitles //
+pipebomb_sub1==Que esta pasando?
+
+// Agronomist Subtitles //
+agronomist_sub1==Ve a agarrar el primer libro
+agronomist_sub2==y te dire lo que hacer despues.
+agronomist_sub3==Oye, Marcello!
+agronomist_sub4==Crees que seria radical que
+agronomist_sub5==yo haga un solo?
+agronomist_sub6==Creo que sonara increible!
+agronomist_sub7==Ok entonces!
+agronomist_sub8==Yipee!
+
+// Subversive Subtitles //
+subversive_sub1==Vamos a hacer unas mates!
+subversive_sub2==Me impresionas mas y mas!
+subversive_sub3==INCORRECTO!
+subversive_sub4==Como puedes fallar una pregunta tan facil?!
+subversive_sub5==Tu tonto, imbecil, malgasto de oxigeno en este mundo!
+subversive_sub6==Nada es mas preposteo que tu!
+subversive_sub7==Ahora, preparate a dar cara a mis fascinantes habilidades de rap!
+subversive_sub8==Necesito ayuda con mis deberes!
+subversive_sub9==No me quites el puesto nunca mas!
+subversive_sub10==No se rapea con los profesores en los pasillos!
+subversive_sub11==Puedes ayudar a encontrar a mi padre?
+subversive_sub12==Es hora de davear!
+subversive_sub13==Ok, nose como voy a ejecutar esto pero
+subversive_sub14==lo voy a hacer igualmente.
+subversive_sub15==Asi que, lo hiciste.
+subversive_sub16==Debio ser dificil para ti
+subversive_sub17==diciendo que este mod es imposible.
+subversive_sub18==Si llegaste hasta aqui, enhorabuena.
+subversive_sub19==Que bonito dia para trabajar en mi oficina!
+subversive_sub20==Que en el nombre de jesus y el espiritu santo?!
+subversive_sub21==Tu otra vez, estoy cansado de verte!
+subversive_sub22==Porque no dejas mi escuela de una maldita vez!?
+subversive_sub23==Wow, esa pelicula estuvo increible!
+subversive_sub24==Te gusto, Caillou?
+subversive_sub25==Si, me gusto la-
+subversive_sub26==Callate la puta boca Calliou, no te pregunte nada!
+subversive_sub26-censored==Callate la boca Calliou, no te pregunte nada!
+
+// Falsify Subtitles //
+falsify_sub1==LO MALDITA SABIA
+falsify_sub1-censored==LO MALDITA SABIA
+falsify_sub2==MOLDY
+falsify_sub3==TE DIJE QUE ODIO LAS LLAMADAS
+falsify_sub4==YO JODIDAMENTE ODIO
+falsify_sub4-censored==YO ODIO
+
+// Trains Subtitles //
+trains_sub1==encontre lo roto de este juego
+trains_sub2==Asi que tu…
+trains_sub3==Agarras el traje para Baldi y…
+trains_sub4==Baldi, entonces
+trains_sub5==Va a la
+trains_sub6==zona de campamento y por fin
+trains_sub7==si crees que te gusta
+trains_sub8==entonces!
+trains_sub9==La musica… la
+trains_sub10==La voz de Baldi.. esta
+trains_sub11==rota..
+trains_sub12==Entonces, creo que, batirlo
+trains_sub13==Esto
+trains_sub14==En realidad..
+trains_sub15==En realidad creo que esta roto…
+trains_sub16==la..
+trains_sub17==musica
+trains_sub18==Yo creo que
+trains_sub19==creo 
+trains_sub20==creo que esta roto
+trains_sub21==uhhh
+trains_sub22==L-
+trains_sub23==La musica..
+trains_sub24==La musica paro..
+trains_sub25==Creo que es un glitch.
+
+// Cake Subtitles //
+cake_sub1==Feliz!
+cake_sub2==Cumpleaños! :D
+
+// Summer Subtitles //
+summer_sub1==Okay chicos!
+summer_sub2==Oh, Hola aqui esta!
+summer_sub3==Hoy vamos a ir a la piscina
+summer_sub4==*inaudible*
+
+// Oblique Subtitles //
+oblique_sub1==Hola gente
+oblique_sub2==voy a hacer un baile para ti
+
+// P Subtitles //
+p_sub1==PARA
+p_sub2==DE JODIDAMENTE
+p_sub2-censored==DE
+p_sub3==LLAMAR ME!
+p_sub4==ALISSON!
+p_sub5==CALLA
+p_sub5-censored==CALLA
+p_sub6==TE
+p_sub7==QUIERO QUE ME MIRES
+p_sub8==MIRAME!
+p_sub8-censored==MIRAME!
+
+// IP Subtitles //
+ip_sub1==123.12.1234.123
+
+// Rage Subtitles //
+rage_sub1==TIO, QUE MIERDA
+rage_sub1-censored==TIO, QUE DIABLOS
+rage_sub2==POR DIOS
+rage_sub3==TU, MALDITO IDIOTA
+rage_sub3-censored==TU, MALDITO IDIOTA
+rage_sub4==SOLO VETE DE MI MALDITA CARA!
+
+// Agronomo Subtitles //
+agronomo_sub1==ve a agarrar el primer libro
+agronomo_sub2==y voy a decir lo que debes despues
+agronomo_sub3==*Balbuceo*
+agronomo_sub4==*BALBUCEO*
+agronomo_sub5==tu eres caca
+
+// Talkative Subtitles //
+talkative_sub1==Hey Bambi, sabes quien es cand-
+talkative_sub2==CALLATE, asi es como tus padres murieron!
+talkative_sub2-censored==CALLATE, asi es como tus padres murieron!
+talkative_sub3==perra.
+
+// Untitled Subtitles //
+untitled_sub1==no no no no no!
+untitled_sub2==eres un maldito idiota!
+untitled_sub2-censored==eres un maldito idiota!
+untitled_sub3==para de trolearme por dios o no tendras puntos
+untitled_sub4==en fnf dave and bambi lol discord 100
+untitled_sub5==preparate para la muerte. esta viniendo

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle rock"
+		},
+		{
+			"offsets": [
+				10,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up rock"
+		},
+		{
+			"offsets": [
+				-70,
+				-106
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down rock"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right rock",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left rock",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/existentialcrisis-gentleman",
+	"position": [
+		-460,
+		-200
+	],
+	"healthicon": "rock",
+	"flip_x": true,
+	"healthbar_colors": [
+		207,
+		81,
+		211
+	],
+	"camera_position": [
+		-290,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

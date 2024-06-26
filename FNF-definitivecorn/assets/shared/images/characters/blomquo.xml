@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="blomquo.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down0000.png" x="0" y="0" width="476" height="596"/>
+	<SubTexture name="Down0001.png" x="476" y="0" width="476" height="596"/>
+	<SubTexture name="Idle0000.png" x="952" y="0" width="476" height="596"/>
+	<SubTexture name="Idle0001.png" x="1428" y="0" width="476" height="596"/>
+	<SubTexture name="Idle0002.png" x="0" y="596" width="476" height="596"/>
+	<SubTexture name="Idle0003.png" x="476" y="596" width="476" height="596"/>
+	<SubTexture name="Left0000.png" x="952" y="596" width="476" height="596"/>
+	<SubTexture name="Left0001.png" x="1428" y="596" width="476" height="596"/>
+	<SubTexture name="Right0000.png" x="0" y="1192" width="476" height="596"/>
+	<SubTexture name="Right0001.png" x="476" y="1192" width="476" height="596"/>
+	<SubTexture name="Up0000.png" x="952" y="1192" width="476" height="596"/>
+	<SubTexture name="Up0001.png" x="1428" y="1192" width="476" height="596"/>
+</TextureAtlas>

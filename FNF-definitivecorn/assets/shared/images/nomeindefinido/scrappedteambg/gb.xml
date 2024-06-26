@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gb.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gb0000" x="0" y="0" width="380" height="371"/>
+	<SubTexture name="gb0001" x="0" y="0" width="380" height="371"/>
+	<SubTexture name="gb0002" x="380" y="0" width="380" height="371"/>
+	<SubTexture name="gb0003" x="380" y="0" width="380" height="371"/>
+	<SubTexture name="gb0004" x="760" y="0" width="380" height="371"/>
+	<SubTexture name="gb0005" x="760" y="0" width="380" height="371"/>
+	<SubTexture name="gb0006" x="1140" y="0" width="380" height="371"/>
+	<SubTexture name="gb0007" x="1140" y="0" width="380" height="371"/>
+	<SubTexture name="gb0008" x="1520" y="0" width="380" height="371"/>
+	<SubTexture name="gb0009" x="1520" y="0" width="380" height="371"/>
+	<SubTexture name="gb0010" x="380" y="0" width="380" height="371"/>
+	<SubTexture name="gb0011" x="380" y="0" width="380" height="371"/>
+	<SubTexture name="gb0012" x="0" y="0" width="380" height="371"/>
+	<SubTexture name="gb0013" x="0" y="0" width="380" height="371"/>
+	<SubTexture name="gb0014" x="0" y="0" width="380" height="371"/>
+	<SubTexture name="gb0015" x="0" y="0" width="380" height="371"/>
+</TextureAtlas>

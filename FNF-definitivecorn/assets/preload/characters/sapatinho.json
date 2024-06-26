@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bf idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				9
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				7
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bf down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				35
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bf up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-72,
+				9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bf right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				10
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "all miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				10
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "all miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				10
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "all miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				10
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "all miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-20,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "bf hey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sapatinho",
+	"position": [
+		100,
+		360
+	],
+	"healthicon": "bfnuts",
+	"flip_x": true,
+	"healthbar_colors": [
+		5,
+		0,
+		156
+	],
+	"camera_position": [
+		50,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="peppino_jumpscare.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jumpscare0000" x="0" y="0" width="1060" height="950" frameX="-1425" frameY="-1121" frameWidth="3911" frameHeight="3192"/>
+	<SubTexture name="jumpscare0001" x="0" y="0" width="1060" height="950" frameX="-1425" frameY="-1121" frameWidth="3911" frameHeight="3192"/>
+	<SubTexture name="jumpscare0002" x="1060" y="0" width="1343" height="1192" frameX="-1284" frameY="-1000" frameWidth="3911" frameHeight="3192"/>
+	<SubTexture name="jumpscare0003" x="1060" y="0" width="1343" height="1192" frameX="-1284" frameY="-1000" frameWidth="3911" frameHeight="3192"/>
+	<SubTexture name="jumpscare0004" x="2403" y="0" width="1949" height="1670" frameX="-981" frameY="-761" frameWidth="3911" frameHeight="3192"/>
+	<SubTexture name="jumpscare0005" x="0" y="1670" width="3911" height="3192"/>
+	<SubTexture name="jumpscare0006" x="0" y="1670" width="3911" height="3192"/>
+</TextureAtlas>

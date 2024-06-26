@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-32
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				56
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "down angry",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				24
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "up angry",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-57,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "left0"
+		},
+		{
+			"offsets": [
+				53,
+				-15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "right0"
+		},
+		{
+			"offsets": [
+				-52,
+				-24
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "left angry"
+		},
+		{
+			"offsets": [
+				29,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "right angry"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lauturninho",
+	"position": [
+		30,
+		310
+	],
+	"healthicon": "lauturninho",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		280,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

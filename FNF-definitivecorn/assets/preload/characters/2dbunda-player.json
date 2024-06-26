@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				243,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bunda left"
+		},
+		{
+			"offsets": [
+				98,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				245,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				80,
+				-75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bunda down"
+		},
+		{
+			"offsets": [
+				70,
+				-20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bunda idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bandu_old_2d",
+	"position": [
+		190,
+		250
+	],
+	"healthicon": "bunda2d",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		229,
+		132
+	],
+	"camera_position": [
+		240,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

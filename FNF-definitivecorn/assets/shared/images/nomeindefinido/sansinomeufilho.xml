@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sansinomeufilho.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="245" height="395" frameX="-150" frameY="-1" frameWidth="545" frameHeight="398"/>
+	<SubTexture name="idle0001" x="245" y="0" width="415" height="397" frameX="-65" frameY="0" frameWidth="545" frameHeight="398"/>
+	<SubTexture name="idle0002" x="660" y="0" width="531" height="396" frameX="-7" frameY="-1" frameWidth="545" frameHeight="398"/>
+	<SubTexture name="idle0003" x="1191" y="0" width="498" height="388" frameX="-24" frameY="-5" frameWidth="545" frameHeight="398"/>
+	<SubTexture name="idle0004" x="0" y="397" width="545" height="395" frameX="0" frameY="-1" frameWidth="545" frameHeight="398"/>
+	<SubTexture name="idle0005" x="545" y="397" width="437" height="398" frameX="-54" frameY="0" frameWidth="545" frameHeight="398"/>
+	<SubTexture name="idle0006" x="982" y="397" width="246" height="396" frameX="-150" frameY="-1" frameWidth="545" frameHeight="398"/>
+	<SubTexture name="idle0007" x="1228" y="397" width="491" height="398" frameX="-27" frameY="0" frameWidth="545" frameHeight="398"/>
+	<SubTexture name="idle0008" x="0" y="795" width="543" height="393" frameX="-1" frameY="-2" frameWidth="545" frameHeight="398"/>
+	<SubTexture name="idle0009" x="543" y="795" width="497" height="388" frameX="-24" frameY="-5" frameWidth="545" frameHeight="398"/>
+	<SubTexture name="idle0010" x="1040" y="795" width="541" height="395" frameX="-2" frameY="-1" frameWidth="545" frameHeight="398"/>
+	<SubTexture name="idle0011" x="1581" y="795" width="430" height="397" frameX="-58" frameY="0" frameWidth="545" frameHeight="398"/>
+</TextureAtlas>

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 13,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 13,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-2
+			],
+			"anim": "singUP",
+			"fps": 13,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-11
+			],
+			"anim": "singLEFT",
+			"fps": 13,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-12
+			],
+			"anim": "singDOWN",
+			"fps": 13,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				101,
+				320
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "jump",
+			"loop": false,
+			"name": "jump"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/puncher",
+	"position": [
+		180,
+		390
+	],
+	"healthicon": "puncher",
+	"flip_x": false,
+	"healthbar_colors": [
+		213,
+		2,
+		71
+	],
+	"camera_position": [
+		-540,
+		-330
+	],
+	"sing_duration": 6.1,
+	"scale": 7.99999999999999
+}

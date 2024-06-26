@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "diamond right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "diamond idle"
+		},
+		{
+			"offsets": [
+				158,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "diamond left"
+		},
+		{
+			"offsets": [
+				-11,
+				41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "diamond up"
+		},
+		{
+			"offsets": [
+				5,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "diamond down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/diamondmantalkative",
+	"position": [
+		140,
+		460
+	],
+	"healthicon": "diamond_man",
+	"flip_x": false,
+	"healthbar_colors": [
+		189,
+		212,
+		230
+	],
+	"camera_position": [
+		0,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

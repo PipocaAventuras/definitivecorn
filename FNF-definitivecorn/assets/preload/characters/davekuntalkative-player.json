@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "dave kun idle"
+		},
+		{
+			"offsets": [
+				204,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dave kun down"
+		},
+		{
+			"offsets": [
+				-57,
+				104
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dave kun up"
+		},
+		{
+			"offsets": [
+				-43,
+				90
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "dave kun hey"
+		},
+		{
+			"offsets": [
+				143,
+				32
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "dave kun right"
+		},
+		{
+			"offsets": [
+				-44,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "dave kun left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/davekuntalkative",
+	"position": [
+		210,
+		560
+	],
+	"healthicon": "discordkun",
+	"flip_x": false,
+	"healthbar_colors": [
+		5,
+		0,
+		156
+	],
+	"camera_position": [
+		320,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

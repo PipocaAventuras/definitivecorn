@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				41,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "blomquo down"
+		},
+		{
+			"offsets": [
+				24,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "blomquo up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "blomquo idle"
+		},
+		{
+			"offsets": [
+				8,
+				14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "blomquo right"
+		},
+		{
+			"offsets": [
+				-9,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "blomquo left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blomquo_talkative",
+	"position": [
+		200,
+		260
+	],
+	"healthicon": "blomquotalkative",
+	"flip_x": false,
+	"healthbar_colors": [
+		218,
+		185,
+		165
+	],
+	"camera_position": [
+		80,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,169 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "fly",
+			"indices": [],
+			"name": "arrive"
+		},
+		{
+			"offsets": [
+				10,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				18,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				18,
+				8
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				10,
+				-2
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "left",
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-15,
+				5
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "right",
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/miles",
+	"position": [
+		100,
+		290
+	],
+	"healthicon": "miles",
+	"flip_x": false,
+	"healthbar_colors": [
+		229,
+		129,
+		0
+	],
+	"camera_position": [
+		340,
+		-270
+	],
+	"sing_duration": 6.1,
+	"scale": 8.89999999999998
+}

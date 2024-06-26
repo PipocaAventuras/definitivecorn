@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				167,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				193,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				167,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				166,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-110
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "grr idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				-110
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "grr right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-109
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "grr up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				-110
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "grr down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-110
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "grr left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bambichu",
+	"position": [
+		10,
+		30
+	],
+	"healthicon": "bambichu",
+	"flip_x": false,
+	"healthbar_colors": [
+		174,
+		144,
+		5
+	],
+	"camera_position": [
+		-170,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

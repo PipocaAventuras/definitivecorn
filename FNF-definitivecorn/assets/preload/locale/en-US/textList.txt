@@ -1,0 +1,325 @@
+// FLASHING SUBSTATE //
+introWarning==Hey, thanks for downloading the mod! It contains some flashing lights and shaders! Press ENTER to disable them, or go to Options to disable it. Press ESCAPE to ignore this message. You have been warned!
+
+// Credits PopUp //
+credits_songby==Song by
+credits_remixby==Remix by
+credits_garbageby==Garbage by
+credits_garbageby-censored==Garbage by
+credits_partby==Part by
+
+// Credits Words //
+agrov71961_credit==OCs created by chrixtmas!
+agrov719612_credit==OCs created by Wildy!
+p_credit==It's Pizza Time!
+p2_credit==Isn't Pizza Time!
+summer_credit==OC created by Erica!
+dealings_credit==OC created by poopypants839!
+lightning_credit==OC owned by Luan!
+mustard_credit==OC created by MatZap!
+reminiscence_credit==OC created by TotallyNotKaz, owned by Luan!
+cookiedough_credit==OC created by Kamari8!
+vacation_credit==OC created by OctoStar!
+oblique_credit==OC created by Joojador Legal!
+
+cur_language==Select a Language
+en-US==English
+pt-br==Portuguese
+
+// Title State //
+title_created==Created by
+title_thisamod==This is a mod
+title_fromamod==From a mod lol
+
+// Play State //
+play_score==Score:
+play_miss==Combo Breaks:
+play_accuracy==Accuracy:
+
+// Dialogue Box //
+dialogue_skip==Press SPACE to skip the dialogue.
+
+// Freeplay State //
+freeplay_skipChar==Hold CTRL To Skip Character Selection
+freeplay_personalBest==PERSONAL BEST:
+
+// Pause State //
+pause_Resume==Resume
+pause_Restart Song==Restart Song
+pause_Toggle Practice Mode==Toggle Practice Mode
+pause_Botplay==Botplay
+pause_Change Character==Change Character
+pause_Options==Options
+pause_Exit to menu==Exit To Menu
+pause_blueballed==Died:
+pause_practice==PRACTICE MODE
+
+// Credits State //
+credits_Developers==Developers
+credits_Webby==Mod Creator, Artist, Animator, Composer and Director
+credits_Noname==Idea of the Mod, Jon Creator and Supporter
+credits_Ben==Director, Coder, Composer, Artist, Animator, Charter and Portuguese Translator
+credits_poopypants839==Director, Composer, Artist, Animator and Charter
+credits_geby==Composer, Artist, Animator and Charter
+credits_Spike==Animator and Ideas
+credits_Praga Infernal==Leo Creator, Modeler and Portuguese Translator
+credits_Noxius==Ideas and Niles Creator
+credits_Xolote==Plambi Creator and Ideas
+credits_Ice cube==Asfalto Idea, Sprites and Background Maker
+credits_chrixtmas==Danevy & Bombles Creator, 3D Background Maker and Artist
+credits_JooJ Dumwell==Composer, Icons, Chromatics and Artist
+credits_Espla==Composer, Ideas and Artist
+credits_Luan==Composer and Artist
+credits_Contributors==Contributors
+credits_Perk==Contributor, Supporter and Spanish Translator
+credits_HF==Some 3D Sprites
+credits_Memoria==Lore Sprites
+credits_Rembulous==Samny Sprites
+credits_D-Plushies==Cake Composer
+credits_Syberyen==Minecraft Vanderley Sketch
+credits_Vis0iden==Supporter
+credits_Raul Antuns==Supporter Coder and Tester
+credits_Yan Pizza==Supporter and Pizza God Creator
+credits_Mosto==Supporter
+credits_JogG4DX==Supporter
+credits_Discord==Discord
+credits_Discord Server==Join in the Discord Server
+
+// Options State //
+option_Notes==Notes
+option_Controls==Controls
+option_Preferences==Preferences
+option_Change Language==Change Language
+option_hsvText==Hue    Saturation  Brightness
+option_NOTES==NOTES
+option_Left==Left
+option_Down==Down
+option_Up==Up
+option_Right==Right
+option_UI==UI
+option_Left ==Left 
+option_Down ==Down 
+option_Up ==Up 
+option_Right ==Right  
+option_Reset==Reset
+option_Accept==Accept
+option_Back==Back
+option_Pause==Pause
+option_Reset to Default Keys==Reset to Default Keys
+option_GRAPHICS==GRAPHICS
+option_GAMEPLAY==GAMEPLAY
+option_Framerate==Framerate
+option_Note Delay==Note Delay
+option_Low Quality==Low Quality
+option_Anti-Aliasing==Anti-Aliasing
+option_Persistent Cached Data==Persistent Cached Data
+option_Downscroll==Downscroll
+option_Middlescroll==Middlescroll
+option_Ghost Tapping==Ghost Tapping
+option_Note Splashes==Note Splashes
+option_Hide HUD==Hide HUD
+option_Cutscenes==Cutscenes
+option_Swearing==Swearing
+option_Hitsound==Hitsound
+option_Hide Song Length==Hide Song Length
+option_Flashing Lights==Flashing Lights
+option_Camera Zooms==Camera Zooms
+option_FPS Counter==FPS Counter
+option_framerateTxt==Pretty self explanatory, isn't it? Default value is 60.
+option_notedelayTxt==Changes how late a note is spawned. Useful for preventing audio lag from wireless earphones.
+option_fpscounterTxt==If unchecked, hides FPS Counter.
+option_lowqualityTxt==If checked, disables some background details, decreases loading times and improves performance.
+option_cachedTxt==If checked, images loaded will stay in memory until the game is closed, this increases memory usage, but basically makes reloading times instant.
+option_antialiasingTxt==If unchecked, disables anti-aliasing, increases performance at the cost of the graphics not looking as smooth.
+option_downscrollTxt==If checked, notes go Down instead of Up, simple enough.
+option_middlescrollTxt==If checked, hides Opponent's notes and your notes get centered.
+option_ghostTxt==If checked, you won't get misses from pressing keys while there are no notes able to be hit.
+option_swearingTxt==If unchecked, swearing will not appear.
+option_violenceTxt==If unchecked, you won't get disgusted as frequently.
+option_splashesTxt==If unchecked, hitting "Sick!" notes won't show particles.
+option_flashTxt==Uncheck this if you're sensitive to flashing lights!
+option_cameraTxt==If unchecked, the camera won't zoom in on a beat hit.
+option_hidehudTxt==If checked, hides most HUD elements.
+option_cutscenesTxt==Cutscenes for the story.
+option_hitsoundTxt==Funny notes does "Tick!" when you hit them.
+option_songlengthTxt==If checked, the bar showing how much time is left will be hidden.
+option_
+
+// Maize Subtitles //
+maize_sub1==I mean...
+maize_sub2==You can
+maize_sub3==Play me...
+maize_sub4==You don't?
+maize_sub5==Never come back again.
+maize_sub6==Fine!
+maize_sub7==Anything you want
+maize_sub8==You play me?
+maize_sub9==Sure.
+maize_sub10==What you want to play?
+maize_sub11==You are bully me?
+maize_sub12==Never come back again.
+
+// Probability Subtitles //
+probability_sub1==SHUT UP!
+probability_sub2==STOP
+probability_sub3==FUCKING
+probability_sub3-censored
+probability_sub4==CALLING ME!!
+probability_sub5==OH! OH MY!
+probability_sub6==FUCK YOU!
+probability_sub6-censored
+probability_sub7==THAT'S IT
+probability_sub8==I WILL SHOW MY
+probability_sub9==DICK!
+probability_sub10==CALLING ME YOU
+probability_sub11==HATE ME
+probability_sub12==YOU BULLY ME
+probability_sub13==YOU TROLLED ME
+probability_sub14==YOU LIAR!
+
+// Motocycle Subtitles //
+motocycle_sub1==EVER AGAIN!
+motocycle_sub2==RUIN MY LIFE!
+motocycle_sub3==I WILL BLOCK YOU!
+
+// Fancy Subtitles //
+fancy_sub1==I had a nightmare
+fancy_sub2==in Baldi's Basics
+fancy_sub3==I love Baldi's Basics
+fancy_sub4==and more
+
+// Pipebomb Subtitles //
+pipebomb_sub1==What is going on?
+
+// Agronomist Subtitles //
+agronomist_sub1==Go collect first notebook
+agronomist_sub2==and I will tell you to do next
+agronomist_sub3==Hey, Marcello!
+agronomist_sub4==Do you think it would be radical
+agronomist_sub5==for me to do a solo
+agronomist_sub6==IMO, It would be awesome!
+agronomist_sub7==Ok then!
+agronomist_sub8==Yipee!
+
+// Subversive Subtitles //
+subversive_sub1==Let's go do some of the math!
+subversive_sub2==You impress me more and more!
+subversive_sub3==Wrong!
+subversive_sub4==How could You fail such an easy question?!
+subversive_sub5==You brain-dead, imbecile, waste of oxygen in this world!
+subversive_sub6==Nothing is more preposterous than you!
+subversive_sub7==Now, get ready to face my glorious rapping skills!
+subversive_sub8==I need help with my homework!
+subversive_sub9==Don't steal my leitmotif ever again!
+subversive_sub10==No rapping with teachers in my hallways!
+subversive_sub11==Can you help me find my dad?
+subversive_sub12==It's davin' time!
+subversive_sub13==Okay, I don't know how um going to execute this
+subversive_sub14==but I will do so anyways.
+subversive_sub15==So, you made it.
+subversive_sub16==Must have been hard for you
+subversive_sub17==saying this mod is almost impossible.
+subversive_sub18==If you made it here, well congratulations.
+subversive_sub19==What a nice day to work in my office!
+subversive_sub20==What in the flippity floppy damn?!
+subversive_sub21==It's you again! I'm so tired of you!
+subversive_sub22==Why won't you just get the shag out of my school!?
+subversive_sub23==Wow, that movie was absolutely great!
+subversive_sub24==Did you like it, Caillou?
+subversive_sub25==Yes, i did like the mo-
+subversive_sub26==Shut the fuck up Caillou i didn't ask anything to you!
+subversive_sub26-censored==Shut up Caillou i didn't ask anything to you!
+
+// Falsify Subtitles //
+falsify_sub1==FUCKING KNOW IT
+falsify_sub1-censored==KNOW IT
+falsify_sub2==MOLDY
+falsify_sub3==I TOLD YOU I HATE CALLING
+falsify_sub4==I FUCKING HATE
+falsify_sub4-censored==I HATE
+
+// Trains Subtitles //
+trains_sub1==I actually found the broke of the game
+trains_sub2==So you..
+trains_sub3==Take the outfit for
+trains_sub4==Baldi, then
+trains_sub5==Go to the
+trains_sub6==camping field and finally
+trains_sub7==If you think you like it
+trains_sub8==Then!
+trains_sub9==The music.. the
+trains_sub10==The Baldi's voice is
+trains_sub11==broken
+trains_sub12==Then, i think, beat it
+trains_sub13==This
+trains_sub14==Actually..
+trains_sub15==I actually think it's broken
+trains_sub16==The..
+trains_sub17==music
+trains_sub18==I
+trains_sub19==think its
+trains_sub20==think its broken
+trains_sub21==uhhh
+trains_sub22==Th-
+trains_sub23==The music..
+trains_sub24==The music stop
+trains_sub25==I think it's a glitch
+
+// Cake Subtitles //
+cake_sub1==Happy!
+cake_sub2==Birthday!
+
+// Summer Subtitles //
+summer_sub1==Okay guys!
+summer_sub2==Oh, Hello there!
+summer_sub3==Today we are going to the pool
+summer_sub4==*inaudible*
+
+// Oblique Subtitles //
+oblique_sub1==Hey people
+oblique_sub2==I'm gonna do a dance for you
+
+// P Subtitles //
+p_sub1==STOP
+p_sub2==FUCKING
+p_sub2-censored
+p_sub3==CALLING ME
+p_sub4==ALISSON!
+p_sub5==FUCK
+p_sub5-censored==SHUT
+p_sub6==UP
+p_sub7==I WANT YOU LOOK AT ME
+p_sub8==LOOK AT MY FUCKING ME
+p_sub8-censored==LOOK AT ME
+
+// IP Subtitles //
+ip_sub1==123.12.1234.123
+
+// Rage Subtitles //
+rage_sub1==DUDE WHAT THE FUCK
+rage_sub1-censored==DUDE WHAT THE HELL
+rage_sub2==MY GOD
+rage_sub3==DUDE YOU FUCKING IDIOT
+rage_sub3-censored==DUDE YOU IDIOT
+rage_sub4==JUST GET OUT OF MY FACE
+
+// Agronomo Subtitles //
+agronomo_sub1==go collect the first notebook
+agronomo_sub2==and i will tell you must next
+agronomo_sub3==*gibberish*
+agronomo_sub4==*GIBBERISH*
+agronomo_sub5==you poop
+
+// Talkative Subtitles //
+talkative_sub1==Hey Bambi, do you know candi-
+talkative_sub2==Shut the fuck up, that's because your parents died!
+talkative_sub2-censored==Shut up, that's because your parents died!
+talkative_sub3==bitch.
+
+// Untitled Subtitles //
+untitled_sub1==no no no no no!
+untitled_sub2==you are such a damn moron!
+untitled_sub2-censored==you are such a damn moron!
+untitled_sub3==stop trolling me i swear or you get no points
+untitled_sub4==from fnf dave bambi lol discord 100
+untitled_sub5==prepare the death. it coming

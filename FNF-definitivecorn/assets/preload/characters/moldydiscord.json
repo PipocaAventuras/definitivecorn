@@ -1,0 +1,118 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				28,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				28,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				28,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				28,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"name": "down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "nomeindefinido/moldydiscord",
+	"position": [
+		-380,
+		280
+	],
+	"healthicon": "moldydiscord",
+	"flip_x": true,
+	"healthbar_colors": [
+		135,
+		215,
+		215
+	],
+	"camera_position": [
+		10,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

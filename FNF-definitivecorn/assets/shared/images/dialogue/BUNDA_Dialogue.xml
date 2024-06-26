@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BUNDA_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bunda electronic portrait0000" x="0" y="0" width="420" height="376" frameX="0" frameY="-42" frameWidth="467" frameHeight="418"/>
+	<SubTexture name="bunda electronic portrait0001" x="420" y="0" width="420" height="376" frameX="-22" frameY="-23" frameWidth="467" frameHeight="418"/>
+	<SubTexture name="bunda electronic portrait0002" x="840" y="0" width="420" height="377" frameX="-30" frameY="-15" frameWidth="467" frameHeight="418"/>
+	<SubTexture name="bunda electronic portrait0003" x="1260" y="0" width="420" height="377" frameX="-35" frameY="-10" frameWidth="467" frameHeight="418"/>
+	<SubTexture name="bunda electronic portrait0004" x="0" y="377" width="420" height="376" frameX="-39" frameY="-7" frameWidth="467" frameHeight="418"/>
+	<SubTexture name="bunda electronic portrait0005" x="420" y="377" width="419" height="376" frameX="-43" frameY="-4" frameWidth="467" frameHeight="418"/>
+	<SubTexture name="bunda electronic portrait0006" x="839" y="377" width="420" height="376" frameX="-45" frameY="-2" frameWidth="467" frameHeight="418"/>
+	<SubTexture name="bunda electronic portrait0007" x="1259" y="377" width="420" height="376" frameX="-46" frameY="-1" frameWidth="467" frameHeight="418"/>
+	<SubTexture name="bunda electronic portrait0008" x="0" y="753" width="420" height="376" frameX="-47" frameY="0" frameWidth="467" frameHeight="418"/>
+	<SubTexture name="bunda electronic portrait0009" x="420" y="753" width="420" height="376" frameX="-47" frameY="0" frameWidth="467" frameHeight="418"/>
+</TextureAtlas>

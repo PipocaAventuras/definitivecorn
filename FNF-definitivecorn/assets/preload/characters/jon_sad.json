@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "jon sad idle",
+			"indices": [
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "jon dowrn",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				60
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sad jon right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sad jon up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				40
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sad jon left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jon_sad",
+	"position": [
+		-370,
+		160
+	],
+	"healthicon": "jon",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		0,
+		255
+	],
+	"camera_position": [
+		20,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

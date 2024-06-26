@@ -1,0 +1,148 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				80,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				44,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-1,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Idle",
+			"indices": [
+				10,
+				11
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-29,
+				0
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Right",
+			"indices": [
+				5,
+				6
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				80,
+				1
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Left",
+			"indices": [
+				5,
+				6
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-1,
+				13
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Up",
+			"indices": [
+				5,
+				6
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				44,
+				-38
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "Down",
+			"indices": [
+				5,
+				6
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pizzagodness",
+	"position": [
+		-20,
+		90
+	],
+	"healthicon": "pizzagodmad",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		128,
+		2
+	],
+	"camera_position": [
+		30,
+		50
+	],
+	"sing_duration": 13,
+	"scale": 1
+}

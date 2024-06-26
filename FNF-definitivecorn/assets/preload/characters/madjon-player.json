@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "jon mad idle"
+		},
+		{
+			"offsets": [
+				-40,
+				20
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "jon mad down"
+		},
+		{
+			"offsets": [
+				-30,
+				10
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "jon mad up"
+		},
+		{
+			"offsets": [
+				-12,
+				20
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "jon mad left"
+		},
+		{
+			"offsets": [
+				-59,
+				10
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "jon mad right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jon_mad",
+	"position": [
+		-800,
+		-370
+	],
+	"healthicon": "jon",
+	"flip_x": false,
+	"healthbar_colors": [
+		181,
+		71,
+		183
+	],
+	"camera_position": [
+		-310,
+		330
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

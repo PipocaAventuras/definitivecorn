@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mailbamb.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bomb animation0000" x="1847" y="1277" width="346" height="410" frameX="-33" frameY="-14" frameWidth="388" frameHeight="410"/>
+	<SubTexture name="bomb animation0001" x="1847" y="1277" width="346" height="410" frameX="-33" frameY="-14" frameWidth="388" frameHeight="410"/>
+	<SubTexture name="bomb animation0002" x="1847" y="1277" width="346" height="410" frameX="-33" frameY="-14" frameWidth="388" frameHeight="410"/>
+	<SubTexture name="bomb animation0003" x="1847" y="1277" width="346" height="410" frameX="-33" frameY="-14" frameWidth="388" frameHeight="410"/>
+	<SubTexture name="bomb animation0004" x="1847" y="1277" width="346" height="410" frameX="-33" frameY="-14" frameWidth="388" frameHeight="410"/>
+	<SubTexture name="bomb animation0005" x="1847" y="1277" width="346" height="410" frameX="-33" frameY="-14" frameWidth="388" frameHeight="410"/>
+	<SubTexture name="bomb animation0006" x="1847" y="1277" width="346" height="410" frameX="-33" frameY="-14" frameWidth="388" frameHeight="410"/>
+	<SubTexture name="bomb animation0007" x="0" y="0" width="361" height="410" frameX="-20" frameY="-14" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0008" x="0" y="0" width="361" height="410" frameX="-20" frameY="-14" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0009" x="0" y="0" width="361" height="410" frameX="-20" frameY="-14" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0010" x="0" y="0" width="361" height="410" frameX="-20" frameY="-14" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0011" x="0" y="0" width="361" height="410" frameX="-20" frameY="-14" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0012" x="361" y="0" width="365" height="410" frameX="-13" frameY="-14" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0013" x="361" y="0" width="365" height="410" frameX="-13" frameY="-14" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0014" x="726" y="0" width="360" height="410" frameX="-5" frameY="-14" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0015" x="1086" y="0" width="374" height="409" frameX="0" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0016" x="1086" y="0" width="374" height="409" frameX="0" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0017" x="1460" y="0" width="374" height="412" frameX="-4" frameY="-12" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0018" x="1834" y="0" width="387" height="412" frameX="-43" frameY="-12" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0019" x="2221" y="0" width="430" height="412" frameX="-14" frameY="-12" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0020" x="2221" y="0" width="430" height="412" frameX="-14" frameY="-12" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0021" x="2651" y="0" width="430" height="412" frameX="-12" frameY="-12" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0022" x="2651" y="0" width="430" height="412" frameX="-12" frameY="-12" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0023" x="3081" y="0" width="387" height="412" frameX="-18" frameY="-12" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0024" x="3081" y="0" width="387" height="412" frameX="-18" frameY="-12" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0025" x="3468" y="0" width="384" height="424" frameX="-27" frameY="0" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0026" x="3468" y="0" width="384" height="424" frameX="-27" frameY="0" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0027" x="0" y="424" width="340" height="424" frameX="-73" frameY="0" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0028" x="0" y="424" width="340" height="424" frameX="-73" frameY="0" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0029" x="340" y="424" width="306" height="424" frameX="-107" frameY="0" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0030" x="340" y="424" width="306" height="424" frameX="-107" frameY="0" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0031" x="646" y="424" width="311" height="415" frameX="-105" frameY="-9" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0032" x="646" y="424" width="311" height="415" frameX="-105" frameY="-9" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0033" x="957" y="424" width="369" height="387" frameX="-47" frameY="-37" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0034" x="957" y="424" width="369" height="387" frameX="-47" frameY="-37" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0035" x="1326" y="424" width="396" height="403" frameX="-20" frameY="-21" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0036" x="1326" y="424" width="396" height="403" frameX="-20" frameY="-21" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0037" x="1722" y="424" width="402" height="411" frameX="-16" frameY="-13" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0038" x="1722" y="424" width="402" height="411" frameX="-16" frameY="-13" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0039" x="2124" y="424" width="400" height="409" frameX="-19" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0040" x="2524" y="424" width="400" height="409" frameX="-19" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0041" x="2924" y="424" width="397" height="409" frameX="-22" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0042" x="3321" y="424" width="397" height="409" frameX="-22" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0043" x="3321" y="424" width="397" height="409" frameX="-22" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0044" x="3321" y="424" width="397" height="409" frameX="-22" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0045" x="3321" y="424" width="397" height="409" frameX="-22" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0046" x="3321" y="424" width="397" height="409" frameX="-22" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0047" x="3321" y="424" width="397" height="409" frameX="-22" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0048" x="3321" y="424" width="397" height="409" frameX="-22" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0049" x="3321" y="424" width="397" height="409" frameX="-22" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0050" x="3321" y="424" width="397" height="409" frameX="-22" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0051" x="3321" y="424" width="397" height="409" frameX="-22" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0052" x="3321" y="424" width="397" height="409" frameX="-22" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0053" x="3321" y="424" width="397" height="409" frameX="-22" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0054" x="0" y="848" width="387" height="409" frameX="-32" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0055" x="0" y="848" width="387" height="409" frameX="-32" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0056" x="387" y="848" width="392" height="429" frameX="-27" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0057" x="387" y="848" width="392" height="429" frameX="-27" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0058" x="779" y="848" width="405" height="425" frameX="-14" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0059" x="779" y="848" width="405" height="425" frameX="-14" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0060" x="1184" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0061" x="1184" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0062" x="1184" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0063" x="1184" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0064" x="1184" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0065" x="1184" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0066" x="1184" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0067" x="1184" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0068" x="1184" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0069" x="1184" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0070" x="1184" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0071" x="1184" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0072" x="1184" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0073" x="1591" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0074" x="1591" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0075" x="1998" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0076" x="1998" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0077" x="2405" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0078" x="2405" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0079" x="2405" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0080" x="2405" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0081" x="2405" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0082" x="2405" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0083" x="2405" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0084" x="2405" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0085" x="2405" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0086" x="2405" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0087" x="2405" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0088" x="2405" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0089" x="2405" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0090" x="2405" y="848" width="407" height="424" frameX="-12" frameY="-15" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0091" x="2812" y="848" width="416" height="421" frameX="-9" frameY="-21" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0092" x="2812" y="848" width="416" height="421" frameX="-9" frameY="-21" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0093" x="3228" y="848" width="428" height="426" frameX="-14" frameY="-13" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0094" x="3228" y="848" width="428" height="426" frameX="-14" frameY="-13" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0095" x="3228" y="848" width="428" height="426" frameX="-14" frameY="-13" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0096" x="3228" y="848" width="428" height="426" frameX="-14" frameY="-13" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0097" x="3228" y="848" width="428" height="426" frameX="-14" frameY="-13" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0098" x="3228" y="848" width="428" height="426" frameX="-14" frameY="-13" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0099" x="3228" y="848" width="428" height="426" frameX="-14" frameY="-13" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0100" x="3228" y="848" width="428" height="426" frameX="-14" frameY="-13" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0101" x="3228" y="848" width="428" height="426" frameX="-14" frameY="-13" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0102" x="3228" y="848" width="428" height="426" frameX="-14" frameY="-13" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0103" x="3228" y="848" width="428" height="426" frameX="-14" frameY="-13" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="bomb animation0104" x="3228" y="848" width="428" height="426" frameX="-14" frameY="-13" frameWidth="444" frameHeight="444"/>
+	<SubTexture name="down0000" x="3656" y="848" width="390" height="353" frameX="0" frameY="-21" frameWidth="390" frameHeight="374"/>
+	<SubTexture name="down0001" x="3656" y="848" width="390" height="353" frameX="0" frameY="-21" frameWidth="390" frameHeight="374"/>
+	<SubTexture name="down0002" x="0" y="1277" width="370" height="374" frameX="-8" frameY="0" frameWidth="390" frameHeight="374"/>
+	<SubTexture name="down0003" x="0" y="1277" width="370" height="374" frameX="-8" frameY="0" frameWidth="390" frameHeight="374"/>
+	<SubTexture name="down0004" x="0" y="1277" width="370" height="374" frameX="-8" frameY="0" frameWidth="390" frameHeight="374"/>
+	<SubTexture name="down0005" x="0" y="1277" width="370" height="374" frameX="-8" frameY="0" frameWidth="390" frameHeight="374"/>
+	<SubTexture name="down0006" x="0" y="1277" width="370" height="374" frameX="-8" frameY="0" frameWidth="390" frameHeight="374"/>
+	<SubTexture name="down0007" x="0" y="1277" width="370" height="374" frameX="-8" frameY="0" frameWidth="390" frameHeight="374"/>
+	<SubTexture name="down0008" x="0" y="1277" width="370" height="374" frameX="-8" frameY="0" frameWidth="390" frameHeight="374"/>
+	<SubTexture name="down0009" x="0" y="1277" width="370" height="374" frameX="-8" frameY="0" frameWidth="390" frameHeight="374"/>
+	<SubTexture name="idle0000" x="370" y="1277" width="385" height="390" frameX="-3" frameY="-20" frameWidth="388" frameHeight="410"/>
+	<SubTexture name="idle0001" x="370" y="1277" width="385" height="390" frameX="-3" frameY="-20" frameWidth="388" frameHeight="410"/>
+	<SubTexture name="idle0002" x="755" y="1277" width="386" height="399" frameX="0" frameY="-11" frameWidth="388" frameHeight="410"/>
+	<SubTexture name="idle0003" x="755" y="1277" width="386" height="399" frameX="0" frameY="-11" frameWidth="388" frameHeight="410"/>
+	<SubTexture name="idle0004" x="1141" y="1277" width="357" height="402" frameX="-22" frameY="-8" frameWidth="388" frameHeight="410"/>
+	<SubTexture name="idle0005" x="1141" y="1277" width="357" height="402" frameX="-22" frameY="-8" frameWidth="388" frameHeight="410"/>
+	<SubTexture name="idle0006" x="1498" y="1277" width="349" height="409" frameX="-28" frameY="-1" frameWidth="388" frameHeight="410"/>
+	<SubTexture name="idle0007" x="1498" y="1277" width="349" height="409" frameX="-28" frameY="-1" frameWidth="388" frameHeight="410"/>
+	<SubTexture name="idle0008" x="1847" y="1277" width="346" height="410" frameX="-31" frameY="0" frameWidth="388" frameHeight="410"/>
+	<SubTexture name="idle0009" x="1847" y="1277" width="346" height="410" frameX="-31" frameY="0" frameWidth="388" frameHeight="410"/>
+	<SubTexture name="idle0010" x="1847" y="1277" width="346" height="410" frameX="-31" frameY="0" frameWidth="388" frameHeight="410"/>
+	<SubTexture name="idle0011" x="1847" y="1277" width="346" height="410" frameX="-31" frameY="0" frameWidth="388" frameHeight="410"/>
+	<SubTexture name="idle0012" x="1847" y="1277" width="346" height="410" frameX="-31" frameY="0" frameWidth="388" frameHeight="410"/>
+	<SubTexture name="idle0013" x="1847" y="1277" width="346" height="410" frameX="-31" frameY="0" frameWidth="388" frameHeight="410"/>
+	<SubTexture name="left0000" x="2193" y="1277" width="344" height="415" frameX="0" frameY="0" frameWidth="362" frameHeight="415"/>
+	<SubTexture name="left0001" x="2193" y="1277" width="344" height="415" frameX="0" frameY="0" frameWidth="362" frameHeight="415"/>
+	<SubTexture name="left0002" x="2537" y="1277" width="332" height="408" frameX="-30" frameY="-7" frameWidth="362" frameHeight="415"/>
+	<SubTexture name="left0003" x="2537" y="1277" width="332" height="408" frameX="-30" frameY="-7" frameWidth="362" frameHeight="415"/>
+	<SubTexture name="left0004" x="2537" y="1277" width="332" height="408" frameX="-30" frameY="-7" frameWidth="362" frameHeight="415"/>
+	<SubTexture name="left0005" x="2537" y="1277" width="332" height="408" frameX="-30" frameY="-7" frameWidth="362" frameHeight="415"/>
+	<SubTexture name="left0006" x="2537" y="1277" width="332" height="408" frameX="-30" frameY="-7" frameWidth="362" frameHeight="415"/>
+	<SubTexture name="left0007" x="2537" y="1277" width="332" height="408" frameX="-30" frameY="-7" frameWidth="362" frameHeight="415"/>
+	<SubTexture name="left0008" x="2537" y="1277" width="332" height="408" frameX="-30" frameY="-7" frameWidth="362" frameHeight="415"/>
+	<SubTexture name="left0009" x="2537" y="1277" width="332" height="408" frameX="-30" frameY="-7" frameWidth="362" frameHeight="415"/>
+	<SubTexture name="right0000" x="2869" y="1277" width="369" height="417" frameX="-17" frameY="0" frameWidth="386" frameHeight="417"/>
+	<SubTexture name="right0001" x="2869" y="1277" width="369" height="417" frameX="-17" frameY="0" frameWidth="386" frameHeight="417"/>
+	<SubTexture name="right0002" x="3238" y="1277" width="368" height="414" frameX="0" frameY="-3" frameWidth="386" frameHeight="417"/>
+	<SubTexture name="right0003" x="3238" y="1277" width="368" height="414" frameX="0" frameY="-3" frameWidth="386" frameHeight="417"/>
+	<SubTexture name="right0004" x="3238" y="1277" width="368" height="414" frameX="0" frameY="-3" frameWidth="386" frameHeight="417"/>
+	<SubTexture name="right0005" x="3238" y="1277" width="368" height="414" frameX="0" frameY="-3" frameWidth="386" frameHeight="417"/>
+	<SubTexture name="right0006" x="3238" y="1277" width="368" height="414" frameX="0" frameY="-3" frameWidth="386" frameHeight="417"/>
+	<SubTexture name="right0007" x="3238" y="1277" width="368" height="414" frameX="0" frameY="-3" frameWidth="386" frameHeight="417"/>
+	<SubTexture name="right0008" x="3238" y="1277" width="368" height="414" frameX="0" frameY="-3" frameWidth="386" frameHeight="417"/>
+	<SubTexture name="right0009" x="3238" y="1277" width="368" height="414" frameX="0" frameY="-3" frameWidth="386" frameHeight="417"/>
+	<SubTexture name="up0000" x="3606" y="1277" width="414" height="444" frameX="0" frameY="0" frameWidth="417" frameHeight="445"/>
+	<SubTexture name="up0001" x="3606" y="1277" width="414" height="444" frameX="0" frameY="0" frameWidth="417" frameHeight="445"/>
+	<SubTexture name="up0002" x="0" y="1721" width="401" height="426" frameX="-16" frameY="-19" frameWidth="417" frameHeight="445"/>
+	<SubTexture name="up0003" x="0" y="1721" width="401" height="426" frameX="-16" frameY="-19" frameWidth="417" frameHeight="445"/>
+	<SubTexture name="up0004" x="0" y="1721" width="401" height="426" frameX="-16" frameY="-19" frameWidth="417" frameHeight="445"/>
+	<SubTexture name="up0005" x="0" y="1721" width="401" height="426" frameX="-16" frameY="-19" frameWidth="417" frameHeight="445"/>
+	<SubTexture name="up0006" x="0" y="1721" width="401" height="426" frameX="-16" frameY="-19" frameWidth="417" frameHeight="445"/>
+	<SubTexture name="up0007" x="0" y="1721" width="401" height="426" frameX="-16" frameY="-19" frameWidth="417" frameHeight="445"/>
+	<SubTexture name="up0008" x="0" y="1721" width="401" height="426" frameX="-16" frameY="-19" frameWidth="417" frameHeight="445"/>
+	<SubTexture name="up0009" x="0" y="1721" width="401" height="426" frameX="-16" frameY="-19" frameWidth="417" frameHeight="445"/>
+</TextureAtlas>

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				114
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				121,
+				86
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				90
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-265,
+				20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "run",
+			"fps": 10,
+			"name": "run",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "subversive/smartscientist",
+	"position": [
+		-360,
+		350
+	],
+	"healthicon": "smartscientist",
+	"flip_x": false,
+	"healthbar_colors": [
+		178,
+		229,
+		255
+	],
+	"camera_position": [
+		-180,
+		-230
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}

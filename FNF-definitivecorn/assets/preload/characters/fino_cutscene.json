@@ -1,0 +1,73 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "saxofone",
+			"fps": 16,
+			"name": "cara fino musicando ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "saxofone caindo",
+			"fps": 20,
+			"name": "cara fino caindo saxofone ",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [
+				10,
+				10
+			],
+			"name": "cara fino caindo saxofone"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				5,
+				5
+			],
+			"name": "cara fino musicando"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fino_cutscene",
+	"position": [
+		-520,
+		80
+	],
+	"healthicon": "gentlemen",
+	"flip_x": false,
+	"healthbar_colors": [
+		48,
+		48,
+		48
+	],
+	"camera_position": [
+		50,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

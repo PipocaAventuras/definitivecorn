@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="main_menu_icons.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="credits lmao0000" x="0" y="0" width="594" height="588"/>
+	<SubTexture name="extras0000" x="594" y="0" width="594" height="396"/>
+	<SubTexture name="options lmao0000" x="1188" y="0" width="594" height="480"/>
+	<SubTexture name="ost lmao0000" x="0" y="588" width="593" height="394"/>
+	<SubTexture name="story_mode lmao0000" x="593" y="588" width="593" height="394"/>
+</TextureAtlas>

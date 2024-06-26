@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boyfriend-motocycle.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="olha o mic0000" x="0" y="0" width="1283" height="393" frameX="0" frameY="-164" frameWidth="1473" frameHeight="648"/>
+	<SubTexture name="olha o mic0001" x="0" y="0" width="1283" height="393" frameX="0" frameY="-164" frameWidth="1473" frameHeight="648"/>
+	<SubTexture name="olha o mic0002" x="1283" y="0" width="838" height="394" frameX="-446" frameY="-163" frameWidth="1473" frameHeight="648"/>
+	<SubTexture name="olha o mic0003" x="2121" y="0" width="429" height="425" frameX="-857" frameY="-145" frameWidth="1473" frameHeight="648"/>
+	<SubTexture name="olha o mic0004" x="2550" y="0" width="501" height="440" frameX="-778" frameY="-130" frameWidth="1473" frameHeight="648"/>
+	<SubTexture name="olha o mic0005" x="3051" y="0" width="531" height="514" frameX="-778" frameY="-56" frameWidth="1473" frameHeight="648"/>
+	<SubTexture name="olha o mic0006" x="0" y="514" width="683" height="514" frameX="-626" frameY="-56" frameWidth="1473" frameHeight="648"/>
+	<SubTexture name="olha o mic0007" x="683" y="514" width="683" height="569" frameX="-626" frameY="-1" frameWidth="1473" frameHeight="648"/>
+	<SubTexture name="olha o mic0008" x="1366" y="514" width="712" height="575" frameX="-626" frameY="-1" frameWidth="1473" frameHeight="648"/>
+	<SubTexture name="olha o mic0009" x="2078" y="514" width="751" height="576" frameX="-587" frameY="0" frameWidth="1473" frameHeight="648"/>
+	<SubTexture name="olha o mic0010" x="2829" y="514" width="751" height="427" frameX="-587" frameY="-149" frameWidth="1473" frameHeight="648"/>
+	<SubTexture name="olha o mic0011" x="0" y="1090" width="834" height="353" frameX="-587" frameY="-231" frameWidth="1473" frameHeight="648"/>
+	<SubTexture name="olha o mic0012" x="834" y="1090" width="836" height="353" frameX="-585" frameY="-231" frameWidth="1473" frameHeight="648"/>
+	<SubTexture name="olha o mic0013" x="1670" y="1090" width="888" height="343" frameX="-585" frameY="-302" frameWidth="1473" frameHeight="648"/>
+	<SubTexture name="olha o mic0014" x="2558" y="1090" width="882" height="367" frameX="-585" frameY="-278" frameWidth="1473" frameHeight="648"/>
+	<SubTexture name="olha o mic0015" x="0" y="1457" width="885" height="369" frameX="-585" frameY="-279" frameWidth="1473" frameHeight="648"/>
+	<SubTexture name="olha o mic0016" x="885" y="1457" width="885" height="369" frameX="-585" frameY="-279" frameWidth="1473" frameHeight="648"/>
+	<SubTexture name="olha o mic0017" x="1770" y="1457" width="415" height="369" frameX="-1055" frameY="-279" frameWidth="1473" frameHeight="648"/>
+	<SubTexture name="olha o mic0018" x="2185" y="1457" width="415" height="369" frameX="-1055" frameY="-279" frameWidth="1473" frameHeight="648"/>
+	<SubTexture name="olha o mic0019" x="0" y="1457" width="885" height="369" frameX="-585" frameY="-279" frameWidth="1473" frameHeight="648"/>
+	<SubTexture name="olha o mic0020" x="885" y="1457" width="885" height="369" frameX="-585" frameY="-279" frameWidth="1473" frameHeight="648"/>
+	<SubTexture name="olha o mic0021" x="1770" y="1457" width="415" height="369" frameX="-1055" frameY="-279" frameWidth="1473" frameHeight="648"/>
+	<SubTexture name="olha o mic0022" x="2185" y="1457" width="415" height="369" frameX="-1055" frameY="-279" frameWidth="1473" frameHeight="648"/>
+	<SubTexture name="olha o mic0023" x="1770" y="1457" width="415" height="369" frameX="-1055" frameY="-279" frameWidth="1473" frameHeight="648"/>
+	<SubTexture name="olha o mic0024" x="2185" y="1457" width="415" height="369" frameX="-1055" frameY="-279" frameWidth="1473" frameHeight="648"/>
+	<SubTexture name="olha o mic0025" x="1770" y="1457" width="415" height="369" frameX="-1055" frameY="-279" frameWidth="1473" frameHeight="648"/>
+	<SubTexture name="olha o mic0026" x="2185" y="1457" width="415" height="369" frameX="-1055" frameY="-279" frameWidth="1473" frameHeight="648"/>
+	<SubTexture name="olha o mic0027" x="1770" y="1457" width="415" height="369" frameX="-1055" frameY="-279" frameWidth="1473" frameHeight="648"/>
+	<SubTexture name="olha o mic0028" x="2185" y="1457" width="415" height="369" frameX="-1055" frameY="-279" frameWidth="1473" frameHeight="648"/>
+	<SubTexture name="olha o mic0029" x="1770" y="1457" width="415" height="369" frameX="-1055" frameY="-279" frameWidth="1473" frameHeight="648"/>
+</TextureAtlas>

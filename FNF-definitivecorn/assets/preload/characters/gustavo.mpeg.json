@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				180,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idled"
+		},
+		{
+			"offsets": [
+				-130,
+				-400
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "downd"
+		},
+		{
+			"offsets": [
+				-260,
+				-230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "upd"
+		},
+		{
+			"offsets": [
+				2130,
+				-220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-160,
+				-280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				180,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "idled"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gustavo",
+	"position": [
+		0,
+		110
+	],
+	"healthicon": "gustavo",
+	"flip_x": true,
+	"healthbar_colors": [
+		147,
+		220,
+		229
+	],
+	"camera_position": [
+		-80,
+		260
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

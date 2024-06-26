@@ -1,0 +1,121 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 13,
+			"name": "idleangry",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 13,
+			"name": "idleangry",
+			"indices": [
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-220,
+				70
+			],
+			"anim": "huh",
+			"fps": 13,
+			"name": "huh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				170
+			],
+			"anim": "singUP",
+			"fps": 13,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-430,
+				50
+			],
+			"anim": "singDOWN",
+			"fps": 13,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-290,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 13,
+			"name": "leftangry",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-400,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 13,
+			"name": "rightangry",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/plambi_angry",
+	"position": [
+		-410,
+		30
+	],
+	"healthicon": "plambi",
+	"flip_x": false,
+	"healthbar_colors": [
+		54,
+		54,
+		54
+	],
+	"camera_position": [
+		230,
+		-109
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

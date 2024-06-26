@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="carafino.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="720" height="722"/>
+	<SubTexture name="down0001" x="0" y="0" width="720" height="722"/>
+	<SubTexture name="down0002" x="720" y="0" width="720" height="722"/>
+	<SubTexture name="down0003" x="720" y="0" width="720" height="722"/>
+	<SubTexture name="down0004" x="1440" y="0" width="720" height="722"/>
+	<SubTexture name="idle0000" x="2160" y="0" width="707" height="722"/>
+	<SubTexture name="left0000" x="2867" y="0" width="753" height="754"/>
+	<SubTexture name="left0001" x="2867" y="0" width="753" height="754"/>
+	<SubTexture name="left0002" x="0" y="754" width="753" height="754"/>
+	<SubTexture name="left0003" x="0" y="754" width="753" height="754"/>
+	<SubTexture name="left0004" x="753" y="754" width="753" height="754"/>
+	<SubTexture name="left0005" x="753" y="754" width="753" height="754"/>
+	<SubTexture name="left0006" x="753" y="754" width="753" height="754"/>
+	<SubTexture name="left0007" x="753" y="754" width="753" height="754"/>
+	<SubTexture name="left0008" x="753" y="754" width="753" height="754"/>
+	<SubTexture name="right0000" x="1506" y="754" width="753" height="754"/>
+	<SubTexture name="right0001" x="1506" y="754" width="753" height="754"/>
+	<SubTexture name="right0002" x="2259" y="754" width="753" height="754"/>
+	<SubTexture name="right0003" x="2259" y="754" width="753" height="754"/>
+	<SubTexture name="right0004" x="3012" y="754" width="753" height="754"/>
+	<SubTexture name="right0005" x="3012" y="754" width="753" height="754"/>
+	<SubTexture name="right0006" x="3012" y="754" width="753" height="754"/>
+	<SubTexture name="right0007" x="3012" y="754" width="753" height="754"/>
+	<SubTexture name="up0000" x="0" y="1508" width="1030" height="938"/>
+	<SubTexture name="up0001" x="0" y="1508" width="1030" height="938"/>
+	<SubTexture name="up0002" x="1030" y="1508" width="1030" height="938"/>
+	<SubTexture name="up0003" x="1030" y="1508" width="1030" height="938"/>
+	<SubTexture name="up0004" x="2060" y="1508" width="1030" height="938"/>
+	<SubTexture name="up0005" x="2060" y="1508" width="1030" height="938"/>
+</TextureAtlas>

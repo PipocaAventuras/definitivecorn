@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="checkmarkboxthing.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="anim0000" x="0" y="0" width="213" height="168"/>
+	<SubTexture name="anim0001" x="213" y="0" width="213" height="168"/>
+	<SubTexture name="anim0002" x="426" y="0" width="213" height="168"/>
+	<SubTexture name="anim0003" x="639" y="0" width="213" height="168"/>
+	<SubTexture name="anim0004" x="852" y="0" width="213" height="168"/>
+	<SubTexture name="anim0005" x="1065" y="0" width="213" height="168"/>
+	<SubTexture name="anim0006" x="1278" y="0" width="213" height="168"/>
+	<SubTexture name="anim0007" x="0" y="168" width="213" height="168"/>
+	<SubTexture name="anim0008" x="213" y="168" width="213" height="168"/>
+	<SubTexture name="anim0009" x="426" y="168" width="213" height="168"/>
+	<SubTexture name="anim0010" x="639" y="168" width="213" height="168"/>
+	<SubTexture name="anim0011" x="852" y="168" width="213" height="168"/>
+	<SubTexture name="anim0012" x="1065" y="168" width="213" height="168"/>
+	<SubTexture name="anim0013" x="1278" y="168" width="213" height="168"/>
+	<SubTexture name="anim0014" x="0" y="336" width="213" height="168"/>
+	<SubTexture name="anim0015" x="213" y="336" width="213" height="168"/>
+	<SubTexture name="anim0016" x="426" y="336" width="213" height="168"/>
+	<SubTexture name="anim0017" x="639" y="336" width="213" height="168"/>
+	<SubTexture name="anim0018" x="852" y="336" width="213" height="168"/>
+	<SubTexture name="anim0019" x="1065" y="336" width="213" height="168"/>
+	<SubTexture name="anim0020" x="1278" y="336" width="213" height="168"/>
+	<SubTexture name="anim0021" x="0" y="504" width="213" height="168"/>
+	<SubTexture name="anim0022" x="213" y="504" width="213" height="168"/>
+	<SubTexture name="anim0023" x="213" y="504" width="213" height="168"/>
+	<SubTexture name="anim0024" x="426" y="504" width="213" height="168"/>
+	<SubTexture name="anim0025" x="426" y="504" width="213" height="168"/>
+	<SubTexture name="anim0026" x="426" y="504" width="213" height="168"/>
+	<SubTexture name="anim0027" x="426" y="504" width="213" height="168"/>
+	<SubTexture name="anim0028" x="426" y="504" width="213" height="168"/>
+	<SubTexture name="checked0000" x="426" y="504" width="213" height="168"/>
+	<SubTexture name="notchecked0000" x="0" y="0" width="213" height="168"/>
+</TextureAtlas>

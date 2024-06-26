@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="JON_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jon fnaf is real portrait0000" x="0" y="0" width="363" height="338" frameX="0" frameY="-19" frameWidth="392" frameHeight="357"/>
+	<SubTexture name="jon fnaf is real portrait0001" x="363" y="0" width="363" height="338" frameX="-13" frameY="-10" frameWidth="392" frameHeight="357"/>
+	<SubTexture name="jon fnaf is real portrait0002" x="726" y="0" width="363" height="337" frameX="-18" frameY="-7" frameWidth="392" frameHeight="357"/>
+	<SubTexture name="jon fnaf is real portrait0003" x="1089" y="0" width="364" height="338" frameX="-21" frameY="-4" frameWidth="392" frameHeight="357"/>
+	<SubTexture name="jon fnaf is real portrait0004" x="1453" y="0" width="363" height="338" frameX="-24" frameY="-3" frameWidth="392" frameHeight="357"/>
+	<SubTexture name="jon fnaf is real portrait0005" x="0" y="338" width="364" height="337" frameX="-25" frameY="-2" frameWidth="392" frameHeight="357"/>
+	<SubTexture name="jon fnaf is real portrait0006" x="364" y="338" width="363" height="337" frameX="-27" frameY="-1" frameWidth="392" frameHeight="357"/>
+	<SubTexture name="jon fnaf is real portrait0007" x="727" y="338" width="363" height="338" frameX="-28" frameY="0" frameWidth="392" frameHeight="357"/>
+	<SubTexture name="jon fnaf is real portrait0008" x="1090" y="338" width="364" height="337" frameX="-28" frameY="0" frameWidth="392" frameHeight="357"/>
+	<SubTexture name="jon fnaf is real portrait0009" x="1454" y="338" width="364" height="337" frameX="-28" frameY="0" frameWidth="392" frameHeight="357"/>
+	<SubTexture name="mad jon fnaf is real portrait0000" x="0" y="676" width="328" height="340" frameX="0" frameY="-19" frameWidth="348" frameHeight="359"/>
+	<SubTexture name="mad jon fnaf is real portrait0001" x="328" y="676" width="328" height="340" frameX="-9" frameY="-10" frameWidth="348" frameHeight="359"/>
+	<SubTexture name="mad jon fnaf is real portrait0002" x="656" y="676" width="328" height="339" frameX="-12" frameY="-7" frameWidth="348" frameHeight="359"/>
+	<SubTexture name="mad jon fnaf is real portrait0003" x="984" y="676" width="328" height="339" frameX="-15" frameY="-5" frameWidth="348" frameHeight="359"/>
+	<SubTexture name="mad jon fnaf is real portrait0004" x="1312" y="676" width="328" height="339" frameX="-16" frameY="-3" frameWidth="348" frameHeight="359"/>
+	<SubTexture name="mad jon fnaf is real portrait0005" x="1640" y="676" width="329" height="339" frameX="-17" frameY="-2" frameWidth="348" frameHeight="359"/>
+	<SubTexture name="mad jon fnaf is real portrait0006" x="0" y="1016" width="328" height="339" frameX="-18" frameY="-1" frameWidth="348" frameHeight="359"/>
+	<SubTexture name="mad jon fnaf is real portrait0007" x="328" y="1016" width="328" height="339" frameX="-19" frameY="0" frameWidth="348" frameHeight="359"/>
+	<SubTexture name="mad jon fnaf is real portrait0008" x="656" y="1016" width="328" height="339" frameX="-19" frameY="0" frameWidth="348" frameHeight="359"/>
+	<SubTexture name="mad jon fnaf is real portrait0009" x="984" y="1016" width="329" height="339" frameX="-19" frameY="0" frameWidth="348" frameHeight="359"/>
+</TextureAtlas>

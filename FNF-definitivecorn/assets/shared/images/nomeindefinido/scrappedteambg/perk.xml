@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="unused because perk.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="perk0000" x="0" y="0" width="375" height="393"/>
+	<SubTexture name="perk0001" x="0" y="0" width="375" height="393"/>
+	<SubTexture name="perk0002" x="375" y="0" width="375" height="393"/>
+	<SubTexture name="perk0003" x="375" y="0" width="375" height="393"/>
+	<SubTexture name="perk0004" x="0" y="393" width="375" height="393"/>
+	<SubTexture name="perk0005" x="0" y="393" width="375" height="393"/>
+	<SubTexture name="perk0006" x="375" y="393" width="375" height="393"/>
+	<SubTexture name="perk0007" x="375" y="393" width="375" height="393"/>
+	<SubTexture name="perk0008" x="375" y="393" width="375" height="393"/>
+	<SubTexture name="perk0009" x="375" y="393" width="375" height="393"/>
+	<SubTexture name="perk0010" x="375" y="393" width="375" height="393"/>
+	<SubTexture name="perk0011" x="375" y="393" width="375" height="393"/>
+	<SubTexture name="perk0012" x="375" y="393" width="375" height="393"/>
+	<SubTexture name="perk0013" x="375" y="393" width="375" height="393"/>
+	<SubTexture name="perk0014" x="375" y="393" width="375" height="393"/>
+	<SubTexture name="perk0015" x="375" y="393" width="375" height="393"/>
+</TextureAtlas>

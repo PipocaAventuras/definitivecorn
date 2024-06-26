@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="diamond_man.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="diamond idle0000" x="0" y="0" width="1222" height="1964" frameX="0" frameY="0" frameWidth="1227" frameHeight="1964"/>
+	<SubTexture name="diamond idle0001" x="1222" y="0" width="1222" height="1964" frameX="-5" frameY="0" frameWidth="1227" frameHeight="1964"/>
+	<SubTexture name="diamond idle0002" x="0" y="0" width="1222" height="1964" frameX="0" frameY="0" frameWidth="1227" frameHeight="1964"/>
+	<SubTexture name="diamond idle0003" x="1222" y="0" width="1222" height="1964" frameX="-5" frameY="0" frameWidth="1227" frameHeight="1964"/>
+	<SubTexture name="diamond idle0004" x="0" y="0" width="1222" height="1964" frameX="0" frameY="0" frameWidth="1227" frameHeight="1964"/>
+	<SubTexture name="diamond idle0005" x="1222" y="0" width="1222" height="1964" frameX="-5" frameY="0" frameWidth="1227" frameHeight="1964"/>
+	<SubTexture name="diamond idle0006" x="0" y="0" width="1222" height="1964" frameX="0" frameY="0" frameWidth="1227" frameHeight="1964"/>
+	<SubTexture name="diamond idle0007" x="1222" y="0" width="1222" height="1964" frameX="-5" frameY="0" frameWidth="1227" frameHeight="1964"/>
+	<SubTexture name="diamond idle0008" x="0" y="0" width="1222" height="1964" frameX="0" frameY="0" frameWidth="1227" frameHeight="1964"/>
+	<SubTexture name="diamond idle0009" x="1222" y="0" width="1222" height="1964" frameX="-5" frameY="0" frameWidth="1227" frameHeight="1964"/>
+	<SubTexture name="diamond idle0010" x="0" y="0" width="1222" height="1964" frameX="0" frameY="0" frameWidth="1227" frameHeight="1964"/>
+	<SubTexture name="diamond idle0011" x="1222" y="0" width="1222" height="1964" frameX="-5" frameY="0" frameWidth="1227" frameHeight="1964"/>
+	<SubTexture name="diamond idle0012" x="0" y="0" width="1222" height="1964" frameX="0" frameY="0" frameWidth="1227" frameHeight="1964"/>
+	<SubTexture name="diamond idle0013" x="1222" y="0" width="1222" height="1964" frameX="-5" frameY="0" frameWidth="1227" frameHeight="1964"/>
+	<SubTexture name="diamond idle0014" x="0" y="0" width="1222" height="1964" frameX="0" frameY="0" frameWidth="1227" frameHeight="1964"/>
+	<SubTexture name="diamond idle0015" x="1222" y="0" width="1222" height="1964" frameX="-5" frameY="0" frameWidth="1227" frameHeight="1964"/>
+	<SubTexture name="diamond idle0016" x="0" y="0" width="1222" height="1964" frameX="0" frameY="0" frameWidth="1227" frameHeight="1964"/>
+	<SubTexture name="diamond idle0017" x="1222" y="0" width="1222" height="1964" frameX="-5" frameY="0" frameWidth="1227" frameHeight="1964"/>
+	<SubTexture name="diamond idle0018" x="0" y="0" width="1222" height="1964" frameX="0" frameY="0" frameWidth="1227" frameHeight="1964"/>
+	<SubTexture name="diamond idle0019" x="1222" y="0" width="1222" height="1964" frameX="-5" frameY="0" frameWidth="1227" frameHeight="1964"/>
+	<SubTexture name="diamond idle0020" x="0" y="0" width="1222" height="1964" frameX="0" frameY="0" frameWidth="1227" frameHeight="1964"/>
+	<SubTexture name="diamond idle0021" x="1222" y="0" width="1222" height="1964" frameX="-5" frameY="0" frameWidth="1227" frameHeight="1964"/>
+	<SubTexture name="diamond idle0022" x="0" y="0" width="1222" height="1964" frameX="0" frameY="0" frameWidth="1227" frameHeight="1964"/>
+	<SubTexture name="diamond idle0023" x="1222" y="0" width="1222" height="1964" frameX="-5" frameY="0" frameWidth="1227" frameHeight="1964"/>
+	<SubTexture name="diamond man down0000" x="2444" y="0" width="1222" height="1964"/>
+	<SubTexture name="diamond man down0001" x="2444" y="0" width="1222" height="1964"/>
+	<SubTexture name="diamond man down0002" x="3666" y="0" width="1222" height="1964"/>
+	<SubTexture name="diamond man down0003" x="3666" y="0" width="1222" height="1964"/>
+	<SubTexture name="diamond man down0004" x="3666" y="0" width="1222" height="1964"/>
+	<SubTexture name="diamond man down0005" x="3666" y="0" width="1222" height="1964"/>
+	<SubTexture name="diamond man down0006" x="3666" y="0" width="1222" height="1964"/>
+	<SubTexture name="diamond man down0007" x="3666" y="0" width="1222" height="1964"/>
+	<SubTexture name="diamond man down0008" x="3666" y="0" width="1222" height="1964"/>
+	<SubTexture name="diamond man down0009" x="3666" y="0" width="1222" height="1964"/>
+	<SubTexture name="diamond man left0000" x="4888" y="0" width="1222" height="1964"/>
+	<SubTexture name="diamond man left0001" x="4888" y="0" width="1222" height="1964"/>
+	<SubTexture name="diamond man left0002" x="4888" y="0" width="1222" height="1964"/>
+	<SubTexture name="diamond man left0003" x="4888" y="0" width="1222" height="1964"/>
+	<SubTexture name="diamond man left0004" x="4888" y="0" width="1222" height="1964"/>
+	<SubTexture name="diamond man left0005" x="4888" y="0" width="1222" height="1964"/>
+	<SubTexture name="diamond man left0006" x="4888" y="0" width="1222" height="1964"/>
+	<SubTexture name="diamond man left0007" x="4888" y="0" width="1222" height="1964"/>
+	<SubTexture name="diamond man left0008" x="4888" y="0" width="1222" height="1964"/>
+	<SubTexture name="diamond man left0009" x="4888" y="0" width="1222" height="1964"/>
+	<SubTexture name="diamond man up0000" x="6110" y="0" width="1222" height="1964"/>
+	<SubTexture name="diamond man up0001" x="6110" y="0" width="1222" height="1964"/>
+	<SubTexture name="diamond man up0002" x="0" y="1964" width="1222" height="1964"/>
+	<SubTexture name="diamond man up0003" x="0" y="1964" width="1222" height="1964"/>
+	<SubTexture name="diamond man up0004" x="0" y="1964" width="1222" height="1964"/>
+	<SubTexture name="diamond man up0005" x="0" y="1964" width="1222" height="1964"/>
+	<SubTexture name="diamond man up0006" x="0" y="1964" width="1222" height="1964"/>
+	<SubTexture name="diamond man up0007" x="0" y="1964" width="1222" height="1964"/>
+	<SubTexture name="diamond man up0008" x="0" y="1964" width="1222" height="1964"/>
+	<SubTexture name="diamond man up0009" x="0" y="1964" width="1222" height="1964"/>
+	<SubTexture name="diamond right0000" x="1222" y="1964" width="1893" height="1731"/>
+	<SubTexture name="diamond right0001" x="1222" y="1964" width="1893" height="1731"/>
+	<SubTexture name="diamond right0002" x="3115" y="1964" width="1716" height="1731" frameX="-15" frameY="0" frameWidth="1893" frameHeight="1731"/>
+	<SubTexture name="diamond right0003" x="3115" y="1964" width="1716" height="1731" frameX="-15" frameY="0" frameWidth="1893" frameHeight="1731"/>
+	<SubTexture name="diamond right0004" x="3115" y="1964" width="1716" height="1731" frameX="-15" frameY="0" frameWidth="1893" frameHeight="1731"/>
+	<SubTexture name="diamond right0005" x="3115" y="1964" width="1716" height="1731" frameX="-15" frameY="0" frameWidth="1893" frameHeight="1731"/>
+	<SubTexture name="diamond right0006" x="3115" y="1964" width="1716" height="1731" frameX="-15" frameY="0" frameWidth="1893" frameHeight="1731"/>
+	<SubTexture name="diamond right0007" x="3115" y="1964" width="1716" height="1731" frameX="-15" frameY="0" frameWidth="1893" frameHeight="1731"/>
+	<SubTexture name="diamond right0008" x="3115" y="1964" width="1716" height="1731" frameX="-15" frameY="0" frameWidth="1893" frameHeight="1731"/>
+	<SubTexture name="diamond right0009" x="3115" y="1964" width="1716" height="1731" frameX="-15" frameY="0" frameWidth="1893" frameHeight="1731"/>
+</TextureAtlas>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FUTUREDAVE_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry future dave subversive portrait0000" x="0" y="0" width="353" height="362" frameX="0" frameY="-26" frameWidth="385" frameHeight="388"/>
+	<SubTexture name="angry future dave subversive portrait0001" x="353" y="0" width="353" height="362" frameX="-15" frameY="-14" frameWidth="385" frameHeight="388"/>
+	<SubTexture name="angry future dave subversive portrait0002" x="706" y="0" width="353" height="362" frameX="-20" frameY="-9" frameWidth="385" frameHeight="388"/>
+	<SubTexture name="angry future dave subversive portrait0003" x="1059" y="0" width="353" height="362" frameX="-24" frameY="-6" frameWidth="385" frameHeight="388"/>
+	<SubTexture name="angry future dave subversive portrait0004" x="1412" y="0" width="353" height="362" frameX="-27" frameY="-4" frameWidth="385" frameHeight="388"/>
+	<SubTexture name="angry future dave subversive portrait0005" x="0" y="362" width="353" height="362" frameX="-29" frameY="-2" frameWidth="385" frameHeight="388"/>
+	<SubTexture name="angry future dave subversive portrait0006" x="353" y="362" width="353" height="362" frameX="-30" frameY="-1" frameWidth="385" frameHeight="388"/>
+	<SubTexture name="angry future dave subversive portrait0007" x="706" y="362" width="353" height="362" frameX="-31" frameY="0" frameWidth="385" frameHeight="388"/>
+	<SubTexture name="angry future dave subversive portrait0008" x="1059" y="362" width="353" height="361" frameX="-32" frameY="0" frameWidth="385" frameHeight="388"/>
+	<SubTexture name="angry future dave subversive portrait0009" x="1412" y="362" width="353" height="361" frameX="-32" frameY="0" frameWidth="385" frameHeight="388"/>
+	<SubTexture name="future dave subversive portrait0000" x="0" y="724" width="387" height="363" frameX="0" frameY="-27" frameWidth="431" frameHeight="390"/>
+	<SubTexture name="future dave subversive portrait0001" x="387" y="724" width="387" height="364" frameX="-20" frameY="-14" frameWidth="431" frameHeight="390"/>
+	<SubTexture name="future dave subversive portrait0002" x="774" y="724" width="388" height="364" frameX="-27" frameY="-10" frameWidth="431" frameHeight="390"/>
+	<SubTexture name="future dave subversive portrait0003" x="1162" y="724" width="387" height="364" frameX="-33" frameY="-7" frameWidth="431" frameHeight="390"/>
+	<SubTexture name="future dave subversive portrait0004" x="1549" y="724" width="387" height="364" frameX="-36" frameY="-4" frameWidth="431" frameHeight="390"/>
+	<SubTexture name="future dave subversive portrait0005" x="0" y="1088" width="387" height="364" frameX="-39" frameY="-3" frameWidth="431" frameHeight="390"/>
+	<SubTexture name="future dave subversive portrait0006" x="387" y="1088" width="387" height="363" frameX="-41" frameY="-2" frameWidth="431" frameHeight="390"/>
+	<SubTexture name="future dave subversive portrait0007" x="774" y="1088" width="388" height="363" frameX="-42" frameY="-1" frameWidth="431" frameHeight="390"/>
+	<SubTexture name="future dave subversive portrait0008" x="1162" y="1088" width="387" height="364" frameX="-43" frameY="0" frameWidth="431" frameHeight="390"/>
+	<SubTexture name="future dave subversive portrait0009" x="1549" y="1088" width="387" height="364" frameX="-44" frameY="0" frameWidth="431" frameHeight="390"/>
+</TextureAtlas>

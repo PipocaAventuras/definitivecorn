@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MAILBAMB_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mailbamb pipebomb portrait0000" x="0" y="0" width="257" height="300" frameX="0" frameY="-32" frameWidth="298" frameHeight="332"/>
+	<SubTexture name="mailbamb pipebomb portrait0001" x="257" y="0" width="257" height="301" frameX="-19" frameY="-17" frameWidth="298" frameHeight="332"/>
+	<SubTexture name="mailbamb pipebomb portrait0002" x="514" y="0" width="258" height="301" frameX="-25" frameY="-11" frameWidth="298" frameHeight="332"/>
+	<SubTexture name="mailbamb pipebomb portrait0003" x="772" y="0" width="258" height="300" frameX="-30" frameY="-8" frameWidth="298" frameHeight="332"/>
+	<SubTexture name="mailbamb pipebomb portrait0004" x="1030" y="0" width="258" height="301" frameX="-33" frameY="-5" frameWidth="298" frameHeight="332"/>
+	<SubTexture name="mailbamb pipebomb portrait0005" x="1288" y="0" width="258" height="301" frameX="-36" frameY="-3" frameWidth="298" frameHeight="332"/>
+	<SubTexture name="mailbamb pipebomb portrait0006" x="1546" y="0" width="258" height="301" frameX="-38" frameY="-1" frameWidth="298" frameHeight="332"/>
+	<SubTexture name="mailbamb pipebomb portrait0007" x="0" y="301" width="258" height="301" frameX="-39" frameY="0" frameWidth="298" frameHeight="332"/>
+	<SubTexture name="mailbamb pipebomb portrait0008" x="258" y="301" width="258" height="300" frameX="-40" frameY="0" frameWidth="298" frameHeight="332"/>
+	<SubTexture name="mailbamb pipebomb portrait0009" x="516" y="301" width="258" height="300" frameX="-40" frameY="0" frameWidth="298" frameHeight="332"/>
+</TextureAtlas>
