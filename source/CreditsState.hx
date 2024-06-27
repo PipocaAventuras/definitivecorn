@@ -30,7 +30,7 @@ class CreditsState extends MusicBeatState
 		['Ben',                'ben',		    'Director, Coder, Composer, Artist, Animator , Charter and Portuguese Translator','https://twitter.com/PipocaAventuras',                        0xFF4494E6],
 		['poopypants839',	   'taw',           'Director, Composer, Artist, Animator and Charter',	                              '',                                                           0xFF0026FF],
 		['geby',		       'gb',		    'Composer, Artist, Animator and Charter',		                                  'https://twitter.com/estevs66',	                            0xFF53B7D8],
-        ['Spike',		       'spike',         'Animator and Ideas',		                                                      'https://twitter.com/SHdgehog',	                            0xFFFFBF00],	
+        ['spikolol',		   'spike',         'Animator and Ideas',		                                                      'https://twitter.com/SHdgehog',	                            0xFFFFBF00],	
         ['Praga Infernal',     'beanz',         'Leo Creator, Modeler and Portuguese Translator',	                              'https://twitter.com/PragaInfernal',	                        0xFF803DC4],	
 		['Noxius',	           'anzol',	        'Ideas and Niles Creator',				                                          'https://twitter.com/noxius1301',	                            0xFF4827A5],
 		['Xolote',		       'xgui',	        'Plambi Creator and Ideas',				                                          'https://twitter.com/XGuilherme100',	                        0xFF0058FF],

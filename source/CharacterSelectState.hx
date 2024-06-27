@@ -725,7 +725,7 @@ class CharacterSelectState extends MusicBeatState
 			case 'ogbf':
 				char.y = 100;
 				char.x = 100;
-			case 'bf-tech' | 'playable-ipdave' | 'lorejon-player':
+			case 'bf-tech' | 'playable-ipdave' | 'lorejon-player' | 'niles-lore':
 				char.y = 200;
 			case 'bf_shit':
 				char.y = 200;
@@ -795,7 +795,10 @@ class CharacterSelectState extends MusicBeatState
 			case "leo-player":
 			    char.y = -250;
 				char.x = -180;
-			case 'gentleman-player' | 'bastard-player':
+			case 'gentleman-player':
+			    char.y = 0;
+				char.x = -50;
+			case 'bastard-player':
 				char.y = 0;
 				char.x = 0;
 			case 'bastard-phantasm':
@@ -821,6 +824,45 @@ class CharacterSelectState extends MusicBeatState
 				char.x = -375;
 			case 'jonparoxeie-player':
 			    char.y = 0;
+			case 'niles-player' | 'nilesdangerous-player':
+				char.y = 380;
+			case 'flombi-player' | 'plant-player':
+				char.y = 0;
+				char.x = 300;
+			case 'speedu-player':
+				char.x = 500;
+				char.y = 400;
+			case 'speeduexe-player':
+			    char.y = 400;
+				char.x = 550;
+			case 'miles-player' | 'smartscientist-player':
+			    char.x = 500;
+			case 'puncher-player':
+			    char.y = 350;
+				char.x = 600;
+			case 'agronomist-dave':
+			    char.y = 100;
+				char.x = 450;
+			case 'futuredave-player' | 'angryfuturedave-player':
+			    char.y = -50;
+				char.x = 400;
+			case 'untmarcello-player':
+				char.x = 725;
+				char.y = 200;
+		    case 'gottasleep20-player':
+			    char.x = 600;
+			case 'monotor0-player':
+			    char.y = 100;
+				char.x = 600;
+			case 'daveson-player':
+			    char.y = 100;
+				char.x = 650;
+			case 'silverman-player':
+			    char.y = 100;
+				char.x = 150;
+			case 'sam-player':
+			    char.y = 400;
+				char.x = 550;
 		}
 		add(char);
 		funnyIconMan.animation.play(char.curCharacter);

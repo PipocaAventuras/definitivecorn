@@ -386,7 +386,7 @@ class TitleState extends MusicBeatState
 		    case 1:
 				createCoolText([LanguageManager.getTextString('title_created')], 45);
 			case 3:
-				addMoreText('Webby\nNoname\nXolote', 45);
+				addMoreText('Webby\nNoname\nspikolol', 45);
 			case 4:
 				deleteCoolText();
 			case 5:

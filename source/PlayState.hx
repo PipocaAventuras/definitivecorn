@@ -3272,10 +3272,10 @@ class PlayState extends MusicBeatState
 				    subtitleManager.addSubtitle(LanguageManager.getTextString('subversive_sub22'), 0.01, 1.2);
 					makeInvisibleNotes(false);
 				case 10913:
-				    FlxG.camera.flash(FlxColor.WHITE, 2);
 					nodesk.visible = false;
 					desk.visible = false;
 				case 10914:
+				    FlxG.camera.flash(FlxColor.WHITE, 2);
 				    cinema.visible = true;
 					defaultCamZoom = 0.75;
 					makeInvisibleNotes(true);
@@ -5296,7 +5296,7 @@ class PlayState extends MusicBeatState
 
 				var deathSkinCheck = formoverride == "bf" || formoverride == "none" ? SONG.player1 : formoverride;
 
-				openSubState(new GameOverSubstate(boyfriend.getScreenPosition().x, boyfriend.getScreenPosition().y, deathSkinCheck));
+				openSubState(new GameOverSubstate(boyfriend.getScreenPosition().x, boyfriend.getScreenPosition().y, camFollowPos.x, camFollowPos.y, this));
 				
 				for (tween in modchartTweens) {
 					tween.active = true;
@@ -5391,7 +5391,6 @@ class PlayState extends MusicBeatState
 						case 1:
 							FlxTween.tween(camHUD, {alpha: 0}, 0.7, {ease: FlxEase.quadInOut});
 					}
-
 			case 'Add Camera Zoom':
 				if(ClientPrefs.camZooms && FlxG.camera.zoom < 1.35) {
 					var camZoom:Float = Std.parseFloat(value1);
