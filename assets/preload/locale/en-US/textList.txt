@@ -61,7 +61,7 @@ credits_Noname==Idea of the Mod, Jon Creator and Supporter
 credits_Ben==Director, Coder, Composer, Artist, Animator, Charter and Portuguese Translator
 credits_poopypants839==Director, Composer, Artist, Animator and Charter
 credits_geby==Composer, Artist, Animator and Charter
-credits_Spike==Animator and Ideas
+credits_spikolol==Animator and Ideas
 credits_Praga Infernal==Leo Creator, Modeler and Portuguese Translator
 credits_Noxius==Ideas and Niles Creator
 credits_Xolote==Plambi Creator and Ideas

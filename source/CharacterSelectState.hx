@@ -725,17 +725,14 @@ class CharacterSelectState extends MusicBeatState
 			case 'ogbf':
 				char.y = 100;
 				char.x = 100;
-			case 'bf-tech' | 'playable-ipdave' | 'lorejon-player' | 'niles-lore':
+			case 'bf-tech' | 'playable-ipdave' | 'lorejon-player' | 'niles-lore' | 'tech-player' | 'missasshold-player' | 'umus-player' | 'murilo-player' | 'spike' | 'spike-rock':
 				char.y = 200;
-			case 'bf_shit':
+			case 'bf_shit' | 'binefraft':
 				char.y = 200;
 				char.x = 400;
 			case 'bf-pad':
 				char.y = 400;
 				char.x = 500;
-			case 'binefraft':
-				char.y = 200;
-				char.x = 400;
 			case 'bambi-player' | 'screwedbambi-player':
 			    char.y = 350;
 			case 'playable-probabilitybambi':
@@ -759,7 +756,7 @@ class CharacterSelectState extends MusicBeatState
 				char.y = 100;
 			case 'dave3d-player':
 			    char.y = -100;
-			case 'strawmandave-player':
+			case 'strawmandave-player' | 'jonparoxeie-player':
 			    char.y = 0;
 			case 'gnomo-player' | 'spkkkkbambi-player' | 'pumpkinbambi-player':
 			    char.y = 400;
@@ -771,7 +768,7 @@ class CharacterSelectState extends MusicBeatState
 				char.y = 400;
 			case 'davekun-player' | 'dave_plays':
 			    char.y = 100;
-			case "tristan-player" | 'goldentristan-player':
+			case "tristan-player" | 'goldentristan-player' | 'bmabii-player' | 'vandley-player' | 'oldspike':
 				char.y = 250;
 			case 'pumpkintristan-player':
 			    char.y = 150;
@@ -781,7 +778,7 @@ class CharacterSelectState extends MusicBeatState
 			case '2dbunda-player':
 			    char.y = 200;
 				char.x = 530;
-			case 'plambi-player':
+			case 'plambi-player' | 'jollysamny-player' | 'baldi-player':
 			    char.y = -50;
 			case 'jollyplambi-player':
 			    char.y = 0;
@@ -822,8 +819,6 @@ class CharacterSelectState extends MusicBeatState
 			case 'jon-player' | 'madjon-player':
 			    char.y = -450;
 				char.x = -375;
-			case 'jonparoxeie-player':
-			    char.y = 0;
 			case 'niles-player' | 'nilesdangerous-player':
 				char.y = 380;
 			case 'flombi-player' | 'plant-player':
@@ -863,6 +858,100 @@ class CharacterSelectState extends MusicBeatState
 			case 'sam-player':
 			    char.y = 400;
 				char.x = 550;
+			case 'poopina-player':
+			    char.y = -100;
+				char.x = 225;
+			case 'frog-player':
+			    char.y = 500;
+			case 'feet':
+			    char.y = -650;
+				char.x = 50;
+			case 'thembo-player':
+			    char.x = 400;
+				char.y = -150;
+			case 'gambo-player':
+			    char.x = 200;
+				char.y = -150;
+			case 'baker-player':
+			    char.y = 0;
+				char.x = 150;
+	        case 'crumbansu-player':
+			    char.y = -100;
+			case 'eba-player':
+			    char.y = -20;
+				char.x = 250;
+			case 'samny-player':
+			    char.y = 0;
+				char.x = 480;
+			case 'bambichu-player':
+			    char.y = 10;
+				char.x = 300;
+			case 'angrybambichu-player':
+			    char.x = 300;
+				char.y = 100;
+			case 'pempe-player':
+			    char.y = -1225;
+				char.x = -1150;
+			case 'blomquo-player':
+			    char.y = 150;
+			case 'talkblomquo-player':
+			    char.x = 525;
+			case 'vanderley-player':
+			    char.x = 350;
+			case 'pizzagod-player':
+			    char.y = 100;
+			case 'pizzagodness-player':
+				char.y = 75;
+			case 'brandel-player':
+			    char.y = 100;
+			    char.x = 350;
+			case 'damevy-player':
+			    char.y = 100;
+				char.x = 450;
+			case 'ron-player':
+			    char.y = 100;
+				char.x = 400;
+			case 'bombles':
+			    char.y = 150;
+				char.x = 650;
+			case 'bob':
+			    char.y = 200;
+				char.x = 350;
+			case 'lauturninho-player':
+			    char.y = 250;
+				char.x = 350;
+			case 'sproya-player':
+			    char.x = 400;
+				char.y = 50;
+			case 'moldy':
+			    char.x = 575;
+				char.y = 250;
+			case 'robinson-player':
+			    char.x = 500;
+				char.y = 0;
+			case 'peppino-player':
+			    char.y = 100;
+				char.x = 300;
+			case 'diamondmantalkative-player':
+			    char.y = 500;
+			case 'expungediscord-player':
+			    char.y = 500;
+				char.x = 475;
+			case 'gustavo.mpeg':
+			    char.y = -50;
+				char.x = 300;
+			case 'bmabi-player':
+			    char.y = 425;
+				char.x = 450;
+			case 'spongebob':
+			    char.y = 50;
+				char.x = 350;
+			case 'sansinojr':
+                char.y = 200;
+				char.x = 350;
+			case 'manbi-player':
+			    char.x = 400;
+				char.y = 350;
 		}
 		add(char);
 		funnyIconMan.animation.play(char.curCharacter);

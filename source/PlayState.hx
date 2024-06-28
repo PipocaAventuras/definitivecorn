@@ -216,60 +216,60 @@ class PlayState extends MusicBeatState
     var cornFence2:FlxSprite = new FlxSprite(1100, 200).loadGraphic(Paths.image('cornFence2'));
     var cornBag:FlxSprite = new FlxSprite(1200, 550).loadGraphic(Paths.image('cornbag'));
     var sign:FlxSprite = new FlxSprite(0, 350).loadGraphic(Paths.image('sign'));
-    var bg2:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('probability_bg'));
-	var bgp2:FlxSprite = new FlxSprite().loadGraphic(Paths.image('p_bg2'));
-	var davey:FlxSprite = new FlxSprite().loadGraphic(Paths.image('subversive/mainHallway'));
-	var YCTP:FlxSprite = new FlxSprite().loadGraphic(Paths.image('subversive/YCTP'));
-	var BGhallwayChase:FlxSprite;
-	var hallwayChase:FlxSprite;
-	var imseeingthelocker:FlxSprite = new FlxSprite().loadGraphic(Paths.image('subversive/imseeingthelocker'));
-	var detention:FlxSprite = new FlxSprite(-350, -20).loadGraphic(Paths.image('subversive/detention'));
-	var silverManHallway:FlxSprite = new FlxSprite(380, -30).loadGraphic(Paths.image('subversive/silverManHallway'));
-	var silva:FlxSprite = new FlxSprite(-450, 0).loadGraphic(Paths.image('subversive/silva'));
-	var nodesk:FlxSprite = new FlxSprite(850, 0).loadGraphic(Paths.image('subversive/nodesk'));
-	var desk:FlxSprite = new FlxSprite(1000, 100).loadGraphic(Paths.image('subversive/desk'));
-	var cinema:FlxSprite = new FlxSprite(-500, -500).loadGraphic(Paths.image('subversive/cinema'));
-	var bgg2:FlxSprite = new FlxSprite().loadGraphic(Paths.image('funspookybattle_bg2'));
-	var bg1:FlxSprite = new FlxSprite().loadGraphic(Paths.image('funspookybattle_bg1'));
-	var black:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('the'));
-	var fino:FlxSprite = new FlxSprite(-661, -754).loadGraphic(Paths.image('nomeindefinido/fino_bg'));
-	var sproya:FlxSprite = new FlxSprite(500, -350).loadGraphic(Paths.image('nomeindefinido/sproya_background'));
-	var maize:FlxSprite = new FlxSprite(500, -400).loadGraphic(Paths.image('nomeindefinido/scrappedteam_bg'));
-	var sky:FlxSprite = new FlxSprite(-600, -300).loadGraphic(Paths.image('sky_night'));
-	var sunset:FlxSprite = new FlxSprite(-600, -300).loadGraphic(Paths.image('sky_sunset'));
-	var fancy:FlxSprite = new FlxSprite(500, -400).loadGraphic(Paths.image('nomeindefinido/fancy_bg'));
-	var bmabi:FlxSprite = new FlxSprite(500, -700).loadGraphic(Paths.image('nomeindefinido/bmabi_bg'));
-	var comercial:FlxSprite = new FlxSprite(500, -400).loadGraphic(Paths.image('nomeindefinido/marcellofight'));
-	var flipaclip:FlxSprite = new FlxSprite(500, -400).loadGraphic(Paths.image('nomeindefinido/flipaclip_bg'));
-	var paroxeie:FlxSprite = new FlxSprite(950, -350).loadGraphic(Paths.image('nomeindefinido/fnafiscool'));
-	var white:FlxSprite = new FlxSprite(300, -700).loadGraphic(Paths.image('white'));
-	var discord:FlxSprite = new FlxSprite(700, -400).loadGraphic(Paths.image('nomeindefinido/fnafiscool'));
-	var sansino:FlxSprite = new FlxSprite(500, -700).loadGraphic(Paths.image('nomeindefinido/sansinoBg'));
-	var solanabota:FlxSprite = new FlxSprite(700, 100).loadGraphic(Paths.image('nomeindefinido/manbi_bg'));
-	var EEEVILhallwayChase:FlxSprite;
-	var EvilhallwayChase:FlxSprite;
-	var exesky:FlxSprite = new FlxSprite(-1000, -250).loadGraphic(Paths.image('exe_sky'));
-	var evil:FlxSprite = new FlxSprite(0, 350).loadGraphic(Paths.image('spindashin_bg2'));
-	var fleet:FlxSprite = new FlxSprite().loadGraphic(Paths.image('fleet'));
-	var fet:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('asfalto_feet'));
-	var bgcar:FlxSprite = new FlxSprite(-800, -320).loadGraphic(Paths.image('motocycle_bg_car'));
-	var redsky:FlxSprite = new FlxSprite(-900, -200).loadGraphic(Paths.image('redsky'));
-	var scary:FlxSprite = new FlxSprite(-500, -400).loadGraphic(Paths.image('insaneyt'));
-	var bgr:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('reminiscence_bg'));
-	var bgr2:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('reminiscence_bg2'));
-	var future:FlxSprite = new FlxSprite(-300, 0).loadGraphic(Paths.image('subvercial_bg'));
-	var bob:FlxSprite = new FlxSprite(-700, -200).loadGraphic(Paths.image('agronomistv71961_bg2'));
-	var gb:BGSprite;
-	var perk:BGSprite;
-	var webby:BGSprite;
-	var staticscr:BGSprite;
-	var car1:BGSprite;
-	var car2:BGSprite;
-	var alice:BGSprite;
-	var awa:BGSprite;
-	var plambiradical:BGSprite;
-	var mataramoplambi:BGSprite;
-	var xmas:BGSprite;
+    public var bg2:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('probability_bg'));
+	public var bgp2:FlxSprite = new FlxSprite().loadGraphic(Paths.image('p_bg2'));
+	public var davey:FlxSprite = new FlxSprite().loadGraphic(Paths.image('subversive/mainHallway'));
+	public var YCTP:FlxSprite = new FlxSprite().loadGraphic(Paths.image('subversive/YCTP'));
+	public var BGhallwayChase:FlxSprite;
+	public var hallwayChase:FlxSprite;
+	public var imseeingthelocker:FlxSprite = new FlxSprite().loadGraphic(Paths.image('subversive/imseeingthelocker'));
+	public var detention:FlxSprite = new FlxSprite(-350, -20).loadGraphic(Paths.image('subversive/detention'));
+	public var silverManHallway:FlxSprite = new FlxSprite(380, -30).loadGraphic(Paths.image('subversive/silverManHallway'));
+	public var silva:FlxSprite = new FlxSprite(-450, 0).loadGraphic(Paths.image('subversive/silva'));
+	public var nodesk:FlxSprite = new FlxSprite(850, 0).loadGraphic(Paths.image('subversive/nodesk'));
+	public var desk:FlxSprite = new FlxSprite(1000, 100).loadGraphic(Paths.image('subversive/desk'));
+	public var cinema:FlxSprite = new FlxSprite(-500, -500).loadGraphic(Paths.image('subversive/cinema'));
+	public var bgg2:FlxSprite = new FlxSprite().loadGraphic(Paths.image('funspookybattle_bg2'));
+	public var bg1:FlxSprite = new FlxSprite().loadGraphic(Paths.image('funspookybattle_bg1'));
+	public var black:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('the'));
+	public var fino:FlxSprite = new FlxSprite(-661, -754).loadGraphic(Paths.image('nomeindefinido/fino_bg'));
+	public var sproya:FlxSprite = new FlxSprite(500, -350).loadGraphic(Paths.image('nomeindefinido/sproya_background'));
+	public var maize:FlxSprite = new FlxSprite(500, -400).loadGraphic(Paths.image('nomeindefinido/scrappedteam_bg'));
+	public var sky:FlxSprite = new FlxSprite(-600, -300).loadGraphic(Paths.image('sky_night'));
+	public var sunset:FlxSprite = new FlxSprite(-600, -300).loadGraphic(Paths.image('sky_sunset'));
+	public var fancy:FlxSprite = new FlxSprite(500, -400).loadGraphic(Paths.image('nomeindefinido/fancy_bg'));
+	public var bmabi:FlxSprite = new FlxSprite(500, -700).loadGraphic(Paths.image('nomeindefinido/bmabi_bg'));
+	public var comercial:FlxSprite = new FlxSprite(500, -400).loadGraphic(Paths.image('nomeindefinido/marcellofight'));
+	public var flipaclip:FlxSprite = new FlxSprite(500, -400).loadGraphic(Paths.image('nomeindefinido/flipaclip_bg'));
+	public var paroxeie:FlxSprite = new FlxSprite(950, -350).loadGraphic(Paths.image('nomeindefinido/fnafiscool'));
+	public var white:FlxSprite = new FlxSprite(300, -700).loadGraphic(Paths.image('white'));
+	public var discord:FlxSprite = new FlxSprite(700, -400).loadGraphic(Paths.image('nomeindefinido/fnafiscool'));
+	public var sansino:FlxSprite = new FlxSprite(500, -700).loadGraphic(Paths.image('nomeindefinido/sansinoBg'));
+	public var solanabota:FlxSprite = new FlxSprite(700, 100).loadGraphic(Paths.image('nomeindefinido/manbi_bg'));
+	public var EEEVILhallwayChase:FlxSprite;
+	public var EvilhallwayChase:FlxSprite;
+	public var exesky:FlxSprite = new FlxSprite(-1000, -250).loadGraphic(Paths.image('exe_sky'));
+	public var evil:FlxSprite = new FlxSprite(0, 350).loadGraphic(Paths.image('spindashin_bg2'));
+	public var fleet:FlxSprite = new FlxSprite().loadGraphic(Paths.image('fleet'));
+	public var fet:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('asfalto_feet'));
+	public var bgcar:FlxSprite = new FlxSprite(-800, -320).loadGraphic(Paths.image('motocycle_bg_car'));
+	public var redsky:FlxSprite = new FlxSprite(-900, -200).loadGraphic(Paths.image('redsky'));
+	public var scary:FlxSprite = new FlxSprite(-500, -400).loadGraphic(Paths.image('insaneyt'));
+	public var bgr:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('reminiscence_bg'));
+	public var bgr2:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('reminiscence_bg2'));
+	public var future:FlxSprite = new FlxSprite(-300, 0).loadGraphic(Paths.image('subvercial_bg'));
+	public var bob:FlxSprite = new FlxSprite(-700, -200).loadGraphic(Paths.image('agronomistv71961_bg2'));
+	public var gb:BGSprite;
+	public var perk:BGSprite;
+	public var webby:BGSprite;
+	public var staticscr:BGSprite;
+	public var car1:BGSprite;
+	public var car2:BGSprite;
+	public var alice:BGSprite;
+	public var awa:BGSprite;
+	public var plambiradical:BGSprite;
+	public var mataramoplambi:BGSprite;
+	public var xmas:BGSprite;
 
 	var emojiTeleporter:FlxSprite;
 	var fancyFrame:FlxSprite;
@@ -468,7 +468,6 @@ class PlayState extends MusicBeatState
 
 			case 'electronic': //Electronic
 				var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('electronic_bg'));
-				bg.antialiasing = true;
 				bg.scrollFactor.set(0.9, 0.9);
 				bg.active = true;
 
@@ -484,7 +483,6 @@ class PlayState extends MusicBeatState
 
 			case 'deeznutsv2': //Deez Nuts v2
 				var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('deeznutsv2_bg'));
-				bg.antialiasing = true;
 				bg.scrollFactor.set(0.9, 0.9);
 				bg.active = true;
 				add(bg);
@@ -507,12 +505,10 @@ class PlayState extends MusicBeatState
 
 			case 'confrontation': //Confrontation
 				var bg:FlxSprite = new FlxSprite(1430, -200).loadGraphic(Paths.image('probability_bg'));
-				bg.antialiasing = true;
 				bg.active = true;
 				add(bg);
 
 				var bg2:FlxSprite = new FlxSprite(-1130, -200).loadGraphic(Paths.image('electronic_bg'));
-				bg.antialiasing = true;
 				bg.active = true;
 				add(bg2);
 
@@ -781,7 +777,6 @@ class PlayState extends MusicBeatState
 			
 			case 'pooped': //Pooped
 				var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('pooped_bg'));
-				bg.antialiasing = true;
 				bg.scrollFactor.set(0.9, 0.9);
 				bg.active = true;
 				add(bg);
@@ -796,7 +791,6 @@ class PlayState extends MusicBeatState
 			
 			case 'probability': //Probability
 				var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('probability_bg'));
-				bg.antialiasing = true;
 				bg.scrollFactor.set(0.9, 0.9);
 				bg.active = true;
 				add(bg);
@@ -887,7 +881,6 @@ class PlayState extends MusicBeatState
 
 			case 'rage': //Rage
 				var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('rage_bg'));
-				bg.antialiasing = true;
 				bg.scrollFactor.set(0.9, 0.9);
 				bg.active = true;
 				bg.setGraphicSize(Std.int(bg.width * 1.8));
@@ -908,7 +901,6 @@ class PlayState extends MusicBeatState
 		    
 			case 'trains': //Trains
 				var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('trains_bg'));
-				bg.antialiasing = true;
 				bg.scrollFactor.set(0.9, 0.9);
 				bg.active = true;
 				add(bg);

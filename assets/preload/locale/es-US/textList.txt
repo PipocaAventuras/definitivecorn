@@ -61,7 +61,7 @@ credits_Noname==Tuvo la idea del mod, Creador de Jon y Apoyo
 credits_Ben==Director, Coder, Compositor, Artista, Animador, Charter y Traduccion Portuguesa
 credits_poopypants839==Director, Compositor, Artista, Animador y Charter
 credits_geby==Compositor, Artista, Animador y Charter
-credits_Spike==Animador y Ideas
+credits_spikolol==Animador y Ideas
 credits_Praga Infernal==Creadora de Leo, Modeler y Traduccion Portuguesa
 credits_Noxius==Ideas y Creador de Niles
 credits_Xolote==Creador de Plambi y Ideas
