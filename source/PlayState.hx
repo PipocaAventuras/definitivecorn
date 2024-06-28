@@ -3266,8 +3266,8 @@ class PlayState extends MusicBeatState
 				case 10913:
 					nodesk.visible = false;
 					desk.visible = false;
+					FlxG.camera.flash(FlxColor.WHITE, 2);
 				case 10914:
-				    FlxG.camera.flash(FlxColor.WHITE, 2);
 				    cinema.visible = true;
 					defaultCamZoom = 0.75;
 					makeInvisibleNotes(true);
