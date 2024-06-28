@@ -19,7 +19,7 @@ mustard_credit==OC criado por MatZap!
 reminiscence_credit==OC criado por TotallyNotKaz, controlado por Luan!
 cookiedough_credit==OC criado por Kamari8!
 vacation_credit==OC criado por OctoStar!
-oblique_credit==OC criado por Joojador Legal!
+oblique_credit==OC criado por JooJ Dumwell!
 
 cur_language==Idioma Atual
 en-US==Inglês
