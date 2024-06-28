@@ -142,7 +142,7 @@ option_hidehudTxt==Se marcado, oculta a maioria dos elementos do HUD.
 option_cutscenesTxt==Cenas para a historia.
 option_hitsoundTxt==Notas engraçadas fazem "Tick!" quando você acerta elas.
 option_songlengthTxt==Se marcado, a barra que mostra quanto tempo a musica resta ficará oculta.
-option_
+option_==
 
 // Maize Subtitles //
 maize_sub1==Quer dizer...
@@ -162,11 +162,11 @@ maize_sub12==Nunca mais volte.
 probability_sub1==CALA A BOCA!
 probability_sub2==PARA
 probability_sub3==DE
-probability_sub3-censored
+probability_sub3-censored==DE
 probability_sub4==ME LIGAR!!!
 probability_sub5==AH! MAS QUE!
 probability_sub6==MERDA!
-probability_sub6-censored
+probability_sub6-censored==
 probability_sub7==É ISSO!
 probability_sub8==EU VOU MOSTRAR MEU
 probability_sub9==PINTO!

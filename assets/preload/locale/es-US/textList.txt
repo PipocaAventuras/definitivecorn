@@ -143,7 +143,7 @@ option_hidehudTxt==Si esta seleccionado, no mostrara la mayoria de HUD
 option_cutscenesTxt==Animaciones en las canciones.
 option_hitsoundTxt==Las notas suenan cada vez que las pulsas
 option_songlengthTxt==Si esta seleccionado, no se vera el contador de minutos de la cancion.
-option_
+option_==
 
 // Maize Subtitles //
 maize_sub1==Digo...

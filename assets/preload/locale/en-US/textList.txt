@@ -143,7 +143,7 @@ option_hidehudTxt==If checked, hides most HUD elements.
 option_cutscenesTxt==Cutscenes for the story.
 option_hitsoundTxt==Funny notes does "Tick!" when you hit them.
 option_songlengthTxt==If checked, the bar showing how much time is left will be hidden.
-option_
+option_==
 
 // Maize Subtitles //
 maize_sub1==I mean...
@@ -163,11 +163,11 @@ maize_sub12==Never come back again.
 probability_sub1==SHUT UP!
 probability_sub2==STOP
 probability_sub3==FUCKING
-probability_sub3-censored
+probability_sub3-censored==
 probability_sub4==CALLING ME!!
 probability_sub5==OH! OH MY!
 probability_sub6==FUCK YOU!
-probability_sub6-censored
+probability_sub6-censored==
 probability_sub7==THAT'S IT
 probability_sub8==I WILL SHOW MY
 probability_sub9==DICK!
