@@ -73,12 +73,12 @@
 		160,
 		500
 	],
-	"healthicon": "dave-kun",
+	"healthicon": "discordkun",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		234,
-		235
+		5,
+		0,
+		156
 	],
 	"camera_position": [
 		-110,
